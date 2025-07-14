@@ -1,0 +1,801 @@
+index,Id,Fullname,Job_title,Department,Business_unit,Gender,Ethnicity,Age,Hiring_date,Annual_salary,Award,Country,City
+976,E02978,Gabriella Cruz,Analyst,Marketing,Specialized Products,Female,Latin,39,2020-08-13,76759,0.0,USA,Miami
+668,E02670,Dominic Cheng,Director,Engineering,Large Companies,Male,Asian,53,2015-06-19,168142,0.27,China,Beijing
+836,E02838,Maria Barnes,Analyst,Marketing,Large Companies,Female,Asian,64,2003-05-13,76506,0.0,USA,Austin
+479,E02481,Caroline Wong,Analyst,Accounting,Research and Development,Female,Asian,37,2017-03-08,40508,0.0,China,Beijing
+83,E02085,Anthony Baker,System Manager,IT,Production,Male,Asian,31,2021-06-03,99937,0.0,USA,Phoenix
+690,E02692,Charles Luu,Enterprise Engineer,IT,Large Companies,Male,Asian,34,2018-11-10,71808,0.0,China,Chengdu
+312,E02314,Sophie Griffin,Technical Engineer,Accounting,Research and Development,Female,Asian,56,2017-01-09,60517,0.0,USA,Columbus
+580,E02582,Maverick Howard,Enterprise Engineer,IT,Specialized Products,Male,Asian,25,2021-04-13,54353,0.0,USA,Chicago
+746,E02748,Sophia Collins,Cloud Infrastructure Engineer,IT,Specialized Products,Female,Asian,46,2022-01-08,69110,0.0,USA,Seattle
+999,E03001,Willow Taylor,Technical Engineer,Accounting,Large Companies,Female,Black,27,2021-02-08,51321,0.0,USA,Seattle
+801,E02803,Athena Aguilar,Analyst,Marketing,Large Companies,Female,Latin,25,2021-08-24,71222,0.0,Brazil,Manaus
+742,E02744,Hadley Chavez,Analyst,Accounting,Large Companies,Female,Latin,36,2020-06-28,54355,0.0,USA,Phoenix
+393,E02395,Jackson Sandoval,Analyst,Human Resources,Large Companies,Male,Latin,61,2011-01-26,73323,0.0,USA,Austin
+987,E02989,Jack Chin,Manager,Accounting,Large Companies,Male,Asian,44,2007-08-24,121788,0.13,USA,Phoenix
+258,E02260,Nicholas Zhou,Technical Engineer,Accounting,Production,Male,Asian,58,2014-10-28,85094,0.0,China,Chengdu
+45,E02047,Savannah Morales,Analyst,Marketing,Large Companies,Female,Latin,48,2005-01-26,71542,0.0,USA,Chicago
+708,E02710,Natalie Zheng,Control Engineer,IT,Production,Female,Asian,28,2019-06-21,61573,0.0,USA,Chicago
+783,E02785,Matthew Parker,Analyst,Accounting,Research and Development,Male,Asian,40,2021-09-15,59447,0.0,USA,Austin
+996,E02998,Eliza Bui,Analyst,Accounting,Large Companies,Female,Asian,63,2010-06-13,45337,0.0,USA,Seattle
+493,E02495,Ethan Vargas,Director,IT,Research and Development,Male,Latin,38,2018-10-09,168410,0.3,USA,Chicago
+786,E02788,Ella Herrera,Director,Marketing,Large Companies,Female,Latin,49,2013-02-08,156276,0.22,USA,Austin
+816,E02818,Christian Ayala,Technical Engineer,Accounting,Research and Development,Male,Latin,55,2003-09-28,74216,0.0,Brazil,Manaus
+658,E02660,Mia Thomas,Manager,Human Resources,Large Companies,Female,Asian,57,2013-05-17,122979,0.06,USA,Phoenix
+758,E02760,Owen Ford,Assistant,Human Resources,Large Companies,Male,Asian,37,2015-02-10,214782,0.32,USA,Chicago
+588,E02590,Aaron Munoz,Network Manager,IT,Production,Male,Latin,31,2021-06-13,60827,0.0,USA,Phoenix
+678,E02680,Santiago f Turner,Technical Engineer,Accounting,Research and Development,Male,Asian,46,2003-02-24,74912,0.0,USA,Phoenix
+213,E02215,Adrian Ngo,Enterprise Engineer,IT,Research and Development,Male,Asian,58,2021-09-19,85716,0.0,China,Chongqing
+847,E02849,Stella Castro,Test Engineer,Engineering,Large Companies,Female,Latin,53,2009-04-17,75060,0.0,USA,Columbus
+986,E02988,Caroline Rodriguez,Manager,Accounting,Large Companies,Female,Latin,61,1997-04-17,135561,0.13,Brazil,Manaus
+373,E02375,Nora Herrera,Assistant,Marketing,Specialized Products,Female,Latin,60,1997-12-24,231907,0.38,USA,Austin
+499,E02501,Victoria Doan,Manager,Accounting,Large Companies,Female,Asian,42,2018-03-06,112593,0.05,USA,Seattle
+248,E02250,Mila Han,Manager,Accounting,Production,Female,Asian,54,2009-11-14,128791,0.06,USA,Miami
+293,E02295,Gianna Park,Assistant,Accounting,Specialized Products,Female,Asian,28,2020-12-19,199406,0.38,China,Chengdu
+952,E02954,Caleb Mehta,Quality Engineer,Engineering,Specialized Products,Male,Asian,42,2015-05-14,93851,0.0,USA,Miami
+481,E02483,Caroline Nunez,Assistant,Accounting,Production,Female,Latin,65,2002-12-20,224872,0.39,Brazil,São Paulo
+214,E02216,Aria Juarez,Director,Accounting,Large Companies,Female,Latin,62,2011-07-30,185026,0.24,Brazil,Manaus
+193,E02195,Jameson Shin,Analyst,Marketing,Research and Development,Male,Asian,30,2020-05-14,76014,0.0,China,Chengdu
+849,E02851,Piper Evans,Manager,IT,Specialized Products,Female,Asian,52,2014-01-28,89379,0.1,USA,Seattle
+467,E02469,Isaac Cruz,Assistant,Human Resources,Specialized Products,Male,Latin,33,2018-05-09,187917,0.35,USA,Chicago
+421,E02423,Gianna Ramirez,Director,Engineering,Specialized Products,Female,Latin,59,1993-07-25,69245,0.0,USA,Phoenix
+206,E02208,Everett Lu,Manager,Marketing,Research and Development,Male,Asian,31,2021-11-28,115565,0.06,USA,Phoenix
+296,E02298,Ezekiel Kumar,Director,Engineering,Production,Male,Asian,33,2015-11-19,82906,0.0,China,Chengdu
+445,E02447,Ellie Fernandez,Quality Engineer,Engineering,Specialized Products,Female,Latin,62,2009-08-18,86805,0.0,USA,Austin
+785,E02787,Matthew Vargas,Manager,IT,Research and Development,Male,Latin,53,1999-05-24,150893,0.13,USA,Chicago
+42,E02044,آستین Chow,Assistant,Accounting,Production,Male,Asian,35,2021-04-11,180858,0.32,China,Chongqing
+272,E02274,Hunter Yi,Automation Engineer,Engineering,Large Companies,Male,Asian,55,2015-05-10,121976,0.0,China,Chongqing
+865,E02867,Avery Smith,Manager,Human Resources,Large Companies,Female,Asian,53,2008-06-27,147813,0.13,USA,Chicago
+600,E02602,Nevaeh Truong,Network Engineer,IT,Specialized Products,Female,Asian,55,2012-05-23,87857,0.0,USA,Austin
+880,E02882,Santiago f Wang,Manager,Accounting,Research and Development,Male,Asian,27,2021-08-09,133267,0.12,USA,Phoenix
+745,E02747,Gabriel Xu,Analyst,Accounting,Research and Development,Male,Asian,30,2018-10-13,52292,0.0,China,Chengdu
+75,E02077,Eva Chavez,Development Manager,IT,Specialized Products,Female,Latin,63,2004-01-17,83070,0.0,Brazil,São Paulo
+119,E02121,Sadie Singh,Director,Engineering,Specialized Products,Female,Asian,45,2022-03-16,182717,0.26,USA,Columbus
+492,E02494,Peyton Gomez,Analyst,Accounting,Specialized Products,Female,Latin,56,2020-01-14,42950,0.0,Brazil,Rio de Janeiro
+646,E02648,Jack Adams,System Manager,IT,Large Companies,Male,Black,50,2018-07-18,80350,0.0,USA,Miami
+763,E02765,Carter Sandoval,Assistant,IT,Production,Male,Latin,36,2021-03-11,253741,0.34,Brazil,Rio de Janeiro
+868,E02870,Clara Henderson,Assistant,Accounting,Production,Female,Asian,58,2016-10-23,203739,0.3,USA,Miami
+984,E02986,Henry Rogers,Technical Engineer,Accounting,Large Companies,Male,Asian,25,2021-05-05,72693,0.0,USA,Seattle
+819,E02821,Abigail Carter,Director,Human Resources,Research and Development,Female,Black,51,2015-01-12,178218,0.27,USA,Miami
+794,E02796,Hannah Nelson,Technical Engineer,Accounting,Production,Female,Asian,38,2022-05-24,60799,0.0,USA,Seattle
+967,E02969,Lydia Chu,Director,IT,Research and Development,Female,Asian,30,2021-10-03,154475,0.15,China,Chongqing
+811,E02813,Anthony Lam,Manager,Accounting,Specialized Products,Male,Asian,33,2015-02-07,133908,0.15,USA,Chicago
+165,E02167,Nolan Howard,Quality Engineer,Engineering,Research and Development,Male,Asian,26,2022-04-18,82963,0.0,USA,Austin
+553,E02555,Axel King,Automation Engineer,Engineering,Production,Male,Asian,46,2010-02-21,100757,0.0,USA,Chicago
+950,E02952,Emma Yu,Development Engineer,Engineering,Research and Development,Female,Asian,41,2005-08-13,73059,0.0,China,Shanghai
+907,E02909,Colton Grant,Analyst,Accounting,Production,Male,Asian,47,2011-01-07,93910,0.0,USA,Miami
+31,E02033,Axel Oh,Analyst,Accounting,Large Companies,Male,Asian,26,2020-10-24,84962,0.0,China,Chengdu
+627,E02629,Landon Ha,Manager,Accounting,Production,Male,Asian,43,2006-01-30,100822,0.1,China,Chongqing
+22,E02024,Serenity Cao,Technical Engineer,Accounting,Production,Female,Asian,31,2018-10-21,66721,0.0,China,Shanghai
+788,E02790,Hazel Mitchell,Control Engineer,IT,Specialized Products,Female,Asian,33,2020-11-04,81070,0.0,USA,Miami
+224,E02226,Jackson Wong,Analyst,Accounting,Research and Development,Male,Asian,58,2006-12-26,53133,0.0,China,Chengdu
+482,E02484,Carson Brown,Manager,Human Resources,Research and Development,Male,Black,65,2007-11-05,149474,0.14,USA,Phoenix
+793,E02795,Hannah Truong,Analyst,Accounting,Specialized Products,Female,Asian,44,2009-03-25,75362,0.0,USA,Chicago
+699,E02701,Miles Ross,Enterprise Engineer,IT,Specialized Products,Male,Black,31,2017-04-18,50022,0.0,USA,Miami
+232,E02234,Chloe Miller,Manager,Marketing,Production,Female,Black,57,2021-08-12,142506,0.11,USA,Austin
+682,E02684,Leonardo Jenkins,Analyst,IT,Research and Development,Male,Asian,29,2018-04-09,98504,0.0,USA,Miami
+538,E02540,Mateo Chung,Network Engineer,IT,Large Companies,Male,Asian,52,2018-07-27,81438,0.0,China,Beijing
+799,E02801,Luke Luna,Analyst,Accounting,Specialized Products,Male,Latin,58,2007-05-21,43803,0.0,USA,Miami
+396,E02398,Hailey Washington,Manager,Accounting,Specialized Products,Female,Black,51,2013-07-03,135578,0.1,USA,Miami
+515,E02517,Caleb Chan,Development Engineer,Engineering,Research and Development,Male,Asian,48,2003-06-24,107586,0.0,China,Shanghai
+15,E02017,Luna Lu,Development Manager,IT,Large Companies,Female,Asian,62,1997-07-26,64208,0.0,USA,Miami
+14,E02016,Jacob Moore,Manager,Marketing,Large Companies,Male,Black,42,2021-03-24,131422,0.15,USA,Phoenix
+596,E02598,Miles Perez,Manager,Accounting,Production,Male,Latin,42,2019-06-11,112146,0.06,USA,Miami
+302,E02304,Madison Xu,Control Engineer,IT,Research and Development,Female,Asian,39,2017-12-13,66463,0.0,China,Chongqing
+628,E02630,Layla Kang,Manager,Marketing,Research and Development,Female,Asian,26,2022-03-02,128965,0.09,USA,Columbus
+747,E02749,Evelyn Vasquez,Technical Engineer,IT,Production,Female,Latin,38,2013-02-24,68676,0.0,Brazil,São Paulo
+638,E02640,Madeline Doan,Manager,Human Resources,Large Companies,Female,Asian,46,2021-01-10,104692,0.08,China,Chengdu
+509,E02511,Lucas Cruz,Analyst,Accounting,Specialized Products,Male,Latin,54,2009-07-11,74656,0.0,USA,Seattle
+181,E02183,Madeline Chung,Analyst,Accounting,Research and Development,Female,Asian,63,2011-05-26,44444,0.0,USA,Miami
+630,E02632,Rylee Campos,Manager,Accounting,Research and Development,Female,Latin,49,2005-02-09,107461,0.08,USA,Seattle
+404,E02406,Gianna Alvarez,Business Partner,Human Resources,Production,Female,Latin,58,1993-05-11,49293,0.0,USA,Columbus
+689,E02691,Christopher Song,Automation Engineer,Engineering,Production,Male,Asian,29,2017-01-03,118639,0.0,USA,Phoenix
+281,E02283,Adeline Maldonado,Director,Marketing,Specialized Products,Female,Latin,45,2011-05-30,172206,0.29,Brazil,São Paulo
+36,E02038,Amelia Dominguez,Manager,Accounting,Large Companies,Female,Latin,31,2015-09-23,158184,0.15,Brazil,Rio de Janeiro
+52,E02054,Santiago f Ross,Enterprise Engineer,IT,Specialized Products,Male,Asian,34,2012-12-13,74004,0.0,USA,Columbus
+505,E02507,Charlotte Owens,Assistant,Engineering,Large Companies,Female,Black,59,2001-05-11,196740,0.31,USA,Miami
+379,E02381,Julian Lam,Director,Accounting,Research and Development,Male,Asian,33,2013-09-08,164340,0.15,USA,Chicago
+384,E02386,Eli Castillo,Assistant,Accounting,Specialized Products,Male,Latin,50,2009-12-11,203306,0.38,USA,Seattle
+329,E02331,Elias Vasquez,Analyst,IT,Specialized Products,Male,Latin,33,2015-07-27,44012,0.0,Brazil,Manaus
+797,E02799,Raelynn Her,Manager,Accounting,Research and Development,Female,Asian,44,2018-05-09,122441,0.15,USA,Columbus
+154,E02156,Owen Guerrero,Director,Engineering,Large Companies,Male,Latin,40,2022-09-03,97938,0.0,USA,Chicago
+924,E02926,Sofia Gutierrez,Manager,Marketing,Production,Female,Latin,31,2015-10-19,109925,0.07,Brazil,Manaus
+691,E02693,Kayden Dinh,Manager,Human Resources,Production,Male,Asian,50,2019-05-26,156374,0.15,China,Beijing
+539,E02541,Jameson Vang,Manager,IT,Large Companies,Male,Asian,41,2018-05-23,95669,0.1,China,Shanghai
+438,E02440,Jaxson Shah,Analyst,Accounting,Large Companies,Male,Asian,29,2018-08-25,44520,0.0,USA,Chicago
+709,E02711,Jace Mehta,Analyst,Accounting,Production,Male,Asian,55,2015-05-06,41102,0.0,USA,Seattle
+508,E02510,Ella Do,Technical Engineer,Accounting,Production,Female,Asian,52,1998-02-28,57433,0.0,China,Shanghai
+636,E02638,Theodore Truong,Analyst,Human Resources,Large Companies,Male,Asian,45,2017-05-23,66324,0.0,China,Beijing
+735,E02737,Jace Cho,Director,Engineering,Research and Development,Male,Asian,33,2016-08-06,161800,0.19,China,Chongqing
+759,E02761,Audrey Powell,Director,Accounting,Research and Development,Female,Black,37,2011-05-01,180544,0.27,USA,Chicago
+767,E02769,Charlotte Pham,Director,Engineering,Research and Development,Female,Asian,54,2003-02-25,62179,0.0,China,Shanghai
+435,E02437,Hudson Ha,Director,Engineering,Production,Male,Asian,59,2004-02-06,67947,0.0,China,Shanghai
+313,E02315,Kai Phillips,Test Engineer,Engineering,Research and Development,Male,Asian,48,2016-12-13,72315,0.0,USA,Austin
+975,E02977,Ethan Xiong,Control Engineer,IT,Specialized Products,Male,Asian,39,2012-05-05,91144,0.0,USA,Columbus
+1,E02003,Robert Patel,Analyst,Accounting,Large Companies,Male,Asian,58,2013-10-23,45703,0.0,USA,Chicago
+784,E02786,Daniel Huynh,Manager,Marketing,Production,Male,Asian,25,2021-12-08,105072,0.06,China,Chengdu
+506,E02508,Stella Tan,Director,Human Resources,Specialized Products,Female,Asian,48,2009-08-22,168202,0.22,China,Chengdu
+297,E02299,Ruby Rahman,Business Partner,Human Resources,Production,Female,Asian,62,2005-12-05,41616,0.0,USA,Seattle
+226,E02228,Ian Ma,Manager,Accounting,Large Companies,Male,Asian,45,2010-07-09,109221,0.09,USA,Austin
+298,E02300,Natalie Stewart,Control Engineer,IT,Large Companies,Female,Asian,50,2003-06-30,92344,0.0,USA,Phoenix
+869,E02871,Jace Henderson,Director,Engineering,Research and Development,Male,Asian,34,2022-03-16,197849,0.19,USA,Phoenix
+687,E02689,Liliana Zhao,Director,Human Resources,Large Companies,Female,Asian,50,2011-08-30,183308,0.24,USA,Miami
+548,E02550,Alexander Tang,Analyst,Accounting,Large Companies,Male,Asian,32,2015-01-29,45424,0.0,USA,Austin
+472,E02474,William Roberts,Director,IT,Research and Development,Male,Asian,34,2017-04-12,174257,0.3,USA,Miami
+447,E02449,Emily Moore,Analyst,Accounting,Research and Development,Female,Black,47,2009-11-08,50290,0.0,USA,Columbus
+753,E02755,Julia Moore,Manager,IT,Production,Female,Asian,37,2021-11-18,139987,0.13,USA,Seattle
+896,E02898,Matthew Jackson,Manager,Marketing,Specialized Products,Male,Asian,30,2019-10-13,111274,0.06,USA,Seattle
+475,E02477,Layla Gutierrez,Manager,IT,Specialized Products,Female,Latin,39,2022-05-05,65957,0.05,Brazil,Rio de Janeiro
+655,E02657,Christopher Chau,Development Manager,IT,Research and Development,Male,Asian,26,2021-12-28,86288,0.0,USA,Columbus
+650,E02652,Ezekiel Lai,Analyst,Marketing,Production,Male,Asian,45,2005-11-26,54742,0.0,China,Chengdu
+534,E02536,Anthony Perez,Technical Engineer,Accounting,Specialized Products,Male,Latin,51,2021-09-13,92305,0.0,USA,Chicago
+446,E02448,Lyla Lai,Manager,Human Resources,Specialized Products,Female,Asian,46,2004-08-11,125878,0.1,USA,Austin
+388,E02390,Mateo Jordan,Network Manager,IT,Specialized Products,Male,Asian,44,2021-02-13,92939,0.0,USA,Austin
+707,E02709,Jeremiah Ross,Manager,Marketing,Large Companies,Male,Asian,27,2021-06-17,137997,0.12,USA,Phoenix
+894,E02896,Stella Gupta,Analyst,Accounting,Large Companies,Female,Asian,33,2020-02-18,97261,0.0,China,Beijing
+3,E02005,Harper Castillo,Development Manager,IT,Large Companies,Female,Latin,39,2018-04-07,98062,0.0,USA,Seattle
+454,E02456,Lucas Grant,Manager,Human Resources,Production,Male,Asian,53,2012-03-28,97218,0.0,USA,Austin
+881,E02883,Julia Kim,Technical Engineer,Accounting,Specialized Products,Female,Asian,50,2016-12-04,50038,0.0,China,Chongqing
+803,E02805,Easton Cruz,Manager,Accounting,Production,Male,Latin,33,2016-11-21,107202,0.06,USA,Columbus
+98,E02100,Dylan Aguilar,Director,Engineering,Large Companies,Male,Latin,49,2007-03-27,186192,0.27,Brazil,São Paulo
+72,E02074,Leonardo Ng,Analyst,Marketing,Large Companies,Male,Asian,32,2019-06-10,57727,0.0,China,Chengdu
+915,E02917,Christopher Miller,Assistant,Accounting,Large Companies,Male,Black,37,2009-05-16,199512,0.35,USA,Austin
+288,E02290,Hailey Chin,Manager,IT,Large Companies,Female,Asian,54,1993-07-10,135642,0.1,China,Beijing
+157,E02159,Eliana Bailey,Manager,Accounting,Research and Development,Female,Black,27,2021-01-02,120586,0.15,USA,Seattle
+62,E02064,Julian Ford,Analyst,Accounting,Production,Male,Asian,50,2010-07-29,70340,0.0,USA,Miami
+790,E02792,Charlotte Lam,Analyst,IT,Production,Female,Asian,29,2020-08-26,60919,0.0,USA,Columbus
+798,E02800,Jameson Salazar,Control Engineer,Engineering,Specialized Products,Male,Latin,45,2003-03-12,85822,0.0,USA,Phoenix
+369,E02371,Samuel Tang,System Manager,IT,Production,Male,Asian,34,2012-09-15,93760,0.0,USA,Miami
+533,E02535,Amelia Do,Analyst,Marketing,Production,Female,Asian,45,2018-12-24,74776,0.0,USA,Seattle
+150,E02152,Christian Johnson,Network Engineer,IT,Research and Development,Male,Black,47,2008-05-25,60331,0.0,USA,Miami
+448,E02450,Aubrey Moreno,Manager,IT,Research and Development,Female,Latin,57,2000-06-30,97083,0.06,USA,Austin
+594,E02596,Camila Baker,Technical Engineer,Accounting,Specialized Products,Female,Asian,36,2012-09-08,73646,0.0,USA,Austin
+204,E02206,Kai Singh,Analyst,Accounting,Large Companies,Male,Asian,52,2001-04-19,47587,0.0,USA,Chicago
+971,E02973,Delilah Ng,Development Engineer,Engineering,Production,Female,Asian,59,2008-08-20,98794,0.0,USA,Chicago
+266,E02268,Gabriella Carrillo,Assistant,Accounting,Research and Development,Female,Latin,39,2012-07-16,187516,0.35,Brazil,São Paulo
+167,E02169,Eliana Ho,Director,Accounting,Large Companies,Female,Asian,64,2012-09-05,195416,0.22,China,Chengdu
+300,E02302,Elena Campos,Manager,IT,Research and Development,Female,Latin,47,2022-02-06,104253,0.09,USA,Seattle
+631,E02633,Amelia Foster,Analyst,Accounting,Research and Development,Female,Asian,32,2018-02-24,66294,0.0,USA,Columbus
+614,E02616,Benjamin Ali,Business Partner,Human Resources,Large Companies,Male,Asian,53,2016-04-12,58010,0.0,USA,Seattle
+422,E02424,Thomas Smith,Director,Engineering,Specialized Products,Male,Asian,57,1999-04-02,78212,0.0,USA,Miami
+639,E02641,Scarlett Rodriguez,System Manager,IT,Large Companies,Female,Latin,64,2022-11-03,71864,0.0,Brazil,Manaus
+726,E02728,Santiago f Brooks,Manager,Human Resources,Large Companies,Male,Asian,46,2012-01-20,92247,0.0,USA,Miami
+681,E02683,Vivian Jackson,Manager,Accounting,Large Companies,Female,Black,51,1999-02-23,148942,0.13,USA,Columbus
+391,E02393,Josephine White,Manager,IT,Large Companies,Female,Asian,61,2010-02-05,87758,0.09,USA,Seattle
+591,E02593,Samantha Zhu,Assistant,IT,Specialized Products,Female,Asian,55,2001-10-27,256592,0.3,China,Beijing
+60,E02062,Chloe Kim,Analyst,Accounting,Specialized Products,Female,Asian,39,2012-07-06,72850,0.0,USA,Miami
+156,E02158,Hunter Mitchell,Enterprise Engineer,IT,Research and Development,Male,Asian,54,2021-04-17,58137,0.0,USA,Columbus
+324,E02326,Gabriel Ahmed,Analyst,Human Resources,Large Companies,Male,Asian,65,2021-10-09,73996,0.0,China,Chengdu
+173,E02175,Christopher Robinson,Assistant,Accounting,Specialized Products,Male,Asian,35,2016-07-11,254287,0.31,USA,Austin
+414,E02416,Aubrey Guerrero,Manager,Marketing,Large Companies,Female,Latin,39,2013-02-12,122713,0.13,Brazil,São Paulo
+451,E02453,Caroline Chau,Development Manager,IT,Specialized Products,Female,Asian,55,2022-12-07,91179,0.0,USA,Columbus
+974,E02976,Sofia Dixon,Automation Engineer,Engineering,Production,Female,Asian,41,2011-09-13,95598,0.0,USA,Columbus
+212,E02214,Lyla Turner,Manager,Accounting,Specialized Products,Female,Asian,51,2003-11-07,130862,0.12,USA,Seattle
+700,E02702,Jonathan Santos,Assistant,Accounting,Specialized Products,Male,Latin,29,2017-01-06,204534,0.38,USA,Chicago
+252,E02254,Olivia Mendoza,Technical Engineer,Accounting,Large Companies,Female,Latin,43,2017-05-07,86533,0.0,USA,Columbus
+648,E02650,Jonathan Torres,Analyst,Accounting,Production,Male,Latin,56,2002-04-12,48896,0.0,Brazil,Manaus
+602,E02604,Emma Soto,Manager,Accounting,Specialized Products,Female,Latin,29,2020-09-13,128066,0.11,USA,Seattle
+449,E02451,Nova Xiong,Network Manager,IT,Large Companies,Female,Asian,49,2019-04-10,93306,0.0,China,Beijing
+645,E02647,Maya Watson,Manager,Human Resources,Specialized Products,Female,Asian,59,2017-01-07,108612,0.06,USA,Phoenix
+63,E02065,Kinsley Liang,Automation Engineer,Engineering,Production,Female,Asian,55,2008-08-25,98221,0.0,China,Shanghai
+968,E02970,Liam Salazar,Technical Engineer,Accounting,Specialized Products,Male,Latin,44,2020-10-25,62184,0.0,Brazil,São Paulo
+942,E02944,Parker Dinh,Assistant,Accounting,Specialized Products,Male,Asian,51,2006-06-28,206423,0.36,China,Beijing
+953,E02955,Connor Simmons,Analyst,Accounting,Research and Development,Male,Black,30,2022-01-17,96010,0.0,USA,Chicago
+455,E02457,Delilah Washington,Analyst,Accounting,Research and Development,Female,Asian,46,2006-09-17,42944,0.0,USA,Miami
+385,E02387,Nolan Garcia,Analyst,Accounting,Specialized Products,Male,Latin,26,2022-06-16,66865,0.0,Brazil,Rio de Janeiro
+318,E02320,Jackson Hu,Manager,Human Resources,Large Companies,Male,Asian,53,2017-06-05,73601,0.0,China,Chengdu
+177,E02179,Anthony Espinoza,Analyst,Accounting,Production,Male,Latin,41,2020-11-16,59149,0.0,Brazil,Rio de Janeiro
+29,E02031,Wyatt Dinh,System Manager,IT,Specialized Products,Male,Asian,50,2002-03-15,72860,0.0,China,Shanghai
+108,E02110,Avery Gutierrez,Assistant,Marketing,Large Companies,Female,Latin,56,2016-07-02,181028,0.38,USA,Phoenix
+526,E02528,Jeremiah Medina,Manager,IT,Research and Development,Male,Latin,54,1997-09-28,129311,0.13,Brazil,Manaus
+846,E02848,Clara Collins,Control Engineer,IT,Production,Female,Asian,40,2008-03-03,63889,0.0,USA,Seattle
+295,E02297,Liliana Valdez,Manager,IT,Large Companies,Female,Latin,59,1996-10-01,96507,0.09,USA,Seattle
+608,E02610,Jonathan Young,Analyst,Accounting,Production,Male,Asian,47,2015-04-28,55401,0.0,USA,Columbus
+262,E02264,Anthony Ho,Analyst,Marketing,Specialized Products,Male,Asian,31,2015-01-11,79713,0.0,China,Beijing
+883,E02885,Colton Adams,Manager,Marketing,Specialized Products,Male,Asian,25,2022-11-19,112646,0.08,USA,Columbus
+155,E02157,Lucas Lo,Analyst,Accounting,Research and Development,Male,Asian,43,2004-01-18,49627,0.0,China,Beijing
+959,E02961,Brooks Ngo,Assistant,Engineering,Large Companies,Male,Asian,26,2020-03-02,211114,0.3,USA,Miami
+223,E02225,Scarlett Green,Control Engineer,IT,Specialized Products,Female,Asian,26,2020-04-21,67702,0.0,USA,Seattle
+59,E02061,Nathan Hong,Director,Accounting,Large Companies,Male,Asian,50,2019-10-02,150631,0.17,USA,Phoenix
+774,E02776,Caroline Sandoval,Manager,Accounting,Specialized Products,Female,Latin,51,2012-09-10,129727,0.08,USA,Phoenix
+366,E02368,Mila Vang,Analyst,Accounting,Production,Female,Asian,46,2009-08-25,56409,0.0,USA,Columbus
+49,E02051,Isabella Ngo,Manager,Accounting,Specialized Products,Female,Asian,49,2022-01-01,126598,0.09,USA,Miami
+895,E02897,Levi White,Manager,Human Resources,Production,Male,Black,45,2018-07-19,127363,0.09,USA,Columbus
+260,E02262,Carson Mai,Assistant,Accounting,Large Companies,Male,Asian,50,1996-04-15,245920,0.36,USA,Columbus
+807,E02809,Nevaeh Ng,Manager,Human Resources,Production,Female,Asian,30,2019-03-18,159823,0.11,USA,Seattle
+824,E02826,Lincoln Cheng,Analyst,Accounting,Large Companies,Male,Asian,61,1997-10-14,88681,0.0,China,Shanghai
+850,E02852,Cora Coleman,Control Engineer,Engineering,Large Companies,Female,Black,40,2011-04-09,98594,0.0,USA,Phoenix
+728,E02730,Jace Hsu,Analyst,IT,Production,Male,Asian,31,2018-10-06,46098,0.0,China,Shanghai
+58,E02060,Jacob Cheng,Director,Accounting,Production,Male,Asian,47,1999-11-26,155890,0.17,USA,Columbus
+239,E02241,Carter Simmons,Manager,IT,Large Companies,Male,Asian,41,2012-05-30,126406,0.1,USA,Chicago
+139,E02141,Zoe Maldonado,Assistant,Accounting,Large Companies,Female,Latin,49,1998-09-25,198222,0.34,Brazil,São Paulo
+592,E02594,Vivian Watson,Development Engineer,Engineering,Specialized Products,Female,Asian,52,2017-07-07,79323,0.0,USA,Chicago
+822,E02824,Kinsley Hill,Technical Engineer,Accounting,Research and Development,Female,Asian,26,2022-06-16,59436,0.0,USA,Columbus
+13,E02015,Lucas Richardson,Manager,Marketing,Large Companies,Male,Asian,36,2018-07-22,118912,0.08,USA,Miami
+249,E02251,Genesis Herrera,Manager,IT,Research and Development,Female,Latin,34,2015-10-03,126898,0.1,Brazil,Manaus
+346,E02348,Samantha Ford,Technical Engineer,IT,Production,Female,Asian,25,2022-01-19,86075,0.0,USA,Miami
+133,E02135,Scarlett Delgado,Cloud Infrastructure Engineer,IT,Research and Development,Female,Latin,57,2013-08-28,80728,0.0,Brazil,Rio de Janeiro
+284,E02286,Josephine Espinoza,Manager,Accounting,Research and Development,Female,Latin,30,2017-11-26,124295,0.07,Brazil,Manaus
+685,E02687,Willow Chau,Development Engineer,Engineering,Large Companies,Female,Asian,45,2011-09-09,86001,0.0,USA,Austin
+525,E02527,Grace Harris,Enterprise Engineer,IT,Research and Development,Female,Asian,34,2018-10-28,75518,0.0,USA,Seattle
+929,E02931,Joseph Dang,Assistant,Marketing,Research and Development,Male,Asian,61,2014-04-20,209680,0.34,China,Shanghai
+48,E02050,Ryan Vo,Cloud Infrastructure Engineer,IT,Research and Development,Male,Asian,38,2011-04-12,65109,0.0,USA,Phoenix
+814,E02816,Madelyn Henry,Assistant,Human Resources,Specialized Products,Female,Asian,41,2007-05-10,224989,0.33,USA,Seattle
+861,E02863,Jose Park,Director,IT,Research and Development,Male,Asian,45,2009-10-11,152519,0.3,China,Chongqing
+118,E02120,Nova Lin,Assistant,Accounting,Specialized Products,Female,Asian,31,2019-04-09,201235,0.32,USA,Austin
+993,E02995,Isaac Xiong,Manager,Accounting,Specialized Products,Male,Asian,38,2012-10-28,152253,0.12,USA,Seattle
+280,E02282,Wesley Duong,Manager,Human Resources,Specialized Products,Male,Asian,29,2022-04-14,86226,0.0,USA,Seattle
+292,E02294,Elijah Washington,Assistant,Marketing,Production,Male,Asian,47,2022-02-13,214303,0.4,USA,Seattle
+142,E02144,Raelynn Espinoza,Analyst,Accounting,Large Companies,Female,Latin,46,2002-09-12,44411,0.0,Brazil,Manaus
+667,E02669,Nevaeh Lim,Control Engineer,Engineering,Large Companies,Female,Asian,55,1999-03-29,120092,0.0,China,Chongqing
+489,E02491,Piper Cruz,Director,Accounting,Research and Development,Female,Latin,61,2013-04-13,195636,0.21,Brazil,Rio de Janeiro
+867,E02869,Aubrey Cheng,Analyst,Accounting,Production,Female,Asian,46,2001-06-17,64882,0.0,USA,Chicago
+94,E02096,Gianna Lim,Analyst,Accounting,Research and Development,Female,Asian,46,2006-04-01,42532,0.0,China,Chongqing
+325,E02327,Ivy Rios,Network Engineer,IT,Production,Female,Latin,25,2022-01-18,90109,0.0,USA,Seattle
+16,E02018,Bella Tran,Assistant,Engineering,Specialized Products,Female,Asian,45,2010-08-05,254486,0.33,China,Chengdu
+405,E02407,Nova Martin,Manager,Human Resources,Research and Development,Female,Asian,39,2013-04-13,129087,0.05,USA,Seattle
+633,E02635,Luna Chang,Enterprise Engineer,IT,Specialized Products,Female,Asian,64,2022-10-20,43271,0.0,China,Chengdu
+140,E02142,Natalia Richardson,Manager,Accounting,Research and Development,Female,Asian,36,2017-06-02,150825,0.1,USA,Columbus
+242,E02244,Connor Howard,Analyst,IT,Specialized Products,Male,Asian,42,2021-03-15,44265,0.0,USA,Austin
+192,E02194,Athena Daniels,Network Manager,IT,Specialized Products,Female,Asian,49,2021-05-23,78164,0.0,USA,Seattle
+210,E02212,Christopher Wang,Cloud Infrastructure Engineer,IT,Production,Male,Asian,27,2020-08-23,71502,0.0,China,Chongqing
+225,E02227,Eva Jimenez,Development Engineer,Engineering,Large Companies,Female,Latin,60,1998-04-13,110554,0.0,Brazil,São Paulo
+917,E02919,Lucy Phan,Analyst,Accounting,Research and Development,Female,Asian,59,2021-02-18,99760,0.0,China,Chongqing
+483,E02485,Olivia Maldonado,Test Engineer,Engineering,Research and Development,Female,Latin,63,2002-02-18,86820,0.0,USA,Chicago
+363,E02365,Kinsley Stewart,Manager,IT,Large Companies,Female,Asian,56,2021-09-07,66561,0.06,USA,Chicago
+817,E02819,Willow Xiong,Manager,Marketing,Large Companies,Female,Asian,37,2021-05-04,151363,0.12,USA,Miami
+905,E02907,Ariana Griffin,Assistant,Marketing,Large Companies,Female,Asian,32,2015-03-04,241722,0.38,USA,Chicago
+227,E02229,Luna Castro,Development Manager,IT,Specialized Products,Female,Latin,45,2007-02-01,88933,0.0,USA,Columbus
+756,E02758,Sadie Pham,Analyst,Accounting,Specialized Products,Female,Asian,26,2022-12-25,66563,0.0,China,Chengdu
+115,E02117,Chloe Yoon,Network Manager,IT,Large Companies,Female,Asian,65,2002-02-25,83854,0.0,USA,Seattle
+840,E02842,Parker Desai,Analyst,Accounting,Research and Development,Male,Asian,43,2018-11-08,87914,0.0,China,Shanghai
+275,E02277,Christian Hong,Analyst,Accounting,Production,Male,Asian,59,2008-01-16,81829,0.0,China,Chongqing
+839,E02841,Zoey Mendoza,Development Engineer,Engineering,Specialized Products,Female,Latin,30,2020-02-16,76904,0.0,Brazil,Rio de Janeiro
+368,E02370,Delilah Gonzalez,Analyst,Accounting,Production,Female,Latin,55,1998-03-29,82550,0.0,USA,Chicago
+676,E02678,Natalia Hall,Analyst,Accounting,Research and Development,Female,Asian,37,2018-11-08,72005,0.0,USA,Austin
+128,E02130,Eliana Ha,Analyst,Accounting,Specialized Products,Female,Asian,35,2020-12-15,55833,0.0,China,Chengdu
+541,E02543,Gabriel Rodriguez,Enterprise Engineer,IT,Research and Development,Male,Latin,36,2016-01-30,45184,0.0,Brazil,São Paulo
+697,E02699,Lucas Yang,Control Engineer,IT,Large Companies,Male,Asian,28,2021-07-04,70996,0.0,USA,Austin
+153,E02155,Elias Dixon,Enterprise Engineer,IT,Large Companies,Male,Asian,46,2021-11-22,55643,0.0,USA,Columbus
+161,E02163,Sarah Johnson,Director,Engineering,Research and Development,Female,Asian,31,2018-03-06,150653,0.24,USA,Austin
+89,E02091,Lucy Edwards,Director,Human Resources,Specialized Products,Female,Black,33,2015-03-16,175875,0.21,USA,Columbus
+209,E02211,Ezekiel Jenkins,Analyst,IT,Specialized Products,Male,Asian,63,2000-04-11,99215,0.0,USA,Seattle
+906,E02908,Hudson Bailey,System Manager,IT,Large Companies,Male,Asian,56,2018-03-12,91835,0.0,USA,Seattle
+923,E02925,Carson Liu,Assistant,IT,Research and Development,Male,Asian,56,2011-03-11,184780,0.38,USA,Austin
+855,E02857,Iris Phillips,Test Engineer,Engineering,Research and Development,Female,Asian,46,2019-11-28,99586,0.0,USA,Miami
+333,E02335,Jaxson Ayala,Assistant,Human Resources,Research and Development,Male,Latin,28,2020-08-01,239270,0.38,Brazil,Manaus
+978,E02980,Ariana Pham,Analyst,Accounting,Research and Development,Female,Asian,32,2015-10-17,79773,0.0,China,Beijing
+879,E02881,Levi Gonzalez,Control Engineer,Engineering,Large Companies,Male,Latin,36,2012-04-27,116168,0.0,USA,Austin
+175,E02177,Cora Mejia,Analyst,Accounting,Research and Development,Female,Latin,58,2014-06-07,98296,0.0,Brazil,Manaus
+473,E02475,Penelope Sandoval,Manager,Accounting,Large Companies,Female,Latin,28,2019-12-18,132209,0.14,Brazil,Rio de Janeiro
+429,E02431,Leonardo Cho,Director,Engineering,Specialized Products,Male,Asian,38,2008-08-25,119960,0.15,USA,Columbus
+604,E02606,Cora Munoz,Assistant,Human Resources,Production,Female,Latin,45,2004-05-17,233342,0.37,USA,Austin
+860,E02862,Paisley Bell,Manager,Accounting,Production,Female,Black,42,2012-01-10,110720,0.09,USA,Miami
+470,E02472,Jayden Ahmed,Manager,IT,Large Companies,Male,Asian,51,2006-03-28,140668,0.12,China,Chengdu
+764,E02766,Julia Jimenez,Analyst,Marketing,Specialized Products,Female,Latin,46,2010-11-17,92833,0.0,Brazil,Rio de Janeiro
+170,E02172,Skylar Parker,Technical Engineer,IT,Large Companies,Female,Asian,31,2018-08-05,96195,0.0,USA,Phoenix
+720,E02722,Vivian Brooks,Business Partner,Human Resources,Specialized Products,Female,Black,34,2022-09-12,57483,0.0,USA,Seattle
+54,E02056,Bella Morales,Director,Accounting,Specialized Products,Female,Latin,38,2016-05-10,194864,0.24,USA,Austin
+939,E02941,Ivy Luong,Cloud Infrastructure Engineer,IT,Large Companies,Female,Asian,56,1993-07-05,75435,0.0,USA,Austin
+285,E02287,Adeline Lai,Manager,Accounting,Research and Development,Female,Asian,55,1999-02-08,132894,0.15,USA,Chicago
+168,E02170,Charles Miller,Director,Marketing,Production,Male,Black,32,2018-06-07,156418,0.23,USA,Columbus
+507,E02509,Ellie Yoon,Assistant,Human Resources,Specialized Products,Female,Asian,44,2006-07-11,242004,0.38,China,Chongqing
+11,E02013,Bella Wu,Analyst,Accounting,Specialized Products,Female,Asian,63,2014-08-03,71418,0.0,USA,Phoenix
+394,E02396,Olivia Turner,Director,Marketing,Specialized Products,Female,Asian,29,2021-01-07,151492,0.21,USA,Columbus
+362,E02364,Lily Rios,Analyst,Marketing,Specialized Products,Female,Latin,45,2013-01-25,88016,0.0,Brazil,Rio de Janeiro
+310,E02312,Matthew Harris,Manager,Accounting,Large Companies,Male,Asian,36,2021-03-27,156085,0.12,USA,Miami
+228,E02230,Nolan Brooks,Business Partner,Human Resources,Production,Male,Asian,40,2014-11-08,49342,0.0,USA,Seattle
+233,E02235,Jaxson Brooks,Network Engineer,IT,Production,Male,Black,57,2022-07-15,77028,0.0,USA,Seattle
+389,E02391,Everly Martin,Analyst,Marketing,Specialized Products,Female,Black,26,2020-05-28,64278,0.0,USA,Columbus
+642,E02644,Lucy Mai,Director,Engineering,Large Companies,Female,Asian,56,2022-06-27,197579,0.18,USA,Chicago
+622,E02624,Mia Brown,Analyst,Accounting,Large Companies,Female,Asian,30,2016-08-10,60261,0.0,USA,Seattle
+663,E02665,Serenity Her,Director,Accounting,Specialized Products,Female,Asian,50,1997-08-22,159285,0.15,USA,Austin
+706,E02708,Grayson Jenkins,Test Engineer,Engineering,Production,Male,Asian,55,1998-03-06,99035,0.0,USA,Miami
+963,E02965,Eloise Sun,Director,IT,Specialized Products,Female,Asian,59,2005-06-01,198745,0.25,USA,Phoenix
+750,E02752,Samuel Cruz,Manager,Human Resources,Specialized Products,Male,Latin,61,1993-04-30,157672,0.11,USA,Miami
+244,E02246,Landon Reyes,Director,IT,Research and Development,Male,Latin,44,2014-08-23,171823,0.27,USA,Columbus
+376,E02378,Athena Cheng,Test Engineer,Engineering,Large Companies,Female,Asian,37,2020-03-02,83465,0.0,China,Beijing
+267,E02269,Lydia Juarez,Director,Accounting,Specialized Products,Female,Latin,36,2013-09-21,156029,0.15,USA,Columbus
+276,E02278,Amelia Mehta,Director,Human Resources,Large Companies,Female,Asian,26,2022-04-21,193971,0.22,USA,Chicago
+575,E02577,Hudson Washington,Cloud Infrastructure Engineer,IT,Specialized Products,Male,Asian,43,2008-09-17,76819,0.0,USA,Phoenix
+343,E02345,Emily Zheng,System Manager,IT,Large Companies,Female,Asian,50,2022-12-06,91004,0.0,China,Shanghai
+358,E02360,Claire Vazquez,Assistant,Human Resources,Large Companies,Female,Latin,44,2004-06-12,246538,0.35,USA,Miami
+18,E02020,Jordan Kumar,Analyst,IT,Specialized Products,Male,Asian,29,2017-11-11,95729,0.0,USA,Seattle
+471,E02473,Violet Simmons,Analyst,Marketing,Research and Development,Female,Asian,33,2017-10-23,53948,0.0,USA,Phoenix
+82,E02084,Sofia Vasquez,Director,Accounting,Research and Development,Female,Latin,52,1996-07-29,191455,0.24,Brazil,São Paulo
+273,E02275,Valentina Oh,Manager,Accounting,Large Companies,Female,Asian,32,2022-07-12,126464,0.15,USA,Miami
+443,E02445,Isaac Choi,Development Engineer,Engineering,Large Companies,Male,Asian,27,2021-01-21,82286,0.0,USA,Chicago
+146,E02148,Naomi Lee,System Manager,IT,Research and Development,Female,Asian,58,2014-04-15,91132,0.0,China,Beijing
+95,E02097,Joseph Tan,Technical Engineer,IT,Research and Development,Male,Asian,37,2015-08-20,65073,0.0,China,Shanghai
+514,E02516,Jayden Phillips,Director,IT,Research and Development,Male,Asian,25,2022-10-13,154186,0.26,USA,Austin
+151,E02153,Kinsley Gonzales,Analyst,IT,Production,Female,Latin,51,2007-05-05,48772,0.0,Brazil,Rio de Janeiro
+106,E02108,Kayden Ortiz,Manager,Accounting,Specialized Products,Male,Latin,33,2013-07-29,134782,0.15,Brazil,Manaus
+452,E02454,Sofia Chen,Manager,Accounting,Specialized Products,Female,Asian,46,2006-08-27,108003,0.05,China,Chengdu
+56,E02058,Gabriel Reyes,Manager,Accounting,Large Companies,Male,Latin,42,2005-06-10,101630,0.08,Brazil,São Paulo
+410,E02412,Iris Huang,Director,Human Resources,Large Companies,Female,Asian,45,2008-03-28,163686,0.25,China,Chengdu
+387,E02389,Victoria Wu,Analyst,Accounting,Production,Female,Asian,35,2021-10-28,75602,0.0,USA,Miami
+792,E02794,Violet He,Analyst,Accounting,Production,Female,Asian,31,2021-11-19,53638,0.0,USA,Chicago
+549,E02551,Carson Chen,Analyst,Accounting,Production,Male,Asian,45,2012-12-03,70661,0.0,China,Chongqing
+380,E02382,Sofia Estrada,Control Engineer,Engineering,Specialized Products,Female,Latin,42,2006-03-26,104916,0.0,Brazil,Manaus
+308,E02310,Charlotte Tran,Assistant,IT,Large Companies,Female,Asian,64,2017-04-11,253330,0.39,USA,Austin
+64,E02066,Wesley Yu,Manager,Accounting,Specialized Products,Male,Asian,43,2003-09-24,127175,0.12,USA,Seattle
+913,E02915,Adrian James,Enterprise Engineer,IT,Research and Development,Male,Asian,52,1994-08-15,73779,0.0,USA,Chicago
+305,E02307,Penelope Desai,Assistant,Accounting,Production,Female,Asian,41,2018-10-29,238155,0.38,China,Shanghai
+468,E02470,Ellie Ortega,Analyst,Accounting,Specialized Products,Female,Latin,49,2020-10-20,42242,0.0,Brazil,São Paulo
+87,E02089,Nevaeh Jiang,Manager,Marketing,Large Companies,Female,Asian,45,2016-08-05,143318,0.12,China,Chengdu
+781,E02783,Josiah Yi,Development Engineer,Engineering,Large Companies,Male,Asian,31,2015-04-12,101941,0.0,China,Beijing
+427,E02429,Noah Mitchell,Control Engineer,IT,Research and Development,Male,Asian,54,2007-06-15,70519,0.0,USA,Columbus
+909,E02911,Gabriella Wong,Manager,Accounting,Large Companies,Female,Asian,56,1995-05-01,122731,0.13,USA,Seattle
+773,E02775,Eleanor Munoz,Analyst,Accounting,Specialized Products,Female,Latin,45,2004-04-07,45323,0.0,Brazil,Rio de Janeiro
+634,E02636,Mia Navarro,Technical Engineer,IT,Research and Development,Female,Latin,52,2011-06-19,91518,0.0,Brazil,São Paulo
+521,E02523,Liliana Lewis,Network Manager,IT,Large Companies,Female,Asian,25,2021-02-23,82140,0.0,USA,Miami
+559,E02561,Cora Patel,Analyst,Accounting,Production,Female,Asian,36,2011-05-13,65794,0.0,USA,Austin
+316,E02318,Carter Luu,Assistant,Marketing,Large Companies,Male,Asian,25,2022-10-20,257296,0.35,USA,Austin
+116,E02118,Abigail Simmons,Manager,IT,Specialized Products,Female,Asian,29,2018-04-24,126550,0.15,USA,Miami
+183,E02185,Julian Marquez,Manager,Accounting,Specialized Products,Male,Latin,33,2013-09-14,122408,0.11,Brazil,Rio de Janeiro
+458,E02460,Audrey Campbell,Assistant,Accounting,Research and Development,Female,Asian,56,2008-07-30,226952,0.39,USA,Miami
+270,E02272,Julia Ahmed,Assistant,Accounting,Research and Development,Female,Asian,43,2004-11-14,240860,0.37,USA,Chicago
+357,E02359,Olivia Marquez,Technical Engineer,Accounting,Specialized Products,Female,Latin,44,2020-04-06,54295,0.0,USA,Columbus
+144,E02146,Jack Ramos,Analyst,Accounting,Production,Male,Latin,43,2018-06-17,96759,0.0,Brazil,Manaus
+117,E02119,Ayla Espinoza,Director,Human Resources,Research and Development,Female,Latin,60,1993-10-01,199705,0.26,Brazil,Rio de Janeiro
+609,E02611,Isaac Rojas,System Manager,IT,Production,Male,Latin,60,2006-07-12,82343,0.0,USA,Austin
+125,E02127,Emily Hong,Enterprise Engineer,IT,Specialized Products,Female,Asian,46,2021-01-09,41197,0.0,China,Beijing
+704,E02706,Luca Xiong,Technical Engineer,Accounting,Specialized Products,Male,Asian,52,2006-12-20,59845,0.0,China,Beijing
+496,E02498,Lincoln Singh,Analyst,Accounting,Large Companies,Male,Asian,33,2021-01-09,55397,0.0,China,Shanghai
+461,E02463,Elizabeth Tan,Assistant,Marketing,Research and Development,Female,Asian,46,2018-07-27,237489,0.3,USA,Chicago
+222,E02224,Axel Bailey,Analyst,Marketing,Large Companies,Male,Black,47,2022-12-07,99382,0.0,USA,Chicago
+459,E02461,Delilah Alvarez,System Manager,IT,Production,Female,Latin,59,2007-11-27,71580,0.0,USA,Seattle
+713,E02715,Adam Davis,Quality Engineer,Engineering,Research and Development,Male,Black,44,2019-10-15,71345,0.0,USA,Miami
+897,E02899,Dominic Martinez,Manager,IT,Large Companies,Male,Latin,53,2018-04-17,90554,0.07,Brazil,Rio de Janeiro
+719,E02721,Audrey Campos,Manager,Accounting,Specialized Products,Female,Latin,27,2021-09-02,107114,0.1,Brazil,Rio de Janeiro
+428,E02430,Liliana Choi,Manager,IT,Research and Development,Female,Asian,55,2007-01-25,106302,0.08,USA,Austin
+930,E02932,Madison White,Assistant,IT,Research and Development,Female,Asian,42,2011-07-09,240940,0.34,USA,Phoenix
+866,E02868,Madeline Vu,System Manager,IT,Production,Female,Asian,61,2010-06-05,96404,0.0,China,Chengdu
+220,E02222,Gabriel Bell,Cloud Infrastructure Engineer,IT,Specialized Products,Male,Asian,27,2021-03-21,70181,0.0,USA,Phoenix
+264,E02266,Melody Woods,Network Manager,IT,Research and Development,Female,Asian,63,2010-12-20,78788,0.0,USA,Seattle
+480,E02482,Quinn Ho,Assistant,Accounting,Research and Development,Female,Asian,45,2002-07-20,200481,0.3,USA,Columbus
+383,E02385,Ivy Mehta,Business Partner,Human Resources,Production,Female,Asian,50,2020-05-26,45290,0.0,China,Chongqing
+940,E02942,Aurora Bailey,Development Engineer,Engineering,Research and Development,Female,Asian,31,2020-05-23,69108,0.0,USA,Miami
+124,E02126,Lucas Zhu,Manager,IT,Production,Male,Asian,53,2011-03-14,123480,0.08,China,Beijing
+237,E02239,Hudson Wong,Technical Engineer,Accounting,Production,Male,Asian,59,2014-05-11,83365,0.0,China,Chongqing
+431,E02433,Isabella Roberts,Assistant,Engineering,Production,Female,Asian,53,2007-08-20,228494,0.33,USA,Austin
+488,E02490,Hailey Cruz,Business Partner,Human Resources,Production,Female,Latin,50,2008-08-10,56002,0.0,USA,Austin
+512,E02514,David Chu,Manager,IT,Specialized Products,Male,Asian,40,2012-12-16,142844,0.11,USA,Miami
+113,E02115,Quinn Lai,Analyst,IT,Research and Development,Female,Asian,58,2003-08-28,41946,0.0,USA,Phoenix
+615,E02617,Ezekiel Cooper,Director,IT,Specialized Products,Male,Black,43,2003-03-15,154284,0.25,USA,Chicago
+241,E02243,Adam Medina,Development Manager,IT,Production,Male,Latin,49,2020-10-04,81622,0.0,USA,Chicago
+825,E02827,Noah Sharma,Director,Accounting,Specialized Products,Male,Asian,59,2008-02-09,186854,0.3,USA,Phoenix
+200,E02202,Charles Ramos,Analyst,Accounting,Large Companies,Male,Latin,57,2010-04-04,74597,0.0,USA,Austin
+777,E02779,Lyla Clark,Analyst,Accounting,Research and Development,Female,Asian,54,2018-12-12,78020,0.0,USA,Columbus
+197,E02199,Caroline Do,Analyst,Marketing,Research and Development,Female,Asian,40,2016-03-06,56963,0.0,USA,Chicago
+542,E02544,Wyatt Robinson,Development Engineer,Engineering,Research and Development,Male,Asian,55,2007-08-08,70451,0.0,USA,Seattle
+27,E02029,Ivy Thompson,Manager,Marketing,Production,Female,Asian,50,2004-08-11,118900,0.05,USA,Seattle
+991,E02993,Miles Liu,Analyst,Accounting,Research and Development,Male,Asian,35,2021-05-25,52232,0.0,USA,Columbus
+330,E02332,Melody Luu,Assistant,Accounting,Research and Development,Female,Asian,28,2021-04-03,219180,0.33,China,Chongqing
+221,E02223,Gianna Walker,Manager,IT,Large Companies,Female,Asian,45,2021-03-23,92317,0.06,USA,Austin
+654,E02656,Clara Ford,Analyst,Accounting,Research and Development,Female,Asian,46,2014-08-09,63987,0.0,USA,Seattle
+51,E02053,Jaxson Liu,Assistant,Accounting,Large Companies,Male,Asian,27,2021-05-18,205216,0.36,USA,Chicago
+902,E02904,Lydia Ahmed,Assistant,Accounting,Large Companies,Female,Asian,39,2017-04-24,218052,0.39,China,Chengdu
+291,E02293,Levi Vasquez,Enterprise Engineer,IT,Production,Male,Latin,27,2020-02-10,42969,0.0,USA,Phoenix
+69,E02071,Luca Phan,Manager,Marketing,Large Companies,Male,Asian,39,2015-06-17,129949,0.09,China,Beijing
+958,E02960,Lucas Sandoval,Analyst,Accounting,Production,Male,Latin,41,2011-05-19,84627,0.0,Brazil,Manaus
+342,E02344,Chloe Dixon,Assistant,Engineering,Large Companies,Female,Asian,60,2021-05-11,186400,0.4,USA,Chicago
+503,E02505,Oliver Fernandez,Manager,Marketing,Research and Development,Male,Latin,31,2022-05-15,125664,0.05,Brazil,Manaus
+965,E02967,Ava Chan,Manager,Human Resources,Large Companies,Female,Asian,44,2022-10-12,137426,0.14,China,Chongqing
+842,E02844,Adam Jordan,Automation Engineer,Engineering,Large Companies,Male,Asian,55,2015-03-12,79620,0.0,USA,Chicago
+336,E02338,Maverick Hwang,Assistant,Human Resources,Research and Development,Male,Asian,40,2015-04-20,227816,0.33,USA,Chicago
+970,E02972,آستین Espinoza,Development Engineer,Engineering,Large Companies,Male,Latin,58,2006-03-17,77441,0.0,USA,Seattle
+120,E02122,Aaron Powell,Enterprise Engineer,IT,Research and Development,Male,Black,30,2017-09-11,79975,0.0,USA,Chicago
+195,E02197,Liam Nelson,Technical Engineer,IT,Research and Development,Male,Black,58,2010-12-17,80720,0.0,USA,Columbus
+729,E02731,Nicholas Sanders,Assistant,Accounting,Production,Male,Asian,45,2014-11-23,239980,0.31,USA,Austin
+584,E02586,Cora Espinoza,Business Partner,Human Resources,Research and Development,Female,Latin,53,2019-10-09,55206,0.0,USA,Miami
+954,E02956,Jaxon Lai,Network Manager,IT,Research and Development,Male,Asian,44,2004-03-08,73386,0.0,China,Chongqing
+279,E02281,Jose Thompson,Manager,Marketing,Large Companies,Male,Asian,45,2012-04-05,104162,0.09,USA,Austin
+466,E02468,Luca Washington,Enterprise Engineer,IT,Large Companies,Male,Black,40,2022-06-27,65075,0.0,USA,Phoenix
+359,E02361,Christian Castro,Enterprise Engineer,IT,Specialized Products,Male,Latin,40,2006-04-15,43645,0.0,USA,Austin
+765,E02767,Savannah Cortez,Analyst,IT,Specialized Products,Female,Latin,55,2018-12-15,95400,0.0,Brazil,Manaus
+41,E02043,Gianna Jones,Manager,Accounting,Research and Development,Female,Asian,48,1998-09-26,119220,0.09,USA,Columbus
+86,E02088,Robert Soto,Analyst,Human Resources,Research and Development,Male,Latin,47,2008-09-10,72384,0.0,Brazil,Rio de Janeiro
+462,E02464,Sophia Wang,Analyst,Marketing,Specialized Products,Female,Asian,50,2000-05-20,48733,0.0,USA,Seattle
+501,E02503,Scarlett Howard,Manager,Accounting,Production,Female,Asian,55,2012-08-12,117421,0.05,USA,Austin
+723,E02725,Isaiah Ramos,System Manager,IT,Production,Male,Latin,51,2018-06-21,87897,0.0,USA,Phoenix
+355,E02357,Abigail Chu,Manager,Human Resources,Production,Female,Asian,51,2006-04-17,147436,0.11,USA,Austin
+402,E02404,Oliver Jones,Assistant,Accounting,Production,Male,Asian,56,2016-03-20,192374,0.3,USA,Chicago
+207,E02209,Layla Nunez,Manager,Accounting,Production,Female,Latin,63,2017-09-10,126064,0.05,USA,Miami
+693,E02695,Alexander Perez,Quality Engineer,Engineering,Specialized Products,Male,Latin,60,2008-06-25,86761,0.0,Brazil,Rio de Janeiro
+513,E02515,Sebastian Sanders,Manager,Accounting,Large Companies,Male,Asian,39,2009-01-23,100718,0.05,USA,Austin
+535,E02537,Elias Maldonado,Development Manager,IT,Production,Male,Latin,56,2005-04-01,94724,0.0,USA,Chicago
+400,E02402,Isabella Munoz,Director,Accounting,Research and Development,Female,Latin,45,2002-12-25,193154,0.18,Brazil,São Paulo
+247,E02249,Henry Vo,Control Engineer,Engineering,Production,Male,Asian,60,1996-09-13,81699,0.0,China,Beijing
+791,E02793,Jonathan Ali,Automation Engineer,Engineering,Specialized Products,Male,Asian,51,2004-07-20,88288,0.0,China,Chongqing
+238,E02240,Ryan Yi,System Manager,IT,Specialized Products,Male,Asian,56,2003-08-17,82758,0.0,USA,Seattle
+26,E02028,Brooks Richardson,Director,Marketing,Specialized Products,Male,Asian,58,2020-11-24,151341,0.22,USA,Seattle
+787,E02789,Everly Hwang,Assistant,Accounting,Research and Development,Female,Asian,31,2022-10-27,191755,0.4,USA,Miami
+230,E02232,Asher Hsu,Analyst,Accounting,Production,Male,Asian,36,2020-03-13,80757,0.0,China,Chongqing
+497,E02499,Ayla Lim,Director,Marketing,Large Companies,Female,Asian,41,2021-09-05,192266,0.23,China,Chengdu
+937,E02939,Penelope Avila,Analyst,Marketing,Large Companies,Female,Latin,35,2012-05-22,46569,0.0,USA,Austin
+961,E02963,Hunter Molina,Analyst,Marketing,Specialized Products,Male,Latin,41,2018-02-20,55330,0.0,USA,Austin
+444,E02446,Madeline Smith,Cloud Infrastructure Engineer,IT,Research and Development,Female,Asian,55,2011-11-23,66660,0.0,USA,Phoenix
+562,E02564,Addison Li,Analyst,Human Resources,Research and Development,Female,Asian,37,2010-03-04,61680,0.0,China,Beijing
+126,E02128,Luke Ramos,Technical Engineer,Accounting,Large Companies,Male,Latin,30,2018-07-28,72463,0.0,Brazil,Manaus
+563,E02565,Carson Hoang,Analyst,Accounting,Production,Male,Asian,43,2021-10-09,72482,0.0,USA,Chicago
+99,E02101,Leah Zheng,Director,Engineering,Large Companies,Female,Asian,52,2016-06-18,182938,0.23,China,Chengdu
+823,E02825,Kai Barnes,Technical Engineer,Accounting,Research and Development,Male,Asian,35,2016-08-24,58733,0.0,USA,Miami
+583,E02585,Aiden Hu,Enterprise Engineer,IT,Research and Development,Male,Asian,44,2010-05-07,56680,0.0,USA,Chicago
+732,E02734,Isaac Santos,Development Engineer,Engineering,Production,Male,Latin,43,2018-09-13,91537,0.0,USA,Chicago
+307,E02309,Eliana Turner,Analyst,Accounting,Research and Development,Female,Black,29,2020-01-27,98992,0.0,USA,Miami
+749,E02751,Eloise Griffin,Enterprise Engineer,IT,Specialized Products,Female,Asian,27,2022-05-06,77607,0.0,USA,Miami
+498,E02500,Leilani Hong,System Manager,IT,Production,Female,Asian,36,2013-12-20,79876,0.0,USA,Seattle
+989,E02991,John Campos,Development Engineer,Engineering,Production,Male,Latin,34,2021-02-25,104586,0.0,Brazil,São Paulo
+985,E02987,Delilah Cheng,System Manager,IT,Specialized Products,Female,Asian,45,2015-03-15,92820,0.0,China,Chongqing
+17,E02019,Ivy Chau,Analyst,Accounting,Specialized Products,Female,Asian,61,2019-03-03,54811,0.0,China,Chongqing
+55,E02057,Eliza Kang,Manager,IT,Production,Female,Asian,63,2002-01-27,76659,0.05,USA,Phoenix
+844,E02846,Robert Santos,Manager,Human Resources,Research and Development,Male,Latin,47,2000-12-29,134612,0.12,USA,Austin
+327,E02329,Claire Owens,Control Engineer,IT,Research and Development,Female,Asian,52,1998-06-07,75402,0.0,USA,Phoenix
+696,E02698,Elizabeth Powell,Manager,Marketing,Research and Development,Female,Asian,45,2013-09-17,138355,0.14,USA,Columbus
+927,E02929,Easton Truong,Assistant,Marketing,Research and Development,Male,Asian,31,2021-05-13,234203,0.36,USA,Seattle
+576,E02578,Owen Han,Analyst,Accounting,Specialized Products,Male,Asian,30,2022-09-01,66892,0.0,USA,Seattle
+997,E02999,Layla Wu,Technical Engineer,Accounting,Research and Development,Female,Asian,31,2018-08-27,89573,0.0,USA,Miami
+722,E02724,David Foster,Control Engineer,Engineering,Large Companies,Male,Asian,50,2012-01-15,87727,0.0,USA,Miami
+995,E02997,Melody Delgado,Network Engineer,IT,Specialized Products,Female,Latin,48,2012-11-28,71632,0.0,Brazil,Rio de Janeiro
+353,E02355,Leonardo Li,Manager,Accounting,Specialized Products,Male,Asian,65,2009-04-23,155716,0.12,USA,Seattle
+28,E02030,Peyton Wright,Manager,Marketing,Large Companies,Female,Black,41,2017-05-13,153370,0.1,USA,Chicago
+702,E02704,Santiago f Vo,Director,Accounting,Production,Male,Asian,47,2019-07-15,169487,0.23,USA,Columbus
+947,E02949,Kinsley Huynh,Assistant,Human Resources,Specialized Products,Female,Asian,53,2009-04-22,258722,0.36,USA,Phoenix
+286,E02288,Christopher Vu,Manager,IT,Large Companies,Male,Asian,47,2002-03-16,88839,0.05,USA,Phoenix
+888,E02890,Elizabeth Estrada,Enterprise Engineer,IT,Large Companies,Female,Latin,37,2016-12-20,59376,0.0,USA,Miami
+477,E02479,Peyton Wong,Assistant,Accounting,Production,Female,Asian,35,2020-08-05,218127,0.37,USA,Chicago
+956,E02958,Elena Jimenez,Assistant,Engineering,Specialized Products,Female,Latin,43,2011-11-11,185211,0.39,Brazil,São Paulo
+104,E02106,Peyton Allen,Manager,Marketing,Specialized Products,Female,Asian,26,2020-11-23,112264,0.05,USA,Chicago
+166,E02168,Paisley Dominguez,Director,Engineering,Research and Development,Female,Latin,53,2009-06-14,123203,0.1,USA,Austin
+485,E02487,Leilani Shin,Analyst,Accounting,Large Companies,Female,Asian,58,2013-12-18,55174,0.0,USA,Austin
+73,E02075,Peyton Edwards,Analyst,Accounting,Production,Female,Asian,65,2020-07-11,59344,0.0,USA,Columbus
+265,E02267,Matthew Simmons,Manager,Accounting,Research and Development,Male,Black,28,2022-12-19,142797,0.1,USA,Seattle
+779,E02781,Robert Padilla,Analyst,Accounting,Production,Male,Latin,65,1998-02-16,63346,0.0,Brazil,Rio de Janeiro
+231,E02233,Greyson Lim,Director,Accounting,Large Companies,Male,Asian,28,2022-10-12,198662,0.25,China,Beijing
+669,E02671,Serenity Rodriguez,Director,Accounting,Large Companies,Female,Latin,54,1995-04-10,195662,0.15,USA,Columbus
+611,E02613,Sarah Shin,Assistant,IT,Production,Female,Asian,26,2021-12-03,193435,0.31,USA,Chicago
+657,E02659,Harper Yee,System Manager,IT,Production,Female,Asian,48,2021-11-01,75624,0.0,China,Chengdu
+672,E02674,Sadie Chin,Assistant,Human Resources,Specialized Products,Female,Asian,51,2000-07-26,199736,0.35,USA,Austin
+734,E02736,Leilani Hu,Analyst,Accounting,Research and Development,Female,Asian,57,2018-05-21,50260,0.0,China,Chengdu
+134,E02136,Jack Rogers,Analyst,IT,Large Companies,Male,Black,47,2005-02-01,46202,0.0,USA,Phoenix
+38,E02040,Jeremiah Cheng,Analyst,Marketing,Specialized Products,Male,Asian,26,2022-02-05,70946,0.0,China,Shanghai
+624,E02626,Luke Acosta,Network Engineer,IT,Specialized Products,Male,Latin,57,2022-07-20,93872,0.0,Brazil,São Paulo
+812,E02814,Nevaeh Ali,Manager,Marketing,Production,Female,Asian,48,2013-03-22,100652,0.07,USA,Miami
+683,E02685,Oliver Hunter,Analyst,IT,Production,Male,Asian,38,2015-12-20,70588,0.0,USA,Miami
+945,E02947,Liliana Green,Network Manager,IT,Large Companies,Female,Asian,48,2000-05-19,62672,0.0,USA,Chicago
+377,E02379,David Garza,Director,IT,Production,Male,Latin,29,2022-01-09,197731,0.15,USA,Seattle
+857,E02859,Caroline Smith,Manager,Marketing,Large Companies,Female,Asian,28,2020-04-27,106043,0.1,USA,Columbus
+589,E02591,Levi Kang,Director,Engineering,Production,Male,Asian,32,2019-04-28,96951,0.13,China,Chengdu
+721,E02723,Mateo Vargas,Network Engineer,IT,Specialized Products,Male,Latin,53,1994-04-20,75226,0.0,Brazil,Rio de Janeiro
+876,E02878,Logan Ortega,Analyst,Marketing,Production,Male,Latin,31,2020-05-19,64234,0.0,USA,Seattle
+546,E02548,Madeline Cruz,System Manager,IT,Specialized Products,Female,Latin,63,2008-05-19,75396,0.0,Brazil,Rio de Janeiro
+322,E02324,Oliver Ford,Manager,Accounting,Research and Development,Male,Black,32,2018-12-15,101564,0.06,USA,Austin
+7,E02009,Miles Chang,Analyst,Accounting,Large Companies,Male,Asian,62,1999-02-19,69674,0.0,China,Chengdu
+487,E02489,Autumn Xiong,Network Manager,IT,Specialized Products,Female,Asian,28,2020-02-13,75172,0.0,China,Shanghai
+821,E02823,Paisley Hsu,Director,Accounting,Specialized Products,Female,Asian,43,2006-01-07,161376,0.24,China,Beijing
+838,E02840,Mia Vang,Assistant,Accounting,Large Companies,Female,Asian,38,2014-04-19,256509,0.39,China,Shanghai
+597,E02599,Elijah Hill,Analyst,Marketing,Research and Development,Male,Asian,48,2018-12-16,83332,0.0,USA,Austin
+610,E02612,Dylan Guzman,Quality Engineer,Engineering,Research and Development,Male,Latin,42,2017-03-16,66226,0.0,Brazil,São Paulo
+216,E02218,Hazel Cho,Assistant,Accounting,Large Companies,Female,Asian,63,2004-08-12,193531,0.4,China,Shanghai
+100,E02102,Jade Pham,Analyst,Accounting,Production,Female,Asian,61,2017-12-12,53931,0.0,China,Shanghai
+813,E02815,Mila Vasquez,Assistant,Human Resources,Large Companies,Female,Latin,48,2013-07-26,225725,0.37,USA,Phoenix
+348,E02350,Charlotte Park,Network Engineer,IT,Specialized Products,Female,Asian,63,2020-12-17,96136,0.0,China,Shanghai
+517,E02519,Quinn Owens,Director,Engineering,Production,Female,Asian,40,2018-05-09,74329,0.0,USA,Chicago
+577,E02579,Harper Washington,Assistant,Marketing,Production,Female,Asian,48,1999-06-24,256084,0.34,USA,Columbus
+30,E02032,Ruby Alexander,Assistant,Accounting,Research and Development,Female,Asian,59,2001-08-13,255610,0.36,USA,Phoenix
+255,E02257,Jackson Maldonado,Cloud Infrastructure Engineer,IT,Production,Male,Latin,52,2008-05-01,63444,0.0,USA,Miami
+943,E02945,Eliana Hsu,Development Engineer,Engineering,Specialized Products,Female,Asian,49,2021-06-09,123738,0.0,USA,Phoenix
+34,E02036,Leonardo Carter,Business Partner,Human Resources,Specialized Products,Male,Asian,50,2022-09-07,54931,0.0,USA,Austin
+417,E02419,Caroline Ahmed,Manager,Marketing,Research and Development,Female,Asian,32,2016-12-23,155884,0.13,USA,Miami
+136,E02138,Victoria Park,Analyst,Marketing,Research and Development,Female,Asian,27,2020-03-18,45989,0.0,USA,Chicago
+419,E02421,Leo Simmons,Analyst,Accounting,Research and Development,Male,Black,38,2017-12-13,52200,0.0,USA,Phoenix
+744,E02746,Nicholas Jiang,Director,Engineering,Production,Male,Asian,62,2003-12-13,80132,0.14,China,Chongqing
+8,E02010,Gianna Holmes,System Manager,IT,Production,Female,Asian,38,2011-09-09,97630,0.0,USA,Seattle
+800,E02802,Hunter Moua,Analyst,Accounting,Specialized Products,Male,Asian,29,2019-11-29,72620,0.0,China,Chongqing
+751,E02753,Gabriel Cheung,Analyst,Accounting,Specialized Products,Male,Asian,64,2016-11-29,43785,0.0,China,Chongqing
+872,E02874,Samantha Chau,Network Engineer,IT,Specialized Products,Female,Asian,28,2021-11-10,83965,0.0,China,Chengdu
+711,E02713,Caroline Robinson,Director,Human Resources,Specialized Products,Female,Asian,28,2020-01-22,161868,0.21,USA,Austin
+603,E02605,Lydia Marquez,Manager,Human Resources,Large Companies,Female,Latin,29,2018-09-28,130790,0.1,Brazil,Rio de Janeiro
+403,E02405,Charles Taylor,Director,Human Resources,Specialized Products,Male,Asian,32,2019-07-15,186869,0.16,USA,Miami
+474,E02476,Emilia Ortiz,Assistant,Marketing,Research and Development,Female,Latin,34,2017-07-16,208883,0.38,USA,Miami
+629,E02631,Cora Xu,Network Manager,IT,Production,Female,Asian,54,2011-11-17,60513,0.0,USA,Austin
+743,E02745,Hailey Liu,Director,Engineering,Production,Female,Asian,31,2022-07-09,72475,0.0,USA,Phoenix
+46,E02048,Luca Powell,Enterprise Engineer,IT,Specialized Products,Male,Asian,33,2016-12-18,54700,0.0,USA,Miami
+820,E02822,Madison Patel,Test Engineer,Engineering,Large Companies,Female,Asian,37,2013-10-26,69125,0.0,USA,Austin
+114,E02116,Clara Le,Analyst,IT,Large Companies,Female,Asian,56,2021-03-15,79388,0.0,China,Beijing
+112,E02114,Elias Rojas,Technical Engineer,Accounting,Production,Male,Latin,30,2018-01-07,58290,0.0,USA,Chicago
+339,E02341,Rylee Howard,Manager,Accounting,Production,Female,Black,33,2014-08-18,135215,0.12,USA,Miami
+386,E02388,Alexander Zhu,Network Engineer,IT,Large Companies,Male,Asian,30,2022-10-17,89164,0.0,USA,Phoenix
+253,E02255,Skylar Xu,Test Engineer,Engineering,Research and Development,Female,Asian,60,1997-10-16,72806,0.0,China,Chongqing
+893,E02895,Joshua Hall,Analyst,IT,Production,Male,Black,61,2011-12-07,41220,0.0,USA,Chicago
+644,E02646,Mia Navarro,Assistant,Human Resources,Large Companies,Female,Latin,26,2020-05-22,187792,0.4,USA,Chicago
+184,E02186,Logan Reyes,Quality Engineer,Engineering,Large Companies,Male,Latin,62,1995-04-10,78251,0.0,Brazil,São Paulo
+694,E02696,Everleigh Kumar,Manager,IT,Production,Female,Asian,65,1994-07-05,125213,0.07,USA,Seattle
+574,E02576,Liam Valdez,Assistant,Human Resources,Research and Development,Male,Latin,55,1999-03-01,227148,0.33,Brazil,São Paulo
+871,E02873,Asher Bui,Technical Engineer,Accounting,Specialized Products,Male,Asian,41,2009-01-27,90881,0.0,China,Shanghai
+540,E02542,Samuel Thomas,Assistant,Accounting,Specialized Products,Male,Asian,43,2016-02-15,180385,0.33,USA,Columbus
+240,E02242,Emilia Xu,Manager,Marketing,Large Companies,Female,Asian,46,2017-01-24,103147,0.06,USA,Miami
+558,E02560,Sophia Rodriguez,Development Engineer,Engineering,Specialized Products,Female,Latin,58,2007-10-31,96256,0.0,USA,Chicago
+556,E02558,Anthony Gupta,Cloud Infrastructure Engineer,IT,Specialized Products,Male,Asian,38,2021-09-23,70612,0.0,China,Chongqing
+731,E02733,Riley Ayala,Manager,Accounting,Specialized Products,Female,Latin,42,2010-02-20,128714,0.07,Brazil,São Paulo
+878,E02880,Christopher Desai,Automation Engineer,Engineering,Research and Development,Male,Asian,46,2000-12-29,114260,0.0,China,Chengdu
+552,E02554,Eliza Espinoza,Manager,Marketing,Specialized Products,Female,Latin,30,2017-12-28,103646,0.07,USA,Phoenix
+382,E02384,Eloise Huang,Assistant,Accounting,Research and Development,Female,Asian,51,2009-04-05,195171,0.33,USA,Seattle
+665,E02667,Jacob Cooper,System Manager,IT,Research and Development,Male,Asian,64,2018-05-18,87521,0.0,USA,Seattle
+845,E02847,Addison Ma,Analyst,IT,Research and Development,Female,Asian,59,2008-05-21,46151,0.0,USA,Phoenix
+853,E02855,Allison Wang,Manager,Accounting,Production,Female,Asian,30,2018-12-16,121234,0.05,USA,Austin
+67,E02069,David Sanchez,Director,Accounting,Specialized Products,Male,Latin,38,2009-07-05,182055,0.27,Brazil,Rio de Janeiro
+229,E02231,Jayden Jones,Cloud Infrastructure Engineer,IT,Production,Male,Asian,27,2022-07-09,74587,0.0,USA,Austin
+96,E02098,Connor Lai,Director,Engineering,Large Companies,Male,Asian,32,2019-09-22,111035,0.12,USA,Chicago
+567,E02569,Nolan Han,Business Partner,Human Resources,Large Companies,Male,Asian,29,2017-11-19,53090,0.0,USA,Miami
+107,E02109,Lillian Desai,Director,Engineering,Production,Female,Asian,27,2022-12-12,92806,0.0,China,Chengdu
+617,E02619,Aria Cheng,Business Partner,Human Resources,Research and Development,Female,Asian,61,1996-08-26,42829,0.0,USA,Columbus
+278,E02280,Lucas Lam,Manager,Accounting,Specialized Products,Male,Asian,34,2013-07-17,116676,0.1,China,Chengdu
+889,E02891,Sofia Yee,System Manager,IT,Research and Development,Female,Asian,52,2018-12-25,98060,0.0,USA,Miami
+33,E02035,Liliana Chang,Analyst,IT,Large Companies,Female,Asian,32,2018-01-11,97509,0.0,China,Shanghai
+680,E02682,Christopher Aguilar,Enterprise Engineer,IT,Production,Male,Latin,32,2021-05-14,79670,0.0,USA,Columbus
+754,E02756,Roman Mendoza,Assistant,Accounting,Specialized Products,Male,Latin,54,1994-09-04,257489,0.34,Brazil,Rio de Janeiro
+810,E02812,Nathan Jackson,Assistant,Accounting,Production,Male,Asian,41,2011-03-25,210085,0.39,USA,Chicago
+874,E02876,Jonathan Nelson,Director,Human Resources,Production,Male,Asian,59,2022-07-02,175137,0.26,USA,Chicago
+88,E02090,Chloe Reyes,Director,Human Resources,Specialized Products,Female,Latin,45,2008-06-18,191304,0.17,USA,Phoenix
+53,E02055,Layla Bell,Assistant,Engineering,Large Companies,Female,Asian,65,2001-07-26,203030,0.31,USA,Chicago
+623,E02625,Hunter Hu,Manager,Accounting,Specialized Products,Male,Asian,64,2003-07-13,100951,0.05,USA,Miami
+647,E02649,Gabriella Jordan,Test Engineer,Engineering,Research and Development,Female,Asian,32,2019-09-21,61243,0.0,USA,Miami
+789,E02791,Ian Hernandez,Director,Accounting,Large Companies,Male,Latin,40,2021-12-01,176533,0.25,USA,Austin
+337,E02339,Noah Truong,Assistant,Accounting,Production,Male,Asian,47,2013-12-08,246680,0.39,China,Beijing
+188,E02190,Ezra Tan,Manager,Accounting,Large Companies,Male,Asian,49,1999-12-22,158028,0.12,China,Chengdu
+205,E02207,Ryan Rivera,Director,Human Resources,Specialized Products,Male,Latin,53,2001-11-29,179983,0.16,USA,Phoenix
+176,E02178,Julian Harris,Development Engineer,Engineering,Production,Male,Asian,61,2015-12-30,98565,0.0,USA,Phoenix
+306,E02308,Henry Vang,Director,Accounting,Large Companies,Male,Asian,37,2019-06-21,173630,0.24,China,Chongqing
+311,E02313,Emilia Barnes,Enterprise Engineer,IT,Specialized Products,Female,Black,54,2013-04-18,80129,0.0,USA,Miami
+564,E02566,Julian Fernandez,Development Engineer,Engineering,Research and Development,Male,Latin,27,2022-02-07,81713,0.0,Brazil,Rio de Janeiro
+234,E02236,Jack Perez,Cloud Infrastructure Engineer,IT,Research and Development,Male,Latin,30,2017-01-09,80389,0.0,Brazil,Manaus
+109,E02111,Caroline Sandoval,Analyst,Accounting,Large Companies,Female,Latin,36,2013-10-03,48117,0.0,Brazil,São Paulo
+129,E02131,Lillian Cheng,Analyst,Accounting,Research and Development,Female,Asian,58,1996-08-20,58208,0.0,China,Chengdu
+460,E02462,Luke Luna,Analyst,Accounting,Production,Male,Latin,55,2012-11-16,66172,0.0,Brazil,Manaus
+717,E02719,Colton Mejia,Manager,Accounting,Research and Development,Male,Latin,28,2019-04-26,141675,0.12,Brazil,Rio de Janeiro
+57,E02059,Piper Garcia,Manager,Accounting,Research and Development,Female,Latin,60,1993-11-24,126929,0.12,Brazil,São Paulo
+135,E02137,Violet Huynh,Manager,Accounting,Research and Development,Female,Asian,50,2008-02-29,123096,0.1,China,Shanghai
+550,E02552,Kai Duong,Enterprise Engineer,IT,Research and Development,Male,Asian,41,2018-11-16,57166,0.0,China,Shanghai
+378,E02380,Hunter Doan,Manager,Accounting,Research and Development,Male,Asian,32,2014-12-15,151758,0.12,China,Beijing
+287,E02289,Kai Vega,Automation Engineer,Engineering,Production,Male,Latin,51,2005-06-16,78107,0.0,Brazil,Manaus
+613,E02615,Riley Vega,Director,Engineering,Research and Development,Female,Latin,25,2022-11-11,177264,0.16,Brazil,Manaus
+618,E02620,Christopher Ramirez,Director,Engineering,Research and Development,Male,Latin,41,2010-03-15,118973,0.1,USA,Phoenix
+740,E02742,Everleigh Phillips,Analyst,Accounting,Production,Female,Asian,62,2015-11-08,69057,0.0,USA,Chicago
+808,E02810,Jade Hu,Analyst,Marketing,Research and Development,Female,Asian,45,2001-12-15,53526,0.0,USA,Seattle
+268,E02270,Ava Carrillo,Manager,Accounting,Specialized Products,Female,Latin,63,1999-01-01,149582,0.14,USA,Seattle
+587,E02589,Christian Liu,Director,Accounting,Research and Development,Male,Asian,57,2000-03-29,178447,0.22,China,Chengdu
+979,E02981,Colton Bui,Manager,Accounting,Research and Development,Male,Asian,46,2018-12-20,128845,0.13,China,Shanghai
+858,E02860,Grayson Lai,System Manager,IT,Specialized Products,Male,Asian,47,2005-09-12,78985,0.0,China,Beijing
+859,E02861,Anna Guerrero,Assistant,IT,Research and Development,Female,Latin,43,2012-11-24,226122,0.32,Brazil,Manaus
+500,E02502,Naomi Wright,System Manager,IT,Production,Female,Asian,36,2016-11-03,99249,0.0,USA,Miami
+933,E02935,Everleigh Castillo,Analyst,IT,Specialized Products,Female,Latin,50,2007-11-12,67756,0.0,USA,Chicago
+371,E02373,Benjamin Estrada,Analyst,Marketing,Research and Development,Male,Latin,56,2012-09-28,65368,0.0,USA,Seattle
+511,E02513,Anthony Phan,Enterprise Engineer,IT,Research and Development,Male,Asian,39,2011-04-11,92523,0.0,USA,Miami
+246,E02248,Lucas Alexander,Director,IT,Production,Male,Black,41,2013-09-20,192944,0.22,USA,Miami
+423,E02425,Carter Hunter,Analyst,Accounting,Large Companies,Male,Asian,41,2019-10-07,72650,0.0,USA,Austin
+832,E02834,Colton Le,Analyst,Human Resources,Specialized Products,Male,Asian,38,2010-01-12,71235,0.0,China,Chongqing
+523,E02525,Nora Butler,Assistant,IT,Research and Development,Female,Black,26,2022-05-06,188880,0.36,USA,Phoenix
+809,E02811,Henry Vazquez,Development Manager,IT,Specialized Products,Male,Latin,33,2016-12-03,90084,0.0,USA,Columbus
+274,E02276,Kinsley Tran,Assistant,Accounting,Production,Female,Asian,53,2005-09-05,234064,0.33,China,Chengdu
+579,E02581,Hudson Oh,Enterprise Engineer,IT,Research and Development,Male,Asian,30,2021-09-09,44454,0.0,China,Beijing
+780,E02782,Landon Munoz,Control Engineer,Engineering,Production,Male,Latin,40,2014-07-11,105574,0.0,USA,Miami
+875,E02877,Liliana Simmons,Director,Marketing,Production,Female,Asian,35,2012-06-07,161453,0.27,USA,Phoenix
+217,E02219,Iris Chung,Manager,IT,Research and Development,Female,Asian,52,2013-03-12,128301,0.06,China,Beijing
+450,E02452,Eva Lam,Director,Engineering,Production,Female,Asian,42,2022-03-08,73404,0.0,USA,Austin
+565,E02567,Caleb Rojas,Analyst,Accounting,Production,Male,Latin,38,2021-12-04,68281,0.0,USA,Miami
+164,E02166,Addison Lo,Cloud Infrastructure Engineer,IT,Research and Development,Female,Asian,27,2020-08-28,68712,0.0,USA,Columbus
+406,E02408,Julia Gonzalez,Analyst,Accounting,Research and Development,Female,Latin,46,2005-02-15,54831,0.0,Brazil,São Paulo
+516,E02518,Ariana Santiago,Network Engineer,IT,Research and Development,Female,Latin,54,2003-10-28,88906,0.0,USA,Phoenix
+571,E02573,Leonardo Patterson,Analyst,Accounting,Specialized Products,Male,Asian,46,2012-02-06,93642,0.0,USA,Columbus
+2,E02004,Cameron Lo,Network Manager,IT,Research and Development,Male,Asian,34,2019-03-24,83576,0.0,China,Shanghai
+182,E02184,Ariana Sharma,Assistant,Accounting,Research and Development,Female,Asian,45,2014-01-24,257725,0.34,USA,Seattle
+81,E02083,Penelope Chan,Analyst,Accounting,Production,Female,Asian,59,2012-05-20,57704,0.0,China,Shanghai
+661,E02663,Josiah Lai,Manager,Human Resources,Research and Development,Male,Asian,54,1995-03-21,154658,0.12,China,Chongqing
+101,E02103,Theodore Bui,Assistant,Accounting,Specialized Products,Male,Asian,53,2012-05-13,252140,0.38,China,Beijing
+775,E02777,Eliza Zhu,Technical Engineer,Accounting,Specialized Products,Female,Asian,43,2006-09-30,63229,0.0,USA,Miami
+202,E02204,Peyton Powell,System Manager,IT,Research and Development,Female,Asian,44,2003-02-16,74431,0.0,USA,Phoenix
+159,E02161,Evelyn Alvarado,Network Manager,IT,Specialized Products,Female,Latin,36,2022-08-12,83548,0.0,USA,Miami
+71,E02073,Alice Luu,System Manager,IT,Research and Development,Female,Asian,60,1993-07-17,81083,0.0,USA,Columbus
+37,E02039,Silas Ross,Analyst,Marketing,Research and Development,Male,Asian,47,2016-02-10,48523,0.0,USA,Austin
+885,E02887,Caroline Gomez,Technical Engineer,Accounting,Specialized Products,Female,Latin,65,1997-11-19,90737,0.0,Brazil,São Paulo
+66,E02068,Ethan Sanchez,Analyst,Marketing,Research and Development,Male,Latin,34,2019-05-15,81646,0.0,USA,Phoenix
+23,E02025,Parker Lai,Assistant,Accounting,Specialized Products,Male,Asian,48,2006-11-29,246400,0.36,China,Chongqing
+303,E02305,Ava Aguilar,Business Partner,Human Resources,Large Companies,Female,Latin,35,2015-12-17,53285,0.0,USA,Columbus
+829,E02831,Brooks Mitchell,Manager,Accounting,Specialized Products,Male,Asian,53,2014-08-10,125545,0.06,USA,Austin
+852,E02854,Leo Figueroa,Technical Engineer,IT,Large Companies,Male,Latin,31,2015-01-21,63644,0.0,Brazil,Manaus
+593,E02595,Emery Hernandez,Development Engineer,Engineering,Research and Development,Female,Latin,27,2021-07-12,75583,0.0,Brazil,Manaus
+317,E02319,Jordan Ngo,Analyst,Accounting,Production,Male,Asian,26,2020-05-04,91372,0.0,USA,Miami
+768,E02770,Iris Bailey,Enterprise Engineer,IT,Research and Development,Female,Asian,26,2020-02-18,42343,0.0,USA,Miami
+463,E02465,Nova Park,Analyst,Accounting,Large Companies,Female,Asian,29,2017-07-23,48563,0.0,China,Shanghai
+43,E02045,Ella Chen,Manager,Accounting,Specialized Products,Female,Asian,45,2005-11-10,114072,0.08,USA,Phoenix
+6,E02008,Jade Hu,Analyst,Accounting,Specialized Products,Female,Asian,58,2009-06-27,89744,0.0,China,Chongqing
+437,E02439,Hadley Le,Cloud Infrastructure Engineer,IT,Research and Development,Female,Asian,33,2015-03-18,60690,0.0,China,Chongqing
+981,E02983,Nora Richardson,Director,Human Resources,Specialized Products,Female,Asian,53,1999-01-08,173624,0.17,USA,Miami
+68,E02070,Elias Hsu,Analyst,Marketing,Specialized Products,Male,Asian,35,2022-01-23,86777,0.0,China,Chengdu
+671,E02673,Luke Avila,Assistant,Accounting,Large Companies,Male,Latin,27,2020-08-21,181587,0.38,Brazil,Manaus
+162,E02164,Brooks Evans,Technical Engineer,Accounting,Specialized Products,Male,Asian,45,2016-05-04,80989,0.0,USA,Columbus
+741,E02743,Natalie Acosta,Manager,Marketing,Specialized Products,Female,Latin,36,2019-01-08,157976,0.1,Brazil,Rio de Janeiro
+160,E02162,Wyatt Chan,Manager,Accounting,Production,Male,Asian,53,2005-06-28,128226,0.08,China,Shanghai
+504,E02506,Luca Jiang,Technical Engineer,Accounting,Research and Development,Male,Asian,47,2013-09-08,57386,0.0,China,Beijing
+762,E02764,Lincoln Alvarado,Analyst,Marketing,Production,Male,Latin,65,2004-12-08,93857,0.0,USA,Phoenix
+412,E02414,Owen Evans,Enterprise Engineer,IT,Production,Male,Asian,34,2021-05-28,68972,0.0,USA,Austin
+660,E02662,Aiden Evans,Manager,Accounting,Large Companies,Male,Asian,48,2010-05-16,117736,0.05,USA,Columbus
+948,E02950,Anna Carrillo,Development Engineer,Engineering,Large Companies,Female,Latin,55,2003-02-21,64809,0.0,Brazil,Rio de Janeiro
+545,E02547,آستین Ng,Manager,Accounting,Research and Development,Male,Asian,45,2009-03-03,126697,0.13,China,Beijing
+257,E02259,Penelope Santos,Development Manager,IT,Production,Female,Latin,37,2009-03-01,92849,0.0,USA,Chicago
+39,E02041,Chloe Chin,Manager,Accounting,Specialized Products,Female,Asian,62,2021-11-13,134487,0.1,USA,Seattle
+415,E02417,Ivy Do,Analyst,Accounting,Large Companies,Female,Asian,57,1993-05-13,57230,0.0,USA,Austin
+980,E02982,Caroline Cortez,Manager,IT,Specialized Products,Female,Latin,64,2014-10-04,120704,0.08,USA,Miami
+752,E02754,Kai Green,System Manager,IT,Large Companies,Male,Asian,65,2015-06-15,75439,0.0,USA,Seattle
+334,E02336,Levi James,Manager,IT,Specialized Products,Male,Asian,39,2012-03-02,103466,0.05,USA,Chicago
+90,E02092,Luna Edwards,Manager,Accounting,Research and Development,Female,Black,42,2014-04-13,106726,0.09,USA,Seattle
+673,E02675,Everett Le,Assistant,Accounting,Large Companies,Male,Asian,45,2014-01-07,250639,0.34,China,Shanghai
+951,E02953,Jonathan Dominguez,Analyst,Accounting,Specialized Products,Male,Latin,55,2002-07-14,54641,0.0,Brazil,São Paulo
+862,E02864,Eliza Parker,Development Engineer,Engineering,Large Companies,Female,Asian,37,2010-03-24,80015,0.0,USA,Chicago
+147,E02149,Caleb Jones,Manager,Marketing,Large Companies,Male,Asian,57,1996-07-10,122825,0.08,USA,Miami
+884,E02886,Colton Mehta,Analyst,Accounting,Production,Male,Asian,42,2014-12-07,53829,0.0,China,Beijing
+211,E02213,Savannah Rodriguez,Director,Accounting,Large Companies,Female,Latin,30,2022-11-18,168050,0.24,Brazil,Manaus
+666,E02668,Christopher Dominguez,Director,Marketing,Research and Development,Male,Latin,36,2015-09-17,179166,0.17,Brazil,Manaus
+718,E02720,Joseph Kim,Analyst,Accounting,Research and Development,Male,Asian,28,2018-06-23,53210,0.0,USA,Seattle
+349,E02351,Liam Jimenez,Analyst,Marketing,Research and Development,Male,Latin,52,2002-08-11,95682,0.0,USA,Seattle
+640,E02642,Zoey Lu,Assistant,Marketing,Production,Female,Asian,45,2007-10-31,216269,0.37,USA,Chicago
+203,E02205,Hailey Rojas,Analyst,Accounting,Specialized Products,Female,Latin,52,2014-07-15,43378,0.0,USA,Miami
+171,E02173,Zoey Leung,Network Manager,IT,Research and Development,Female,Asian,40,2007-09-27,77637,0.0,China,Chongqing
+962,E02964,Michael Hoang,Director,IT,Specialized Products,Male,Asian,59,2017-05-04,190570,0.17,China,Beijing
+502,E02504,Victoria Vo,Director,Engineering,Large Companies,Female,Asian,44,2017-12-18,82241,0.0,China,Shanghai
+932,E02934,Everleigh Coleman,Cloud Infrastructure Engineer,IT,Specialized Products,Female,Asian,46,2012-03-20,74026,0.0,USA,Phoenix
+725,E02727,Emery Fernandez,Analyst,Accounting,Research and Development,Female,Latin,33,2019-03-27,56938,0.0,Brazil,São Paulo
+32,E02034,Axel Ramirez,Manager,Human Resources,Specialized Products,Male,Latin,55,2017-12-04,103795,0.07,USA,Seattle
+436,E02438,Hannah Brown,Cloud Infrastructure Engineer,IT,Production,Female,Asian,42,2020-07-12,79764,0.0,USA,Austin
+698,E02700,John Richardson,Manager,IT,Production,Male,Asian,34,2014-12-29,77024,0.09,USA,Phoenix
+530,E02532,Gianna Cruz,Manager,Accounting,Large Companies,Female,Latin,29,2019-07-02,106456,0.1,USA,Columbus
+375,E02377,Charles Gonzales,Development Manager,IT,Production,Male,Latin,27,2020-09-22,88142,0.0,USA,Columbus
+776,E02778,Greyson Moore,Director,Accounting,Large Companies,Male,Asian,54,2004-02-12,194221,0.16,USA,Austin
+490,E02492,Jaxson Jackson,Enterprise Engineer,IT,Specialized Products,Male,Asian,53,1997-03-01,63165,0.0,USA,Seattle
+301,E02303,Vivian Lim,Enterprise Engineer,IT,Specialized Products,Female,Asian,34,2021-01-22,44677,0.0,China,Chongqing
+65,E02067,Serenity Martin,Analyst,Accounting,Production,Female,Black,26,2021-05-16,97542,0.0,USA,Phoenix
+529,E02531,Riley Phillips,Assistant,Engineering,Specialized Products,Female,Asian,26,2022-08-05,211121,0.35,USA,Phoenix
+320,E02322,Everleigh Bell,Technical Engineer,Accounting,Specialized Products,Female,Asian,31,2016-02-07,84925,0.0,USA,Austin
+79,E02081,Eloise Perry,Manager,Human Resources,Research and Development,Female,Asian,26,2020-12-02,88921,0.0,USA,Chicago
+795,E02797,Autumn Kaur,Manager,Accounting,Large Companies,Female,Asian,29,2022-02-01,129172,0.08,China,Beijing
+289,E02291,Eleanor Xi,Manager,Accounting,Large Companies,Female,Asian,64,1997-01-10,147853,0.11,USA,Austin
+920,E02922,Nevaeh Diaz,Director,Marketing,Production,Female,Latin,44,2018-03-03,167660,0.29,Brazil,São Paulo
+263,E02265,Clara Lopez,Director,IT,Research and Development,Female,Latin,52,1999-08-09,166699,0.27,Brazil,São Paulo
+326,E02328,Luca Hunter,Director,Engineering,Large Companies,Male,Asian,39,2022-06-27,67216,0.0,USA,Phoenix
+841,E02843,Alexander Liang,Assistant,Accounting,Production,Male,Asian,40,2010-03-05,235994,0.33,China,Beijing
+656,E02658,Madeline Guerrero,Quality Engineer,Engineering,Large Companies,Female,Latin,27,2020-08-16,61693,0.0,Brazil,São Paulo
+441,E02443,آستین Ngo,Network Engineer,IT,Research and Development,Male,Asian,43,2020-03-27,62492,0.0,USA,Columbus
+10,E02012,Jameson Pena,Analyst,IT,Production,Male,Latin,49,2003-10-12,40499,0.0,USA,Miami
+409,E02411,Daniel Ali,Cloud Infrastructure Engineer,IT,Large Companies,Male,Asian,43,2019-09-28,94555,0.0,USA,Austin
+519,E02521,Ezra Aguilar,Assistant,IT,Production,Male,Latin,60,2014-11-05,239868,0.4,USA,Miami
+886,E02888,Kayden Tang,Manager,Human Resources,Specialized Products,Male,Asian,57,2012-03-11,136723,0.11,USA,Austin
+111,E02113,Roman Liang,Analyst,Accounting,Production,Male,Asian,28,2021-03-04,85206,0.0,China,Chongqing
+250,E02252,Olivia Vazquez,Control Engineer,IT,Specialized Products,Female,Latin,53,2020-04-13,93053,0.0,Brazil,São Paulo
+928,E02930,Sebastian Vargas,Manager,Marketing,Large Companies,Male,Latin,48,2019-07-12,121884,0.12,USA,Austin
+625,E02627,Sophia Griffin,Assistant,Marketing,Specialized Products,Female,Asian,50,2018-06-29,181570,0.35,USA,Miami
+341,E02343,Layla Owens,Assistant,IT,Research and Development,Female,Asian,47,2018-02-07,246303,0.34,USA,Columbus
+97,E02099,Ava Owens,Analyst,Accounting,Specialized Products,Female,Asian,28,2020-02-07,63066,0.0,USA,Seattle
+356,E02358,Ava Xiong,Manager,Human Resources,Production,Female,Asian,52,2019-07-21,88220,0.0,China,Shanghai
+256,E02258,Christian Harris,Director,Engineering,Specialized Products,Male,Asian,50,1999-02-21,96099,0.11,USA,Chicago
+141,E02143,Madeline Contreras,Analyst,Accounting,Large Companies,Female,Latin,51,1995-10-31,59311,0.0,Brazil,São Paulo
+828,E02830,Samuel Cao,Technical Engineer,Accounting,Specialized Products,Male,Asian,51,1999-05-22,67418,0.0,China,Shanghai
+966,E02968,Leilani Navarro,Manager,Marketing,Specialized Products,Female,Latin,55,2022-07-08,117912,0.05,Brazil,Rio de Janeiro
+887,E02889,Hadley Parker,Manager,Accounting,Production,Female,Asian,44,2010-01-09,129099,0.06,USA,Austin
+24,E02026,Charles Simmons,Manager,Accounting,Specialized Products,Male,Asian,55,1997-10-27,113525,0.06,USA,Miami
+760,E02762,Greyson Munoz,Manager,Marketing,Research and Development,Male,Latin,62,2000-06-23,158614,0.14,Brazil,Rio de Janeiro
+290,E02292,Lily Molina,Manager,IT,Production,Female,Latin,40,2009-09-15,125900,0.07,USA,Seattle
+882,E02884,Noah Allen,Analyst,Accounting,Large Companies,Male,Asian,27,2022-01-06,52058,0.0,USA,Columbus
+456,E02458,Eloise Molina,Analyst,Accounting,Research and Development,Female,Latin,48,2015-01-18,43980,0.0,USA,Columbus
+370,E02372,Serenity Gray,Analyst,Accounting,Research and Development,Female,Black,56,2012-06-19,55008,0.0,USA,Austin
+354,E02356,Kinsley Woods,Analyst,Human Resources,Large Companies,Female,Asian,34,2014-06-19,71699,0.0,USA,Phoenix
+103,E02105,Ezekiel Brown,Manager,Accounting,Large Companies,Male,Asian,27,2022-03-14,120315,0.08,USA,Miami
+401,E02403,Michael Turner,Manager,Human Resources,Specialized Products,Male,Black,28,2019-12-29,115916,0.09,USA,Chicago
+527,E02529,Charles Bryant,Analyst,Accounting,Production,Male,Asian,27,2022-07-12,56919,0.0,USA,Miami
+560,E02562,Piper Hsu,Analyst,Accounting,Research and Development,Female,Asian,45,2015-08-23,48491,0.0,USA,Austin
+338,E02340,Willow Guzman,Enterprise Engineer,IT,Production,Female,Latin,43,2010-06-26,85164,0.0,Brazil,São Paulo
+426,E02428,Hudson Hu,Automation Engineer,Engineering,Research and Development,Male,Asian,36,2019-12-02,121049,0.0,USA,Seattle
+77,E02079,Mia Grant,System Manager,IT,Large Companies,Female,Asian,43,2007-02-16,70923,0.0,USA,Columbus
+138,E02140,Samuel Kumar,Control Engineer,IT,Large Companies,Male,Asian,43,2009-03-09,85261,0.0,China,Chengdu
+424,E02426,Charlotte Green,Automation Engineer,Engineering,Research and Development,Female,Asian,33,2020-11-10,124681,0.0,USA,Phoenix
+127,E02129,Maya Gupta,Director,Engineering,Large Companies,Female,Asian,28,2019-08-04,87675,0.0,China,Beijing
+581,E02583,Alexander Dominguez,Analyst,Accounting,Specialized Products,Male,Latin,58,2014-11-27,58867,0.0,Brazil,Rio de Janeiro
+478,E02480,Santiago f Banks,Manager,IT,Specialized Products,Male,Asian,44,2019-08-16,151481,0.11,USA,Chicago
+174,E02176,Jayden Zhang,Enterprise Engineer,IT,Specialized Products,Male,Asian,64,1994-06-27,70516,0.0,China,Chengdu
+434,E02436,Ryan Alvarez,Analyst,Human Resources,Research and Development,Male,Latin,62,2018-11-29,72025,0.0,Brazil,Manaus
+47,E02049,Parker Thao,Analyst,Accounting,Large Companies,Male,Asian,55,2011-05-08,65022,0.0,China,Chongqing
+969,E02971,Hailey Henderson,Analyst,Marketing,Specialized Products,Female,Asian,57,2008-08-13,51415,0.0,USA,Columbus
+413,E02415,Angel Dixon,Analyst,Accounting,Production,Male,Asian,52,2002-04-01,50775,0.0,USA,Seattle
+730,E02732,Joshua Sun,Manager,Accounting,Large Companies,Male,Asian,38,2011-07-13,121546,0.1,China,Shanghai
+946,E02948,Victoria Vazquez,Test Engineer,Engineering,Research and Development,Female,Latin,45,2007-05-08,92037,0.0,USA,Phoenix
+903,E02905,Dylan Simmons,Manager,Accounting,Production,Male,Black,52,2002-05-23,129231,0.09,USA,Miami
+988,E02990,Luna Collins,Cloud Infrastructure Engineer,IT,Production,Female,Black,59,1993-11-19,92216,0.0,USA,Chicago
+395,E02397,Cooper Rivera,Manager,Accounting,Large Companies,Male,Latin,42,2005-12-26,138215,0.12,Brazil,Manaus
+688,E02690,Aiden Carter,Network Engineer,IT,Production,Male,Asian,32,2021-03-05,71674,0.0,USA,Chicago
+659,E02661,Owen Nelson,Director,Engineering,Specialized Products,Male,Asian,58,2003-01-06,91729,0.13,USA,Chicago
+420,E02422,Asher Hong,Director,Accounting,Research and Development,Male,Asian,53,2018-04-17,154141,0.26,China,Chongqing
+935,E02937,Serenity Richardson,Director,Engineering,Specialized Products,Female,Asian,45,2019-03-14,183165,0.18,USA,Miami
+93,E02095,Matthew Avila,Manager,IT,Production,Male,Latin,55,2003-06-17,68592,0.08,Brazil,São Paulo
+804,E02806,Josiah Vega,Manager,Accounting,Production,Male,Latin,56,2015-12-26,121751,0.08,USA,Columbus
+4,E02006,Harper Dominguez,Director,Engineering,Large Companies,Female,Latin,42,2005-06-18,175391,0.24,USA,Austin
+983,E02985,Logan Rahman,Manager,Human Resources,Specialized Products,Male,Asian,39,2008-07-27,126350,0.05,USA,Austin
+271,E02273,Iris Vo,Manager,Human Resources,Specialized Products,Female,Asian,39,2018-09-27,128497,0.07,China,Chengdu
+269,E02271,Elena Sharma,Director,Marketing,Large Companies,Female,Asian,47,2014-10-24,163922,0.21,USA,Phoenix
+21,E02023,Lillian Lewis,Technical Engineer,IT,Research and Development,Female,Black,43,2013-08-14,83323,0.0,USA,Phoenix
+585,E02587,Naomi Moua,Director,Accounting,Specialized Products,Female,Asian,58,2010-01-13,150633,0.19,USA,Phoenix
+201,E02203,Ellie Wilson,Director,IT,Production,Female,Asian,65,1996-08-31,164102,0.3,USA,Columbus
+78,E02080,Eli Richardson,Manager,Marketing,Specialized Products,Male,Black,31,2018-04-08,159121,0.14,USA,Phoenix
+724,E02726,Samantha Do,Development Manager,IT,Research and Development,Female,Asian,27,2021-11-19,99612,0.0,China,Shanghai
+955,E02957,Madelyn Yee,Analyst,Accounting,Research and Development,Female,Asian,49,1999-10-15,95033,0.0,USA,Austin
+826,E02828,Nevaeh Jiang,Analyst,Accounting,Production,Female,Asian,65,1997-07-10,96897,0.0,China,Chengdu
+102,E02104,Asher Chan,Manager,Human Resources,Large Companies,Male,Asian,40,2018-08-18,73041,0.0,China,Shanghai
+74,E02076,Axel Patel,Analyst,Accounting,Research and Development,Male,Asian,27,2022-09-13,73203,0.0,USA,Miami
+180,E02182,Colton Delgado,Manager,Accounting,Research and Development,Male,Latin,61,2006-10-22,156512,0.13,Brazil,Rio de Janeiro
+392,E02394,Nicholas Vo,Analyst,Accounting,Large Companies,Male,Asian,50,2002-06-01,54646,0.0,USA,Seattle
+367,E02369,Alice Liu,Manager,Accounting,Research and Development,Female,Asian,39,2012-02-22,122058,0.14,China,Beijing
+863,E02865,Harper Castillo,Assistant,IT,Large Companies,Female,Latin,46,2020-09-02,192286,0.32,Brazil,Rio de Janeiro
+277,E02279,Axel Leung,Business Partner,Human Resources,Large Companies,Male,Asian,55,2001-08-17,47696,0.0,USA,Seattle
+189,E02191,David Ha,Technical Engineer,Accounting,Large Companies,Male,Asian,33,2022-07-27,89759,0.0,China,Chongqing
+543,E02545,Anna Huynh,Technical Engineer,IT,Specialized Products,Female,Asian,39,2009-04-05,63259,0.0,USA,Chicago
+606,E02608,Aiden Cheng,Assistant,Marketing,Production,Male,Asian,31,2019-09-06,189403,0.36,China,Shanghai
+235,E02237,Ruby Reed,Assistant,Engineering,Specialized Products,Female,Asian,26,2022-01-23,249062,0.39,USA,Miami
+621,E02623,Nora Her,Director,Engineering,Specialized Products,Female,Asian,32,2014-04-24,68780,0.0,China,Beijing
+430,E02432,Oliver Delgado,Test Engineer,Engineering,Research and Development,Male,Latin,45,2017-02-22,84309,0.0,Brazil,Manaus
+418,E02420,Alice Sharma,Technical Engineer,Accounting,Research and Development,Female,Asian,51,2018-10-05,50975,0.0,China,Chengdu
+918,E02920,Dominic Thao,Analyst,Marketing,Specialized Products,Male,Asian,50,1996-09-08,96297,0.0,USA,Miami
+172,E02174,آستین Moua,Test Engineer,Engineering,Research and Development,Male,Asian,46,2003-05-27,79294,0.0,China,Chengdu
+637,E02639,Asher Ly,Analyst,Accounting,Large Companies,Male,Asian,65,1998-01-29,63853,0.0,USA,Austin
+5,E02007,Ezra Vu,Network Manager,IT,Production,Male,Asian,62,2004-04-22,66227,0.0,USA,Phoenix
+148,E02150,Peyton Alvarado,Analyst,IT,Production,Female,Latin,31,2015-10-24,73612,0.0,Brazil,Rio de Janeiro
+453,E02455,Christopher Sharma,System Manager,IT,Large Companies,Male,Asian,45,2004-04-16,81384,0.0,China,Beijing
+132,E02134,Jack Phillips,Analyst,Accounting,Production,Male,Black,47,2015-07-27,66138,0.0,USA,Phoenix
+163,E02165,Isaiah Dixon,Development Engineer,Engineering,Large Companies,Male,Asian,29,2022-02-27,74901,0.0,USA,Austin
+626,E02628,Anthony Chu,Manager,Accounting,Production,Male,Asian,61,2003-09-30,101517,0.09,USA,Seattle
+12,E02014,Jose Wong,Director,IT,Production,Male,Asian,45,2017-11-15,150558,0.23,China,Chongqing
+76,E02078,Savannah Lee,Manager,Human Resources,Research and Development,Female,Asian,51,2020-07-22,104008,0.1,China,Beijing
+641,E02643,Mila Cheung,Enterprise Engineer,IT,Specialized Products,Female,Asian,32,2021-12-17,73135,0.0,USA,Phoenix
+827,E02829,Ariana Hall,Manager,Human Resources,Large Companies,Female,Asian,55,2005-01-17,128954,0.05,USA,Phoenix
+772,E02774,Julian Joseph,Enterprise Engineer,IT,Production,Male,Asian,52,2018-09-20,60784,0.0,USA,Austin
+442,E02444,Gianna Han,Analyst,Human Resources,Research and Development,Female,Asian,51,2011-02-27,72589,0.0,USA,Austin
+674,E02676,Carson Santos,Technical Engineer,Accounting,Large Companies,Male,Latin,34,2022-02-15,80655,0.0,Brazil,São Paulo
+890,E02892,Asher Mendoza,Manager,Human Resources,Large Companies,Male,Latin,49,2014-02-21,152911,0.1,Brazil,Rio de Janeiro
+701,E02703,Joshua Maldonado,Technical Engineer,Accounting,Research and Development,Male,Latin,49,2005-12-22,75814,0.0,USA,Chicago
+653,E02655,Andrew Pham,Analyst,Accounting,Specialized Products,Male,Asian,38,2013-06-29,54713,0.0,USA,Columbus
+531,E02533,Lincoln Cruz,Network Engineer,IT,Large Companies,Male,Latin,64,1997-07-15,72772,0.0,Brazil,Manaus
+309,E02311,Everly Coleman,Manager,Accounting,Large Companies,Female,Asian,54,2011-08-14,158403,0.14,USA,Seattle
+796,E02798,Serenity Ngo,Analyst,Accounting,Large Companies,Female,Asian,49,2021-02-11,50012,0.0,USA,Seattle
+465,E02467,Madison Gray,Assistant,Accounting,Research and Development,Female,Asian,39,2011-08-29,189823,0.38,USA,Columbus
+738,E02740,Mia Huang,Manager,IT,Large Companies,Female,Asian,33,2018-09-21,124404,0.12,China,Chongqing
+122,E02124,Logan Young,Assistant,IT,Large Companies,Male,Black,39,2010-08-16,239395,0.33,USA,Seattle
+245,E02247,Noah Ma,Assistant,Accounting,Production,Male,Asian,28,2018-11-06,201013,0.31,USA,Phoenix
+145,E02147,Riley King,Director,Marketing,Specialized Products,Female,Black,53,2013-08-10,163480,0.15,USA,Columbus
+439,E02441,Christopher Delgado,Network Engineer,IT,Large Companies,Male,Latin,33,2022-06-24,84317,0.0,Brazil,Rio de Janeiro
+692,E02694,Valentina Zhang,Analyst,IT,Production,Female,Asian,27,2021-03-10,51133,0.0,USA,Chicago
+92,E02094,Ayla Ma,Manager,Marketing,Large Companies,Female,Asian,27,2022-12-05,118304,0.07,China,Shanghai
+715,E02717,Mila Liang,Manager,Marketing,Research and Development,Female,Asian,63,2005-03-28,106880,0.08,USA,Austin
+856,E02858,Madelyn Chavez,Business Partner,Human Resources,Large Companies,Female,Latin,43,2006-09-11,59514,0.0,Brazil,Rio de Janeiro
+476,E02478,Dylan Vu,Manager,Human Resources,Specialized Products,Male,Asian,63,2004-07-22,106481,0.05,China,Beijing
+179,E02181,Piper Tang,Assistant,Human Resources,Production,Female,Asian,50,2011-07-28,216787,0.33,China,Beijing
+105,E02107,Parker Joseph,Analyst,IT,Specialized Products,Male,Asian,53,2000-01-21,55039,0.0,USA,Seattle
+957,E02959,Sadie Ali,Manager,Marketing,Specialized Products,Female,Asian,53,2014-04-05,125099,0.08,China,Chengdu
+854,E02856,Levi Cruz,Analyst,Accounting,Research and Development,Male,Latin,47,2007-09-22,83793,0.0,USA,Miami
+84,E02086,Lucas Luong,Analyst,Marketing,Specialized Products,Male,Asian,42,2008-03-12,40778,0.0,China,Chengdu
+198,E02200,Josiah Ramos,Manager,Accounting,Specialized Products,Male,Latin,41,2014-01-08,113246,0.06,USA,Chicago
+178,E02180,Aubrey Ruiz,Analyst,Marketing,Specialized Products,Female,Latin,25,2021-01-11,70126,0.0,Brazil,São Paulo
+675,E02677,Natalie Ho,Analyst,Accounting,Research and Development,Female,Asian,33,2020-11-22,64327,0.0,China,Chongqing
+131,E02133,Leonardo Mai,Analyst,Marketing,Specialized Products,Male,Asian,43,2007-01-28,79090,0.0,China,Chengdu
+440,E02442,Hannah Ng,Director,Accounting,Production,Female,Asian,36,2015-05-14,151055,0.19,USA,Columbus
+236,E02238,Ivy Rojas,Enterprise Engineer,IT,Large Companies,Female,Latin,53,2013-01-08,52675,0.0,Brazil,Manaus
+877,E02879,Isaac Jung,Manager,IT,Specialized Products,Male,Asian,55,1994-07-12,103726,0.08,China,Shanghai
+282,E02284,Elias Diaz,Analyst,Human Resources,Specialized Products,Male,Latin,34,2012-04-06,55985,0.0,USA,Seattle
+469,E02471,Ian Huang,Analyst,Accounting,Research and Development,Male,Asian,54,1998-02-07,53931,0.0,USA,Columbus
+407,E02409,Athena Vu,Analyst,Marketing,Specialized Products,Female,Asian,26,2020-11-28,51825,0.0,USA,Phoenix
+601,E02603,Leah Ali,Analyst,Human Resources,Specialized Products,Female,Asian,62,1999-08-20,51454,0.0,USA,Seattle
+243,E02245,Audrey Duong,Assistant,Accounting,Specialized Products,Female,Asian,55,1999-03-03,213998,0.34,USA,Miami
+321,E02323,Eliana Trinh,Manager,IT,Production,Female,Asian,47,2010-01-07,155600,0.14,China,Chongqing
+80,E02082,Ian Cheng,Manager,Accounting,Specialized Products,Male,Asian,46,2015-08-30,126704,0.14,USA,Phoenix
+994,E02996,Ian Le,Assistant,Engineering,Specialized Products,Male,Asian,46,2007-08-28,195471,0.36,USA,Phoenix
+908,E02910,Emery Flores,Analyst,Accounting,Research and Development,Female,Latin,45,2005-11-18,86303,0.0,USA,Phoenix
+931,E02933,Valentina Nelson,Network Manager,IT,Production,Female,Asian,50,2013-12-16,63884,0.0,USA,Miami
+960,E02962,Piper Oh,Analyst,Marketing,Research and Development,Female,Asian,57,1996-01-23,73117,0.0,USA,Columbus
