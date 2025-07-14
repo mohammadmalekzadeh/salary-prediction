@@ -77,13 +77,13 @@ python src/processing.py --data data/raw/train_data.csv --output data/processed/
 python src/model.py \
   --train data/processed/train_encoding_data.csv \
   --val data/true_values/y_true.csv \
-  --model_output models/salary_model.pkl
+  --model_output models/salary.model
 ```
 
 ### 3. Prediction  
 ```bash
 python src/predict.py \
-  --model models/salary_model.pkl \
+  --model models/salary.model \
   --input data/predict/new_samples.csv \
   --output results/predictions.csv
 ```
