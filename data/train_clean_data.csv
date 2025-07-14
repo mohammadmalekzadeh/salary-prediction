@@ -1,0 +1,801 @@
+Job_title,Department,Business_unit,Gender,Ethnicity,Age,Annual_salary,Award,Country,City,Hiring_year,Work_duration,mean_salary_by_country,mean_salary_by_city,mean_salary_by_job_title
+Analyst,Marketing,Specialized Products,Female,Latin,39,76759,-0.6837226800990269,USA,Miami,2020,5,110555.87,111679.74,65423.93
+Director,Engineering,Large Companies,Male,Asian,53,168142,1.553237315377947,China,Beijing,2015,10,108518.71,118365.36,154442.62
+Analyst,Marketing,Large Companies,Female,Asian,64,76506,-0.6837226800990269,USA,Austin,2003,22,110555.87,112919.81,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,37,40508,-0.6837226800990269,China,Beijing,2017,8,108518.71,118365.36,65423.93
+System Manager,IT,Production,Male,Asian,31,99937,-0.6837226800990269,USA,Phoenix,2021,4,110555.87,113431.1,84523.89
+Enterprise Engineer,IT,Large Companies,Male,Asian,34,71808,-0.6837226800990269,China,Chengdu,2018,7,108518.71,107533.96,62471.53
+Technical Engineer,Accounting,Research and Development,Female,Asian,56,60517,-0.6837226800990269,USA,Columbus,2017,8,110555.87,106790.3,72277.69
+Enterprise Engineer,IT,Specialized Products,Male,Asian,25,54353,-0.6837226800990269,USA,Chicago,2021,4,110555.87,117845.74,62471.53
+Cloud Infrastructure Engineer,IT,Specialized Products,Female,Asian,46,69110,-0.6837226800990269,USA,Seattle,2022,3,110555.87,100804.94,74141.06
+Technical Engineer,Accounting,Large Companies,Female,Black,27,51321,-0.6837226800990269,USA,Seattle,2021,4,110555.87,100804.94,72277.69
+Analyst,Marketing,Large Companies,Female,Latin,25,71222,-0.6837226800990269,Brazil,Manaus,2021,4,110765.62,109274.83,65423.93
+Analyst,Accounting,Large Companies,Female,Latin,36,54355,-0.6837226800990269,USA,Phoenix,2020,5,110555.87,113431.1,65423.93
+Analyst,Human Resources,Large Companies,Male,Latin,61,73323,-0.6837226800990269,USA,Austin,2011,14,110555.87,112919.81,65423.93
+Manager,Accounting,Large Companies,Male,Asian,44,121788,0.3933321325380346,USA,Phoenix,2007,18,110555.87,113431.1,122619.67
+Technical Engineer,Accounting,Production,Male,Asian,58,85094,-0.6837226800990269,China,Chengdu,2014,11,108518.71,107533.96,72277.69
+Analyst,Marketing,Large Companies,Female,Latin,48,71542,-0.6837226800990269,USA,Chicago,2005,20,110555.87,117845.74,65423.93
+Control Engineer,IT,Production,Female,Asian,28,61573,-0.6837226800990269,USA,Chicago,2019,6,110555.87,117845.74,86000.4
+Analyst,Accounting,Research and Development,Male,Asian,40,59447,-0.6837226800990269,USA,Austin,2021,4,110555.87,112919.81,65423.93
+Analyst,Accounting,Large Companies,Female,Asian,63,45337,-0.6837226800990269,USA,Seattle,2010,15,110555.87,100804.94,65423.93
+Director,IT,Research and Development,Male,Latin,38,168410,1.8017884259864994,USA,Chicago,2018,7,110555.87,117845.74,154442.62
+Director,Marketing,Large Companies,Female,Latin,49,156276,1.1389854643636927,USA,Austin,2013,12,110555.87,112919.81,154442.62
+Technical Engineer,Accounting,Research and Development,Male,Latin,55,74216,-0.6837226800990269,Brazil,Manaus,2003,22,110765.62,109274.83,72277.69
+Manager,Human Resources,Large Companies,Female,Asian,57,122979,-0.18662045888192166,USA,Phoenix,2013,12,110555.87,113431.1,122619.67
+Assistant,Human Resources,Large Companies,Male,Asian,37,214782,1.9674891663922014,USA,Chicago,2015,10,110555.87,117845.74,219659.46
+Network Manager,IT,Production,Male,Latin,31,60827,-0.6837226800990269,USA,Phoenix,2021,4,110555.87,113431.1,76039.56
+Technical Engineer,Accounting,Research and Development,Male,Asian,46,74912,-0.6837226800990269,USA,Phoenix,2003,22,110555.87,113431.1,72277.69
+Enterprise Engineer,IT,Research and Development,Male,Asian,58,85716,-0.6837226800990269,China,Chongqing,2021,4,108518.71,104913.33,62471.53
+Test Engineer,Engineering,Large Companies,Female,Latin,53,75060,-0.6837226800990269,USA,Columbus,2009,16,110555.87,106790.3,81257.92
+Manager,Accounting,Large Companies,Female,Latin,61,135561,0.3933321325380346,Brazil,Manaus,1997,28,110765.62,109274.83,122619.67
+Assistant,Marketing,Specialized Products,Female,Latin,60,231907,2.464591387609307,USA,Austin,1997,28,110555.87,112919.81,219659.46
+Manager,Accounting,Large Companies,Female,Asian,42,112593,-0.2694708290847725,USA,Seattle,2018,7,110555.87,100804.94,122619.67
+Manager,Accounting,Production,Female,Asian,54,128791,-0.18662045888192166,USA,Miami,2009,16,110555.87,111679.74,122619.67
+Assistant,Accounting,Specialized Products,Female,Asian,28,199406,2.464591387609307,China,Chengdu,2020,5,108518.71,107533.96,219659.46
+Quality Engineer,Engineering,Specialized Products,Male,Asian,42,93851,-0.6837226800990269,USA,Miami,2015,10,110555.87,111679.74,78486.88
+Assistant,Accounting,Production,Female,Latin,65,224872,2.5474417578121575,Brazil,São Paulo,2002,23,110765.62,111856.37,219659.46
+Director,Accounting,Large Companies,Female,Latin,62,185026,1.3046862047693941,Brazil,Manaus,2011,14,110765.62,109274.83,154442.62
+Analyst,Marketing,Research and Development,Male,Asian,30,76014,-0.6837226800990269,China,Chengdu,2020,5,108518.71,107533.96,65423.93
+Manager,IT,Specialized Products,Female,Asian,52,89379,0.14478102192948197,USA,Seattle,2014,11,110555.87,100804.94,122619.67
+Assistant,Human Resources,Specialized Products,Male,Latin,33,187917,2.216040277000754,USA,Chicago,2018,7,110555.87,117845.74,219659.46
+Director,Engineering,Specialized Products,Female,Latin,59,69245,-0.6837226800990269,USA,Phoenix,1993,32,110555.87,113431.1,154442.62
+Manager,Marketing,Research and Development,Male,Asian,31,115565,-0.18662045888192166,USA,Phoenix,2021,4,110555.87,113431.1,122619.67
+Director,Engineering,Production,Male,Asian,33,82906,-0.6837226800990269,China,Chengdu,2015,10,108518.71,107533.96,154442.62
+Quality Engineer,Engineering,Specialized Products,Female,Latin,62,86805,-0.6837226800990269,USA,Austin,2009,16,110555.87,112919.81,78486.88
+Manager,IT,Research and Development,Male,Latin,53,150893,0.3933321325380346,USA,Chicago,1999,26,110555.87,117845.74,122619.67
+Assistant,Accounting,Production,Male,Asian,35,180858,1.9674891663922014,China,Chongqing,2021,4,108518.71,104913.33,219659.46
+Automation Engineer,Engineering,Large Companies,Male,Asian,55,121976,-0.6837226800990269,China,Chongqing,2015,10,108518.71,104913.33,103745.09
+Manager,Human Resources,Large Companies,Female,Asian,53,147813,0.3933321325380346,USA,Chicago,2008,17,110555.87,117845.74,122619.67
+Network Engineer,IT,Specialized Products,Female,Asian,55,87857,-0.6837226800990269,USA,Austin,2012,13,110555.87,112919.81,80432.44
+Manager,Accounting,Research and Development,Male,Asian,27,133267,0.31048176233518365,USA,Phoenix,2021,4,110555.87,113431.1,122619.67
+Analyst,Accounting,Research and Development,Male,Asian,30,52292,-0.6837226800990269,China,Chengdu,2018,7,108518.71,107533.96,65423.93
+Development Manager,IT,Specialized Products,Female,Latin,63,83070,-0.6837226800990269,Brazil,São Paulo,2004,21,110765.62,111856.37,88231.08
+Director,Engineering,Specialized Products,Female,Asian,45,182717,1.4703869451750962,USA,Columbus,2022,3,110555.87,106790.3,154442.62
+Analyst,Accounting,Specialized Products,Female,Latin,56,42950,-0.6837226800990269,Brazil,Rio de Janeiro,2020,5,110765.62,111071.12,65423.93
+System Manager,IT,Large Companies,Male,Black,50,80350,-0.6837226800990269,USA,Miami,2018,7,110555.87,111679.74,84523.89
+Assistant,IT,Production,Male,Latin,36,253741,2.133189906797903,Brazil,Rio de Janeiro,2021,4,110765.62,111071.12,219659.46
+Assistant,Accounting,Production,Female,Asian,58,203739,1.8017884259864994,USA,Miami,2016,9,110555.87,111679.74,219659.46
+Technical Engineer,Accounting,Large Companies,Male,Asian,25,72693,-0.6837226800990269,USA,Seattle,2021,4,110555.87,100804.94,72277.69
+Director,Human Resources,Research and Development,Female,Black,51,178218,1.553237315377947,USA,Miami,2015,10,110555.87,111679.74,154442.62
+Technical Engineer,Accounting,Production,Female,Asian,38,60799,-0.6837226800990269,USA,Seattle,2022,3,110555.87,100804.94,72277.69
+Director,IT,Research and Development,Female,Asian,30,154475,0.5590328729437363,China,Chongqing,2021,4,108518.71,104913.33,154442.62
+Manager,Accounting,Specialized Products,Male,Asian,33,133908,0.5590328729437363,USA,Chicago,2015,10,110555.87,117845.74,122619.67
+Quality Engineer,Engineering,Research and Development,Male,Asian,26,82963,-0.6837226800990269,USA,Austin,2022,3,110555.87,112919.81,78486.88
+Automation Engineer,Engineering,Production,Male,Asian,46,100757,-0.6837226800990269,USA,Chicago,2010,15,110555.87,117845.74,103745.09
+Development Engineer,Engineering,Research and Development,Female,Asian,41,73059,-0.6837226800990269,China,Shanghai,2005,20,108518.71,103324.24,87506.86
+Analyst,Accounting,Production,Male,Asian,47,93910,-0.6837226800990269,USA,Miami,2011,14,110555.87,111679.74,65423.93
+Analyst,Accounting,Large Companies,Male,Asian,26,84962,-0.6837226800990269,China,Chengdu,2020,5,108518.71,107533.96,65423.93
+Manager,Accounting,Production,Male,Asian,43,100822,0.14478102192948197,China,Chongqing,2006,19,108518.71,104913.33,122619.67
+Technical Engineer,Accounting,Production,Female,Asian,31,66721,-0.6837226800990269,China,Shanghai,2018,7,108518.71,103324.24,72277.69
+Control Engineer,IT,Specialized Products,Female,Asian,33,81070,-0.6837226800990269,USA,Miami,2020,5,110555.87,111679.74,86000.4
+Analyst,Accounting,Research and Development,Male,Asian,58,53133,-0.6837226800990269,China,Chengdu,2006,19,108518.71,107533.96,65423.93
+Manager,Human Resources,Research and Development,Male,Black,65,149474,0.4761825027408856,USA,Phoenix,2007,18,110555.87,113431.1,122619.67
+Analyst,Accounting,Specialized Products,Female,Asian,44,75362,-0.6837226800990269,USA,Chicago,2009,16,110555.87,117845.74,65423.93
+Enterprise Engineer,IT,Specialized Products,Male,Black,31,50022,-0.6837226800990269,USA,Miami,2017,8,110555.87,111679.74,62471.53
+Manager,Marketing,Production,Female,Black,57,142506,0.2276313921323328,USA,Austin,2021,4,110555.87,112919.81,122619.67
+Analyst,IT,Research and Development,Male,Asian,29,98504,-0.6837226800990269,USA,Miami,2018,7,110555.87,111679.74,65423.93
+Network Engineer,IT,Large Companies,Male,Asian,52,81438,-0.6837226800990269,China,Beijing,2018,7,108518.71,118365.36,80432.44
+Analyst,Accounting,Specialized Products,Male,Latin,58,43803,-0.6837226800990269,USA,Miami,2007,18,110555.87,111679.74,65423.93
+Manager,Accounting,Specialized Products,Female,Black,51,135578,0.14478102192948197,USA,Miami,2013,12,110555.87,111679.74,122619.67
+Development Engineer,Engineering,Research and Development,Male,Asian,48,107586,-0.6837226800990269,China,Shanghai,2003,22,108518.71,103324.24,87506.86
+Development Manager,IT,Large Companies,Female,Asian,62,64208,-0.6837226800990269,USA,Miami,1997,28,110555.87,111679.74,88231.08
+Manager,Marketing,Large Companies,Male,Black,42,131422,0.5590328729437363,USA,Phoenix,2021,4,110555.87,113431.1,122619.67
+Manager,Accounting,Production,Male,Latin,42,112146,-0.18662045888192166,USA,Miami,2019,6,110555.87,111679.74,122619.67
+Control Engineer,IT,Research and Development,Female,Asian,39,66463,-0.6837226800990269,China,Chongqing,2017,8,108518.71,104913.33,86000.4
+Manager,Marketing,Research and Development,Female,Asian,26,128965,0.061930651726631,USA,Columbus,2022,3,110555.87,106790.3,122619.67
+Technical Engineer,IT,Production,Female,Latin,38,68676,-0.6837226800990269,Brazil,São Paulo,2013,12,110765.62,111856.37,72277.69
+Manager,Human Resources,Large Companies,Female,Asian,46,104692,-0.020919718476219845,China,Chengdu,2021,4,108518.71,107533.96,122619.67
+Analyst,Accounting,Specialized Products,Male,Latin,54,74656,-0.6837226800990269,USA,Seattle,2009,16,110555.87,100804.94,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,63,44444,-0.6837226800990269,USA,Miami,2011,14,110555.87,111679.74,65423.93
+Manager,Accounting,Research and Development,Female,Latin,49,107461,-0.020919718476219845,USA,Seattle,2005,20,110555.87,100804.94,122619.67
+Business Partner,Human Resources,Production,Female,Latin,58,49293,-0.6837226800990269,USA,Columbus,1993,32,110555.87,106790.3,51684.79
+Automation Engineer,Engineering,Production,Male,Asian,29,118639,-0.6837226800990269,USA,Phoenix,2017,8,110555.87,113431.1,103745.09
+Director,Marketing,Specialized Products,Female,Latin,45,172206,1.7189380557836484,Brazil,São Paulo,2011,14,110765.62,111856.37,154442.62
+Manager,Accounting,Large Companies,Female,Latin,31,158184,0.5590328729437363,Brazil,Rio de Janeiro,2015,10,110765.62,111071.12,122619.67
+Enterprise Engineer,IT,Specialized Products,Male,Asian,34,74004,-0.6837226800990269,USA,Columbus,2012,13,110555.87,106790.3,62471.53
+Assistant,Engineering,Large Companies,Female,Black,59,196740,1.8846387961893505,USA,Miami,2001,24,110555.87,111679.74,219659.46
+Director,Accounting,Research and Development,Male,Asian,33,164340,0.5590328729437363,USA,Chicago,2013,12,110555.87,117845.74,154442.62
+Assistant,Accounting,Specialized Products,Male,Latin,50,203306,2.464591387609307,USA,Seattle,2009,16,110555.87,100804.94,219659.46
+Analyst,IT,Specialized Products,Male,Latin,33,44012,-0.6837226800990269,Brazil,Manaus,2015,10,110765.62,109274.83,65423.93
+Manager,Accounting,Research and Development,Female,Asian,44,122441,0.5590328729437363,USA,Columbus,2018,7,110555.87,106790.3,122619.67
+Director,Engineering,Large Companies,Male,Latin,40,97938,-0.6837226800990269,USA,Chicago,2022,3,110555.87,117845.74,154442.62
+Manager,Marketing,Production,Female,Latin,31,109925,-0.10377008867907069,Brazil,Manaus,2015,10,110765.62,109274.83,122619.67
+Manager,Human Resources,Production,Male,Asian,50,156374,0.5590328729437363,China,Beijing,2019,6,108518.71,118365.36,122619.67
+Manager,IT,Large Companies,Male,Asian,41,95669,0.14478102192948197,China,Shanghai,2018,7,108518.71,103324.24,122619.67
+Analyst,Accounting,Large Companies,Male,Asian,29,44520,-0.6837226800990269,USA,Chicago,2018,7,110555.87,117845.74,65423.93
+Analyst,Accounting,Production,Male,Asian,55,41102,-0.6837226800990269,USA,Seattle,2015,10,110555.87,100804.94,65423.93
+Technical Engineer,Accounting,Production,Female,Asian,52,57433,-0.6837226800990269,China,Shanghai,1998,27,108518.71,103324.24,72277.69
+Analyst,Human Resources,Large Companies,Male,Asian,45,66324,-0.6837226800990269,China,Beijing,2017,8,108518.71,118365.36,65423.93
+Director,Engineering,Research and Development,Male,Asian,33,161800,0.8904343537551399,China,Chongqing,2016,9,108518.71,104913.33,154442.62
+Director,Accounting,Research and Development,Female,Black,37,180544,1.553237315377947,USA,Chicago,2011,14,110555.87,117845.74,154442.62
+Director,Engineering,Research and Development,Female,Asian,54,62179,-0.6837226800990269,China,Shanghai,2003,22,108518.71,103324.24,154442.62
+Director,Engineering,Production,Male,Asian,59,67947,-0.6837226800990269,China,Shanghai,2004,21,108518.71,103324.24,154442.62
+Test Engineer,Engineering,Research and Development,Male,Asian,48,72315,-0.6837226800990269,USA,Austin,2016,9,110555.87,112919.81,81257.92
+Control Engineer,IT,Specialized Products,Male,Asian,39,91144,-0.6837226800990269,USA,Columbus,2012,13,110555.87,106790.3,86000.4
+Analyst,Accounting,Large Companies,Male,Asian,58,45703,-0.6837226800990269,USA,Chicago,2013,12,110555.87,117845.74,65423.93
+Manager,Marketing,Production,Male,Asian,25,105072,-0.18662045888192166,China,Chengdu,2021,4,108518.71,107533.96,122619.67
+Director,Human Resources,Specialized Products,Female,Asian,48,168202,1.1389854643636927,China,Chengdu,2009,16,108518.71,107533.96,154442.62
+Business Partner,Human Resources,Production,Female,Asian,62,41616,-0.6837226800990269,USA,Seattle,2005,20,110555.87,100804.94,51684.79
+Manager,Accounting,Large Companies,Male,Asian,45,109221,0.061930651726631,USA,Austin,2010,15,110555.87,112919.81,122619.67
+Control Engineer,IT,Large Companies,Female,Asian,50,92344,-0.6837226800990269,USA,Phoenix,2003,22,110555.87,113431.1,86000.4
+Director,Engineering,Research and Development,Male,Asian,34,197849,0.8904343537551399,USA,Phoenix,2022,3,110555.87,113431.1,154442.62
+Director,Human Resources,Large Companies,Female,Asian,50,183308,1.3046862047693941,USA,Miami,2011,14,110555.87,111679.74,154442.62
+Analyst,Accounting,Large Companies,Male,Asian,32,45424,-0.6837226800990269,USA,Austin,2015,10,110555.87,112919.81,65423.93
+Director,IT,Research and Development,Male,Asian,34,174257,1.8017884259864994,USA,Miami,2017,8,110555.87,111679.74,154442.62
+Analyst,Accounting,Research and Development,Female,Black,47,50290,-0.6837226800990269,USA,Columbus,2009,16,110555.87,106790.3,65423.93
+Manager,IT,Production,Female,Asian,37,139987,0.3933321325380346,USA,Seattle,2021,4,110555.87,100804.94,122619.67
+Manager,Marketing,Specialized Products,Male,Asian,30,111274,-0.18662045888192166,USA,Seattle,2019,6,110555.87,100804.94,122619.67
+Manager,IT,Specialized Products,Female,Latin,39,65957,-0.2694708290847725,Brazil,Rio de Janeiro,2022,3,110765.62,111071.12,122619.67
+Development Manager,IT,Research and Development,Male,Asian,26,86288,-0.6837226800990269,USA,Columbus,2021,4,110555.87,106790.3,88231.08
+Analyst,Marketing,Production,Male,Asian,45,54742,-0.6837226800990269,China,Chengdu,2005,20,108518.71,107533.96,65423.93
+Technical Engineer,Accounting,Specialized Products,Male,Latin,51,92305,-0.6837226800990269,USA,Chicago,2021,4,110555.87,117845.74,72277.69
+Manager,Human Resources,Specialized Products,Female,Asian,46,125878,0.14478102192948197,USA,Austin,2004,21,110555.87,112919.81,122619.67
+Network Manager,IT,Specialized Products,Male,Asian,44,92939,-0.6837226800990269,USA,Austin,2021,4,110555.87,112919.81,76039.56
+Manager,Marketing,Large Companies,Male,Asian,27,137997,0.31048176233518365,USA,Phoenix,2021,4,110555.87,113431.1,122619.67
+Analyst,Accounting,Large Companies,Female,Asian,33,97261,-0.6837226800990269,China,Beijing,2020,5,108518.71,118365.36,65423.93
+Development Manager,IT,Large Companies,Female,Latin,39,98062,-0.6837226800990269,USA,Seattle,2018,7,110555.87,100804.94,88231.08
+Manager,Human Resources,Production,Male,Asian,53,97218,-0.6837226800990269,USA,Austin,2012,13,110555.87,112919.81,122619.67
+Technical Engineer,Accounting,Specialized Products,Female,Asian,50,50038,-0.6837226800990269,China,Chongqing,2016,9,108518.71,104913.33,72277.69
+Manager,Accounting,Production,Male,Latin,33,107202,-0.18662045888192166,USA,Columbus,2016,9,110555.87,106790.3,122619.67
+Director,Engineering,Large Companies,Male,Latin,49,186192,1.553237315377947,Brazil,São Paulo,2007,18,110765.62,111856.37,154442.62
+Analyst,Marketing,Large Companies,Male,Asian,32,57727,-0.6837226800990269,China,Chengdu,2019,6,108518.71,107533.96,65423.93
+Assistant,Accounting,Large Companies,Male,Black,37,199512,2.216040277000754,USA,Austin,2009,16,110555.87,112919.81,219659.46
+Manager,IT,Large Companies,Female,Asian,54,135642,0.14478102192948197,China,Beijing,1993,32,108518.71,118365.36,122619.67
+Manager,Accounting,Research and Development,Female,Black,27,120586,0.5590328729437363,USA,Seattle,2021,4,110555.87,100804.94,122619.67
+Analyst,Accounting,Production,Male,Asian,50,70340,-0.6837226800990269,USA,Miami,2010,15,110555.87,111679.74,65423.93
+Analyst,IT,Production,Female,Asian,29,60919,-0.6837226800990269,USA,Columbus,2020,5,110555.87,106790.3,65423.93
+Control Engineer,Engineering,Specialized Products,Male,Latin,45,85822,-0.6837226800990269,USA,Phoenix,2003,22,110555.87,113431.1,86000.4
+System Manager,IT,Production,Male,Asian,34,93760,-0.6837226800990269,USA,Miami,2012,13,110555.87,111679.74,84523.89
+Analyst,Marketing,Production,Female,Asian,45,74776,-0.6837226800990269,USA,Seattle,2018,7,110555.87,100804.94,65423.93
+Network Engineer,IT,Research and Development,Male,Black,47,60331,-0.6837226800990269,USA,Miami,2008,17,110555.87,111679.74,80432.44
+Manager,IT,Research and Development,Female,Latin,57,97083,-0.18662045888192166,USA,Austin,2000,25,110555.87,112919.81,122619.67
+Technical Engineer,Accounting,Specialized Products,Female,Asian,36,73646,-0.6837226800990269,USA,Austin,2012,13,110555.87,112919.81,72277.69
+Analyst,Accounting,Large Companies,Male,Asian,52,47587,-0.6837226800990269,USA,Chicago,2001,24,110555.87,117845.74,65423.93
+Development Engineer,Engineering,Production,Female,Asian,59,98794,-0.6837226800990269,USA,Chicago,2008,17,110555.87,117845.74,87506.86
+Assistant,Accounting,Research and Development,Female,Latin,39,187516,2.216040277000754,Brazil,São Paulo,2012,13,110765.62,111856.37,219659.46
+Director,Accounting,Large Companies,Female,Asian,64,195416,1.1389854643636927,China,Chengdu,2012,13,108518.71,107533.96,154442.62
+Manager,IT,Research and Development,Female,Latin,47,104253,0.061930651726631,USA,Seattle,2022,3,110555.87,100804.94,122619.67
+Analyst,Accounting,Research and Development,Female,Asian,32,66294,-0.6837226800990269,USA,Columbus,2018,7,110555.87,106790.3,65423.93
+Business Partner,Human Resources,Large Companies,Male,Asian,53,58010,-0.6837226800990269,USA,Seattle,2016,9,110555.87,100804.94,51684.79
+Director,Engineering,Specialized Products,Male,Asian,57,78212,-0.6837226800990269,USA,Miami,1999,26,110555.87,111679.74,154442.62
+System Manager,IT,Large Companies,Female,Latin,64,71864,-0.6837226800990269,Brazil,Manaus,2022,3,110765.62,109274.83,84523.89
+Manager,Human Resources,Large Companies,Male,Asian,46,92247,-0.6837226800990269,USA,Miami,2012,13,110555.87,111679.74,122619.67
+Manager,Accounting,Large Companies,Female,Black,51,148942,0.3933321325380346,USA,Columbus,1999,26,110555.87,106790.3,122619.67
+Manager,IT,Large Companies,Female,Asian,61,87758,0.061930651726631,USA,Seattle,2010,15,110555.87,100804.94,122619.67
+Assistant,IT,Specialized Products,Female,Asian,55,256592,1.8017884259864994,China,Beijing,2001,24,108518.71,118365.36,219659.46
+Analyst,Accounting,Specialized Products,Female,Asian,39,72850,-0.6837226800990269,USA,Miami,2012,13,110555.87,111679.74,65423.93
+Enterprise Engineer,IT,Research and Development,Male,Asian,54,58137,-0.6837226800990269,USA,Columbus,2021,4,110555.87,106790.3,62471.53
+Analyst,Human Resources,Large Companies,Male,Asian,65,73996,-0.6837226800990269,China,Chengdu,2021,4,108518.71,107533.96,65423.93
+Assistant,Accounting,Specialized Products,Male,Asian,35,254287,1.8846387961893505,USA,Austin,2016,9,110555.87,112919.81,219659.46
+Manager,Marketing,Large Companies,Female,Latin,39,122713,0.3933321325380346,Brazil,São Paulo,2013,12,110765.62,111856.37,122619.67
+Development Manager,IT,Specialized Products,Female,Asian,55,91179,-0.6837226800990269,USA,Columbus,2022,3,110555.87,106790.3,88231.08
+Automation Engineer,Engineering,Production,Female,Asian,41,95598,-0.6837226800990269,USA,Columbus,2011,14,110555.87,106790.3,103745.09
+Manager,Accounting,Specialized Products,Female,Asian,51,130862,0.31048176233518365,USA,Seattle,2003,22,110555.87,100804.94,122619.67
+Assistant,Accounting,Specialized Products,Male,Latin,29,204534,2.464591387609307,USA,Chicago,2017,8,110555.87,117845.74,219659.46
+Technical Engineer,Accounting,Large Companies,Female,Latin,43,86533,-0.6837226800990269,USA,Columbus,2017,8,110555.87,106790.3,72277.69
+Analyst,Accounting,Production,Male,Latin,56,48896,-0.6837226800990269,Brazil,Manaus,2002,23,110765.62,109274.83,65423.93
+Manager,Accounting,Specialized Products,Female,Latin,29,128066,0.2276313921323328,USA,Seattle,2020,5,110555.87,100804.94,122619.67
+Network Manager,IT,Large Companies,Female,Asian,49,93306,-0.6837226800990269,China,Beijing,2019,6,108518.71,118365.36,76039.56
+Manager,Human Resources,Specialized Products,Female,Asian,59,108612,-0.18662045888192166,USA,Phoenix,2017,8,110555.87,113431.1,122619.67
+Automation Engineer,Engineering,Production,Female,Asian,55,98221,-0.6837226800990269,China,Shanghai,2008,17,108518.71,103324.24,103745.09
+Technical Engineer,Accounting,Specialized Products,Male,Latin,44,62184,-0.6837226800990269,Brazil,São Paulo,2020,5,110765.62,111856.37,72277.69
+Assistant,Accounting,Specialized Products,Male,Asian,51,206423,2.2988906472036046,China,Beijing,2006,19,108518.71,118365.36,219659.46
+Analyst,Accounting,Research and Development,Male,Black,30,96010,-0.6837226800990269,USA,Chicago,2022,3,110555.87,117845.74,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,46,42944,-0.6837226800990269,USA,Miami,2006,19,110555.87,111679.74,65423.93
+Analyst,Accounting,Specialized Products,Male,Latin,26,66865,-0.6837226800990269,Brazil,Rio de Janeiro,2022,3,110765.62,111071.12,65423.93
+Manager,Human Resources,Large Companies,Male,Asian,53,73601,-0.6837226800990269,China,Chengdu,2017,8,108518.71,107533.96,122619.67
+Analyst,Accounting,Production,Male,Latin,41,59149,-0.6837226800990269,Brazil,Rio de Janeiro,2020,5,110765.62,111071.12,65423.93
+System Manager,IT,Specialized Products,Male,Asian,50,72860,-0.6837226800990269,China,Shanghai,2002,23,108518.71,103324.24,84523.89
+Assistant,Marketing,Large Companies,Female,Latin,56,181028,2.464591387609307,USA,Phoenix,2016,9,110555.87,113431.1,219659.46
+Manager,IT,Research and Development,Male,Latin,54,129311,0.3933321325380346,Brazil,Manaus,1997,28,110765.62,109274.83,122619.67
+Control Engineer,IT,Production,Female,Asian,40,63889,-0.6837226800990269,USA,Seattle,2008,17,110555.87,100804.94,86000.4
+Manager,IT,Large Companies,Female,Latin,59,96507,0.061930651726631,USA,Seattle,1996,29,110555.87,100804.94,122619.67
+Analyst,Accounting,Production,Male,Asian,47,55401,-0.6837226800990269,USA,Columbus,2015,10,110555.87,106790.3,65423.93
+Analyst,Marketing,Specialized Products,Male,Asian,31,79713,-0.6837226800990269,China,Beijing,2015,10,108518.71,118365.36,65423.93
+Manager,Marketing,Specialized Products,Male,Asian,25,112646,-0.020919718476219845,USA,Columbus,2022,3,110555.87,106790.3,122619.67
+Analyst,Accounting,Research and Development,Male,Asian,43,49627,-0.6837226800990269,China,Beijing,2004,21,108518.71,118365.36,65423.93
+Assistant,Engineering,Large Companies,Male,Asian,26,211114,1.8017884259864994,USA,Miami,2020,5,110555.87,111679.74,219659.46
+Control Engineer,IT,Specialized Products,Female,Asian,26,67702,-0.6837226800990269,USA,Seattle,2020,5,110555.87,100804.94,86000.4
+Director,Accounting,Large Companies,Male,Asian,50,150631,0.7247336133494382,USA,Phoenix,2019,6,110555.87,113431.1,154442.62
+Manager,Accounting,Specialized Products,Female,Latin,51,129727,-0.020919718476219845,USA,Phoenix,2012,13,110555.87,113431.1,122619.67
+Analyst,Accounting,Production,Female,Asian,46,56409,-0.6837226800990269,USA,Columbus,2009,16,110555.87,106790.3,65423.93
+Manager,Accounting,Specialized Products,Female,Asian,49,126598,0.061930651726631,USA,Miami,2022,3,110555.87,111679.74,122619.67
+Manager,Human Resources,Production,Male,Black,45,127363,0.061930651726631,USA,Columbus,2018,7,110555.87,106790.3,122619.67
+Assistant,Accounting,Large Companies,Male,Asian,50,245920,2.2988906472036046,USA,Columbus,1996,29,110555.87,106790.3,219659.46
+Manager,Human Resources,Production,Female,Asian,30,159823,0.2276313921323328,USA,Seattle,2019,6,110555.87,100804.94,122619.67
+Analyst,Accounting,Large Companies,Male,Asian,61,88681,-0.6837226800990269,China,Shanghai,1997,28,108518.71,103324.24,65423.93
+Control Engineer,Engineering,Large Companies,Female,Black,40,98594,-0.6837226800990269,USA,Phoenix,2011,14,110555.87,113431.1,86000.4
+Analyst,IT,Production,Male,Asian,31,46098,-0.6837226800990269,China,Shanghai,2018,7,108518.71,103324.24,65423.93
+Director,Accounting,Production,Male,Asian,47,155890,0.7247336133494382,USA,Columbus,1999,26,110555.87,106790.3,154442.62
+Manager,IT,Large Companies,Male,Asian,41,126406,0.14478102192948197,USA,Chicago,2012,13,110555.87,117845.74,122619.67
+Assistant,Accounting,Large Companies,Female,Latin,49,198222,2.133189906797903,Brazil,São Paulo,1998,27,110765.62,111856.37,219659.46
+Development Engineer,Engineering,Specialized Products,Female,Asian,52,79323,-0.6837226800990269,USA,Chicago,2017,8,110555.87,117845.74,87506.86
+Technical Engineer,Accounting,Research and Development,Female,Asian,26,59436,-0.6837226800990269,USA,Columbus,2022,3,110555.87,106790.3,72277.69
+Manager,Marketing,Large Companies,Male,Asian,36,118912,-0.020919718476219845,USA,Miami,2018,7,110555.87,111679.74,122619.67
+Manager,IT,Research and Development,Female,Latin,34,126898,0.14478102192948197,Brazil,Manaus,2015,10,110765.62,109274.83,122619.67
+Technical Engineer,IT,Production,Female,Asian,25,86075,-0.6837226800990269,USA,Miami,2022,3,110555.87,111679.74,72277.69
+Cloud Infrastructure Engineer,IT,Research and Development,Female,Latin,57,80728,-0.6837226800990269,Brazil,Rio de Janeiro,2013,12,110765.62,111071.12,74141.06
+Manager,Accounting,Research and Development,Female,Latin,30,124295,-0.10377008867907069,Brazil,Manaus,2017,8,110765.62,109274.83,122619.67
+Development Engineer,Engineering,Large Companies,Female,Asian,45,86001,-0.6837226800990269,USA,Austin,2011,14,110555.87,112919.81,87506.86
+Enterprise Engineer,IT,Research and Development,Female,Asian,34,75518,-0.6837226800990269,USA,Seattle,2018,7,110555.87,100804.94,62471.53
+Assistant,Marketing,Research and Development,Male,Asian,61,209680,2.133189906797903,China,Shanghai,2014,11,108518.71,103324.24,219659.46
+Cloud Infrastructure Engineer,IT,Research and Development,Male,Asian,38,65109,-0.6837226800990269,USA,Phoenix,2011,14,110555.87,113431.1,74141.06
+Assistant,Human Resources,Specialized Products,Female,Asian,41,224989,2.0503395365950525,USA,Seattle,2007,18,110555.87,100804.94,219659.46
+Director,IT,Research and Development,Male,Asian,45,152519,1.8017884259864994,China,Chongqing,2009,16,108518.71,104913.33,154442.62
+Assistant,Accounting,Specialized Products,Female,Asian,31,201235,1.9674891663922014,USA,Austin,2019,6,110555.87,112919.81,219659.46
+Manager,Accounting,Specialized Products,Male,Asian,38,152253,0.31048176233518365,USA,Seattle,2012,13,110555.87,100804.94,122619.67
+Manager,Human Resources,Specialized Products,Male,Asian,29,86226,-0.6837226800990269,USA,Seattle,2022,3,110555.87,100804.94,122619.67
+Assistant,Marketing,Production,Male,Asian,47,214303,2.6302921280150087,USA,Seattle,2022,3,110555.87,100804.94,219659.46
+Analyst,Accounting,Large Companies,Female,Latin,46,44411,-0.6837226800990269,Brazil,Manaus,2002,23,110765.62,109274.83,65423.93
+Control Engineer,Engineering,Large Companies,Female,Asian,55,120092,-0.6837226800990269,China,Chongqing,1999,26,108518.71,104913.33,86000.4
+Director,Accounting,Research and Development,Female,Latin,61,195636,1.0561350941608418,Brazil,Rio de Janeiro,2013,12,110765.62,111071.12,154442.62
+Analyst,Accounting,Production,Female,Asian,46,64882,-0.6837226800990269,USA,Chicago,2001,24,110555.87,117845.74,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,46,42532,-0.6837226800990269,China,Chongqing,2006,19,108518.71,104913.33,65423.93
+Network Engineer,IT,Production,Female,Latin,25,90109,-0.6837226800990269,USA,Seattle,2022,3,110555.87,100804.94,80432.44
+Assistant,Engineering,Specialized Products,Female,Asian,45,254486,2.0503395365950525,China,Chengdu,2010,15,108518.71,107533.96,219659.46
+Manager,Human Resources,Research and Development,Female,Asian,39,129087,-0.2694708290847725,USA,Seattle,2013,12,110555.87,100804.94,122619.67
+Enterprise Engineer,IT,Specialized Products,Female,Asian,64,43271,-0.6837226800990269,China,Chengdu,2022,3,108518.71,107533.96,62471.53
+Manager,Accounting,Research and Development,Female,Asian,36,150825,0.14478102192948197,USA,Columbus,2017,8,110555.87,106790.3,122619.67
+Analyst,IT,Specialized Products,Male,Asian,42,44265,-0.6837226800990269,USA,Austin,2021,4,110555.87,112919.81,65423.93
+Network Manager,IT,Specialized Products,Female,Asian,49,78164,-0.6837226800990269,USA,Seattle,2021,4,110555.87,100804.94,76039.56
+Cloud Infrastructure Engineer,IT,Production,Male,Asian,27,71502,-0.6837226800990269,China,Chongqing,2020,5,108518.71,104913.33,74141.06
+Development Engineer,Engineering,Large Companies,Female,Latin,60,110554,-0.6837226800990269,Brazil,São Paulo,1998,27,110765.62,111856.37,87506.86
+Analyst,Accounting,Research and Development,Female,Asian,59,99760,-0.6837226800990269,China,Chongqing,2021,4,108518.71,104913.33,65423.93
+Test Engineer,Engineering,Research and Development,Female,Latin,63,86820,-0.6837226800990269,USA,Chicago,2002,23,110555.87,117845.74,81257.92
+Manager,IT,Large Companies,Female,Asian,56,66561,-0.18662045888192166,USA,Chicago,2021,4,110555.87,117845.74,122619.67
+Manager,Marketing,Large Companies,Female,Asian,37,151363,0.31048176233518365,USA,Miami,2021,4,110555.87,111679.74,122619.67
+Assistant,Marketing,Large Companies,Female,Asian,32,241722,2.464591387609307,USA,Chicago,2015,10,110555.87,117845.74,219659.46
+Development Manager,IT,Specialized Products,Female,Latin,45,88933,-0.6837226800990269,USA,Columbus,2007,18,110555.87,106790.3,88231.08
+Analyst,Accounting,Specialized Products,Female,Asian,26,66563,-0.6837226800990269,China,Chengdu,2022,3,108518.71,107533.96,65423.93
+Network Manager,IT,Large Companies,Female,Asian,65,83854,-0.6837226800990269,USA,Seattle,2002,23,110555.87,100804.94,76039.56
+Analyst,Accounting,Research and Development,Male,Asian,43,87914,-0.6837226800990269,China,Shanghai,2018,7,108518.71,103324.24,65423.93
+Analyst,Accounting,Production,Male,Asian,59,81829,-0.6837226800990269,China,Chongqing,2008,17,108518.71,104913.33,65423.93
+Development Engineer,Engineering,Specialized Products,Female,Latin,30,76904,-0.6837226800990269,Brazil,Rio de Janeiro,2020,5,110765.62,111071.12,87506.86
+Analyst,Accounting,Production,Female,Latin,55,82550,-0.6837226800990269,USA,Chicago,1998,27,110555.87,117845.74,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,37,72005,-0.6837226800990269,USA,Austin,2018,7,110555.87,112919.81,65423.93
+Analyst,Accounting,Specialized Products,Female,Asian,35,55833,-0.6837226800990269,China,Chengdu,2020,5,108518.71,107533.96,65423.93
+Enterprise Engineer,IT,Research and Development,Male,Latin,36,45184,-0.6837226800990269,Brazil,São Paulo,2016,9,110765.62,111856.37,62471.53
+Control Engineer,IT,Large Companies,Male,Asian,28,70996,-0.6837226800990269,USA,Austin,2021,4,110555.87,112919.81,86000.4
+Enterprise Engineer,IT,Large Companies,Male,Asian,46,55643,-0.6837226800990269,USA,Columbus,2021,4,110555.87,106790.3,62471.53
+Director,Engineering,Research and Development,Female,Asian,31,150653,1.3046862047693941,USA,Austin,2018,7,110555.87,112919.81,154442.62
+Director,Human Resources,Specialized Products,Female,Black,33,175875,1.0561350941608418,USA,Columbus,2015,10,110555.87,106790.3,154442.62
+Analyst,IT,Specialized Products,Male,Asian,63,99215,-0.6837226800990269,USA,Seattle,2000,25,110555.87,100804.94,65423.93
+System Manager,IT,Large Companies,Male,Asian,56,91835,-0.6837226800990269,USA,Seattle,2018,7,110555.87,100804.94,84523.89
+Assistant,IT,Research and Development,Male,Asian,56,184780,2.464591387609307,USA,Austin,2011,14,110555.87,112919.81,219659.46
+Test Engineer,Engineering,Research and Development,Female,Asian,46,99586,-0.6837226800990269,USA,Miami,2019,6,110555.87,111679.74,81257.92
+Assistant,Human Resources,Research and Development,Male,Latin,28,239270,2.464591387609307,Brazil,Manaus,2020,5,110765.62,109274.83,219659.46
+Analyst,Accounting,Research and Development,Female,Asian,32,79773,-0.6837226800990269,China,Beijing,2015,10,108518.71,118365.36,65423.93
+Control Engineer,Engineering,Large Companies,Male,Latin,36,116168,-0.6837226800990269,USA,Austin,2012,13,110555.87,112919.81,86000.4
+Analyst,Accounting,Research and Development,Female,Latin,58,98296,-0.6837226800990269,Brazil,Manaus,2014,11,110765.62,109274.83,65423.93
+Manager,Accounting,Large Companies,Female,Latin,28,132209,0.4761825027408856,Brazil,Rio de Janeiro,2019,6,110765.62,111071.12,122619.67
+Director,Engineering,Specialized Products,Male,Asian,38,119960,0.5590328729437363,USA,Columbus,2008,17,110555.87,106790.3,154442.62
+Assistant,Human Resources,Production,Female,Latin,45,233342,2.3817410174064557,USA,Austin,2004,21,110555.87,112919.81,219659.46
+Manager,Accounting,Production,Female,Black,42,110720,0.061930651726631,USA,Miami,2012,13,110555.87,111679.74,122619.67
+Manager,IT,Large Companies,Male,Asian,51,140668,0.31048176233518365,China,Chengdu,2006,19,108518.71,107533.96,122619.67
+Analyst,Marketing,Specialized Products,Female,Latin,46,92833,-0.6837226800990269,Brazil,Rio de Janeiro,2010,15,110765.62,111071.12,65423.93
+Technical Engineer,IT,Large Companies,Female,Asian,31,96195,-0.6837226800990269,USA,Phoenix,2018,7,110555.87,113431.1,72277.69
+Business Partner,Human Resources,Specialized Products,Female,Black,34,57483,-0.6837226800990269,USA,Seattle,2022,3,110555.87,100804.94,51684.79
+Director,Accounting,Specialized Products,Female,Latin,38,194864,1.3046862047693941,USA,Austin,2016,9,110555.87,112919.81,154442.62
+Cloud Infrastructure Engineer,IT,Large Companies,Female,Asian,56,75435,-0.6837226800990269,USA,Austin,1993,32,110555.87,112919.81,74141.06
+Manager,Accounting,Research and Development,Female,Asian,55,132894,0.5590328729437363,USA,Chicago,1999,26,110555.87,117845.74,122619.67
+Director,Marketing,Production,Male,Black,32,156418,1.2218358345665437,USA,Columbus,2018,7,110555.87,106790.3,154442.62
+Assistant,Human Resources,Specialized Products,Female,Asian,44,242004,2.464591387609307,China,Chongqing,2006,19,108518.71,104913.33,219659.46
+Analyst,Accounting,Specialized Products,Female,Asian,63,71418,-0.6837226800990269,USA,Phoenix,2014,11,110555.87,113431.1,65423.93
+Director,Marketing,Specialized Products,Female,Asian,29,151492,1.0561350941608418,USA,Columbus,2021,4,110555.87,106790.3,154442.62
+Analyst,Marketing,Specialized Products,Female,Latin,45,88016,-0.6837226800990269,Brazil,Rio de Janeiro,2013,12,110765.62,111071.12,65423.93
+Manager,Accounting,Large Companies,Male,Asian,36,156085,0.31048176233518365,USA,Miami,2021,4,110555.87,111679.74,122619.67
+Business Partner,Human Resources,Production,Male,Asian,40,49342,-0.6837226800990269,USA,Seattle,2014,11,110555.87,100804.94,51684.79
+Network Engineer,IT,Production,Male,Black,57,77028,-0.6837226800990269,USA,Seattle,2022,3,110555.87,100804.94,80432.44
+Analyst,Marketing,Specialized Products,Female,Black,26,64278,-0.6837226800990269,USA,Columbus,2020,5,110555.87,106790.3,65423.93
+Director,Engineering,Large Companies,Female,Asian,56,197579,0.807583983552289,USA,Chicago,2022,3,110555.87,117845.74,154442.62
+Analyst,Accounting,Large Companies,Female,Asian,30,60261,-0.6837226800990269,USA,Seattle,2016,9,110555.87,100804.94,65423.93
+Director,Accounting,Specialized Products,Female,Asian,50,159285,0.5590328729437363,USA,Austin,1997,28,110555.87,112919.81,154442.62
+Test Engineer,Engineering,Production,Male,Asian,55,99035,-0.6837226800990269,USA,Miami,1998,27,110555.87,111679.74,81257.92
+Director,IT,Specialized Products,Female,Asian,59,198745,1.387536574972245,USA,Phoenix,2005,20,110555.87,113431.1,154442.62
+Manager,Human Resources,Specialized Products,Male,Latin,61,157672,0.2276313921323328,USA,Miami,1993,32,110555.87,111679.74,122619.67
+Director,IT,Research and Development,Male,Latin,44,171823,1.553237315377947,USA,Columbus,2014,11,110555.87,106790.3,154442.62
+Test Engineer,Engineering,Large Companies,Female,Asian,37,83465,-0.6837226800990269,China,Beijing,2020,5,108518.71,118365.36,81257.92
+Director,Accounting,Specialized Products,Female,Latin,36,156029,0.5590328729437363,USA,Columbus,2013,12,110555.87,106790.3,154442.62
+Director,Human Resources,Large Companies,Female,Asian,26,193971,1.1389854643636927,USA,Chicago,2022,3,110555.87,117845.74,154442.62
+Cloud Infrastructure Engineer,IT,Specialized Products,Male,Asian,43,76819,-0.6837226800990269,USA,Phoenix,2008,17,110555.87,113431.1,74141.06
+System Manager,IT,Large Companies,Female,Asian,50,91004,-0.6837226800990269,China,Shanghai,2022,3,108518.71,103324.24,84523.89
+Assistant,Human Resources,Large Companies,Female,Latin,44,246538,2.216040277000754,USA,Miami,2004,21,110555.87,111679.74,219659.46
+Analyst,IT,Specialized Products,Male,Asian,29,95729,-0.6837226800990269,USA,Seattle,2017,8,110555.87,100804.94,65423.93
+Analyst,Marketing,Research and Development,Female,Asian,33,53948,-0.6837226800990269,USA,Phoenix,2017,8,110555.87,113431.1,65423.93
+Director,Accounting,Research and Development,Female,Latin,52,191455,1.3046862047693941,Brazil,São Paulo,1996,29,110765.62,111856.37,154442.62
+Manager,Accounting,Large Companies,Female,Asian,32,126464,0.5590328729437363,USA,Miami,2022,3,110555.87,111679.74,122619.67
+Development Engineer,Engineering,Large Companies,Male,Asian,27,82286,-0.6837226800990269,USA,Chicago,2021,4,110555.87,117845.74,87506.86
+System Manager,IT,Research and Development,Female,Asian,58,91132,-0.6837226800990269,China,Beijing,2014,11,108518.71,118365.36,84523.89
+Technical Engineer,IT,Research and Development,Male,Asian,37,65073,-0.6837226800990269,China,Shanghai,2015,10,108518.71,103324.24,72277.69
+Director,IT,Research and Development,Male,Asian,25,154186,1.4703869451750962,USA,Austin,2022,3,110555.87,112919.81,154442.62
+Analyst,IT,Production,Female,Latin,51,48772,-0.6837226800990269,Brazil,Rio de Janeiro,2007,18,110765.62,111071.12,65423.93
+Manager,Accounting,Specialized Products,Male,Latin,33,134782,0.5590328729437363,Brazil,Manaus,2013,12,110765.62,109274.83,122619.67
+Manager,Accounting,Specialized Products,Female,Asian,46,108003,-0.2694708290847725,China,Chengdu,2006,19,108518.71,107533.96,122619.67
+Manager,Accounting,Large Companies,Male,Latin,42,101630,-0.020919718476219845,Brazil,São Paulo,2005,20,110765.62,111856.37,122619.67
+Director,Human Resources,Large Companies,Female,Asian,45,163686,1.387536574972245,China,Chengdu,2008,17,108518.71,107533.96,154442.62
+Analyst,Accounting,Production,Female,Asian,35,75602,-0.6837226800990269,USA,Miami,2021,4,110555.87,111679.74,65423.93
+Analyst,Accounting,Production,Female,Asian,31,53638,-0.6837226800990269,USA,Chicago,2021,4,110555.87,117845.74,65423.93
+Analyst,Accounting,Production,Male,Asian,45,70661,-0.6837226800990269,China,Chongqing,2012,13,108518.71,104913.33,65423.93
+Control Engineer,Engineering,Specialized Products,Female,Latin,42,104916,-0.6837226800990269,Brazil,Manaus,2006,19,110765.62,109274.83,86000.4
+Assistant,IT,Large Companies,Female,Asian,64,253330,2.5474417578121575,USA,Austin,2017,8,110555.87,112919.81,219659.46
+Manager,Accounting,Specialized Products,Male,Asian,43,127175,0.31048176233518365,USA,Seattle,2003,22,110555.87,100804.94,122619.67
+Enterprise Engineer,IT,Research and Development,Male,Asian,52,73779,-0.6837226800990269,USA,Chicago,1994,31,110555.87,117845.74,62471.53
+Assistant,Accounting,Production,Female,Asian,41,238155,2.464591387609307,China,Shanghai,2018,7,108518.71,103324.24,219659.46
+Analyst,Accounting,Specialized Products,Female,Latin,49,42242,-0.6837226800990269,Brazil,São Paulo,2020,5,110765.62,111856.37,65423.93
+Manager,Marketing,Large Companies,Female,Asian,45,143318,0.31048176233518365,China,Chengdu,2016,9,108518.71,107533.96,122619.67
+Development Engineer,Engineering,Large Companies,Male,Asian,31,101941,-0.6837226800990269,China,Beijing,2015,10,108518.71,118365.36,87506.86
+Control Engineer,IT,Research and Development,Male,Asian,54,70519,-0.6837226800990269,USA,Columbus,2007,18,110555.87,106790.3,86000.4
+Manager,Accounting,Large Companies,Female,Asian,56,122731,0.3933321325380346,USA,Seattle,1995,30,110555.87,100804.94,122619.67
+Analyst,Accounting,Specialized Products,Female,Latin,45,45323,-0.6837226800990269,Brazil,Rio de Janeiro,2004,21,110765.62,111071.12,65423.93
+Technical Engineer,IT,Research and Development,Female,Latin,52,91518,-0.6837226800990269,Brazil,São Paulo,2011,14,110765.62,111856.37,72277.69
+Network Manager,IT,Large Companies,Female,Asian,25,82140,-0.6837226800990269,USA,Miami,2021,4,110555.87,111679.74,76039.56
+Analyst,Accounting,Production,Female,Asian,36,65794,-0.6837226800990269,USA,Austin,2011,14,110555.87,112919.81,65423.93
+Assistant,Marketing,Large Companies,Male,Asian,25,257296,2.216040277000754,USA,Austin,2022,3,110555.87,112919.81,219659.46
+Manager,IT,Specialized Products,Female,Asian,29,126550,0.5590328729437363,USA,Miami,2018,7,110555.87,111679.74,122619.67
+Manager,Accounting,Specialized Products,Male,Latin,33,122408,0.2276313921323328,Brazil,Rio de Janeiro,2013,12,110765.62,111071.12,122619.67
+Assistant,Accounting,Research and Development,Female,Asian,56,226952,2.5474417578121575,USA,Miami,2008,17,110555.87,111679.74,219659.46
+Assistant,Accounting,Research and Development,Female,Asian,43,240860,2.3817410174064557,USA,Chicago,2004,21,110555.87,117845.74,219659.46
+Technical Engineer,Accounting,Specialized Products,Female,Latin,44,54295,-0.6837226800990269,USA,Columbus,2020,5,110555.87,106790.3,72277.69
+Analyst,Accounting,Production,Male,Latin,43,96759,-0.6837226800990269,Brazil,Manaus,2018,7,110765.62,109274.83,65423.93
+Director,Human Resources,Research and Development,Female,Latin,60,199705,1.4703869451750962,Brazil,Rio de Janeiro,1993,32,110765.62,111071.12,154442.62
+System Manager,IT,Production,Male,Latin,60,82343,-0.6837226800990269,USA,Austin,2006,19,110555.87,112919.81,84523.89
+Enterprise Engineer,IT,Specialized Products,Female,Asian,46,41197,-0.6837226800990269,China,Beijing,2021,4,108518.71,118365.36,62471.53
+Technical Engineer,Accounting,Specialized Products,Male,Asian,52,59845,-0.6837226800990269,China,Beijing,2006,19,108518.71,118365.36,72277.69
+Analyst,Accounting,Large Companies,Male,Asian,33,55397,-0.6837226800990269,China,Shanghai,2021,4,108518.71,103324.24,65423.93
+Assistant,Marketing,Research and Development,Female,Asian,46,237489,1.8017884259864994,USA,Chicago,2018,7,110555.87,117845.74,219659.46
+Analyst,Marketing,Large Companies,Male,Black,47,99382,-0.6837226800990269,USA,Chicago,2022,3,110555.87,117845.74,65423.93
+System Manager,IT,Production,Female,Latin,59,71580,-0.6837226800990269,USA,Seattle,2007,18,110555.87,100804.94,84523.89
+Quality Engineer,Engineering,Research and Development,Male,Black,44,71345,-0.6837226800990269,USA,Miami,2019,6,110555.87,111679.74,78486.88
+Manager,IT,Large Companies,Male,Latin,53,90554,-0.10377008867907069,Brazil,Rio de Janeiro,2018,7,110765.62,111071.12,122619.67
+Manager,Accounting,Specialized Products,Female,Latin,27,107114,0.14478102192948197,Brazil,Rio de Janeiro,2021,4,110765.62,111071.12,122619.67
+Manager,IT,Research and Development,Female,Asian,55,106302,-0.020919718476219845,USA,Austin,2007,18,110555.87,112919.81,122619.67
+Assistant,IT,Research and Development,Female,Asian,42,240940,2.133189906797903,USA,Phoenix,2011,14,110555.87,113431.1,219659.46
+System Manager,IT,Production,Female,Asian,61,96404,-0.6837226800990269,China,Chengdu,2010,15,108518.71,107533.96,84523.89
+Cloud Infrastructure Engineer,IT,Specialized Products,Male,Asian,27,70181,-0.6837226800990269,USA,Phoenix,2021,4,110555.87,113431.1,74141.06
+Network Manager,IT,Research and Development,Female,Asian,63,78788,-0.6837226800990269,USA,Seattle,2010,15,110555.87,100804.94,76039.56
+Assistant,Accounting,Research and Development,Female,Asian,45,200481,1.8017884259864994,USA,Columbus,2002,23,110555.87,106790.3,219659.46
+Business Partner,Human Resources,Production,Female,Asian,50,45290,-0.6837226800990269,China,Chongqing,2020,5,108518.71,104913.33,51684.79
+Development Engineer,Engineering,Research and Development,Female,Asian,31,69108,-0.6837226800990269,USA,Miami,2020,5,110555.87,111679.74,87506.86
+Manager,IT,Production,Male,Asian,53,123480,-0.020919718476219845,China,Beijing,2011,14,108518.71,118365.36,122619.67
+Technical Engineer,Accounting,Production,Male,Asian,59,83365,-0.6837226800990269,China,Chongqing,2014,11,108518.71,104913.33,72277.69
+Assistant,Engineering,Production,Female,Asian,53,228494,2.0503395365950525,USA,Austin,2007,18,110555.87,112919.81,219659.46
+Business Partner,Human Resources,Production,Female,Latin,50,56002,-0.6837226800990269,USA,Austin,2008,17,110555.87,112919.81,51684.79
+Manager,IT,Specialized Products,Male,Asian,40,142844,0.2276313921323328,USA,Miami,2012,13,110555.87,111679.74,122619.67
+Analyst,IT,Research and Development,Female,Asian,58,41946,-0.6837226800990269,USA,Phoenix,2003,22,110555.87,113431.1,65423.93
+Director,IT,Specialized Products,Male,Black,43,154284,1.387536574972245,USA,Chicago,2003,22,110555.87,117845.74,154442.62
+Development Manager,IT,Production,Male,Latin,49,81622,-0.6837226800990269,USA,Chicago,2020,5,110555.87,117845.74,88231.08
+Director,Accounting,Specialized Products,Male,Asian,59,186854,1.8017884259864994,USA,Phoenix,2008,17,110555.87,113431.1,154442.62
+Analyst,Accounting,Large Companies,Male,Latin,57,74597,-0.6837226800990269,USA,Austin,2010,15,110555.87,112919.81,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,54,78020,-0.6837226800990269,USA,Columbus,2018,7,110555.87,106790.3,65423.93
+Analyst,Marketing,Research and Development,Female,Asian,40,56963,-0.6837226800990269,USA,Chicago,2016,9,110555.87,117845.74,65423.93
+Development Engineer,Engineering,Research and Development,Male,Asian,55,70451,-0.6837226800990269,USA,Seattle,2007,18,110555.87,100804.94,87506.86
+Manager,Marketing,Production,Female,Asian,50,118900,-0.2694708290847725,USA,Seattle,2004,21,110555.87,100804.94,122619.67
+Analyst,Accounting,Research and Development,Male,Asian,35,52232,-0.6837226800990269,USA,Columbus,2021,4,110555.87,106790.3,65423.93
+Assistant,Accounting,Research and Development,Female,Asian,28,219180,2.0503395365950525,China,Chongqing,2021,4,108518.71,104913.33,219659.46
+Manager,IT,Large Companies,Female,Asian,45,92317,-0.18662045888192166,USA,Austin,2021,4,110555.87,112919.81,122619.67
+Analyst,Accounting,Research and Development,Female,Asian,46,63987,-0.6837226800990269,USA,Seattle,2014,11,110555.87,100804.94,65423.93
+Assistant,Accounting,Large Companies,Male,Asian,27,205216,2.2988906472036046,USA,Chicago,2021,4,110555.87,117845.74,219659.46
+Assistant,Accounting,Large Companies,Female,Asian,39,218052,2.5474417578121575,China,Chengdu,2017,8,108518.71,107533.96,219659.46
+Enterprise Engineer,IT,Production,Male,Latin,27,42969,-0.6837226800990269,USA,Phoenix,2020,5,110555.87,113431.1,62471.53
+Manager,Marketing,Large Companies,Male,Asian,39,129949,0.061930651726631,China,Beijing,2015,10,108518.71,118365.36,122619.67
+Analyst,Accounting,Production,Male,Latin,41,84627,-0.6837226800990269,Brazil,Manaus,2011,14,110765.62,109274.83,65423.93
+Assistant,Engineering,Large Companies,Female,Asian,60,186400,2.6302921280150087,USA,Chicago,2021,4,110555.87,117845.74,219659.46
+Manager,Marketing,Research and Development,Male,Latin,31,125664,-0.2694708290847725,Brazil,Manaus,2022,3,110765.62,109274.83,122619.67
+Manager,Human Resources,Large Companies,Female,Asian,44,137426,0.4761825027408856,China,Chongqing,2022,3,108518.71,104913.33,122619.67
+Automation Engineer,Engineering,Large Companies,Male,Asian,55,79620,-0.6837226800990269,USA,Chicago,2015,10,110555.87,117845.74,103745.09
+Assistant,Human Resources,Research and Development,Male,Asian,40,227816,2.0503395365950525,USA,Chicago,2015,10,110555.87,117845.74,219659.46
+Development Engineer,Engineering,Large Companies,Male,Latin,58,77441,-0.6837226800990269,USA,Seattle,2006,19,110555.87,100804.94,87506.86
+Enterprise Engineer,IT,Research and Development,Male,Black,30,79975,-0.6837226800990269,USA,Chicago,2017,8,110555.87,117845.74,62471.53
+Technical Engineer,IT,Research and Development,Male,Black,58,80720,-0.6837226800990269,USA,Columbus,2010,15,110555.87,106790.3,72277.69
+Assistant,Accounting,Production,Male,Asian,45,239980,1.8846387961893505,USA,Austin,2014,11,110555.87,112919.81,219659.46
+Business Partner,Human Resources,Research and Development,Female,Latin,53,55206,-0.6837226800990269,USA,Miami,2019,6,110555.87,111679.74,51684.79
+Network Manager,IT,Research and Development,Male,Asian,44,73386,-0.6837226800990269,China,Chongqing,2004,21,108518.71,104913.33,76039.56
+Manager,Marketing,Large Companies,Male,Asian,45,104162,0.061930651726631,USA,Austin,2012,13,110555.87,112919.81,122619.67
+Enterprise Engineer,IT,Large Companies,Male,Black,40,65075,-0.6837226800990269,USA,Phoenix,2022,3,110555.87,113431.1,62471.53
+Enterprise Engineer,IT,Specialized Products,Male,Latin,40,43645,-0.6837226800990269,USA,Austin,2006,19,110555.87,112919.81,62471.53
+Analyst,IT,Specialized Products,Female,Latin,55,95400,-0.6837226800990269,Brazil,Manaus,2018,7,110765.62,109274.83,65423.93
+Manager,Accounting,Research and Development,Female,Asian,48,119220,0.061930651726631,USA,Columbus,1998,27,110555.87,106790.3,122619.67
+Analyst,Human Resources,Research and Development,Male,Latin,47,72384,-0.6837226800990269,Brazil,Rio de Janeiro,2008,17,110765.62,111071.12,65423.93
+Analyst,Marketing,Specialized Products,Female,Asian,50,48733,-0.6837226800990269,USA,Seattle,2000,25,110555.87,100804.94,65423.93
+Manager,Accounting,Production,Female,Asian,55,117421,-0.2694708290847725,USA,Austin,2012,13,110555.87,112919.81,122619.67
+System Manager,IT,Production,Male,Latin,51,87897,-0.6837226800990269,USA,Phoenix,2018,7,110555.87,113431.1,84523.89
+Manager,Human Resources,Production,Female,Asian,51,147436,0.2276313921323328,USA,Austin,2006,19,110555.87,112919.81,122619.67
+Assistant,Accounting,Production,Male,Asian,56,192374,1.8017884259864994,USA,Chicago,2016,9,110555.87,117845.74,219659.46
+Manager,Accounting,Production,Female,Latin,63,126064,-0.2694708290847725,USA,Miami,2017,8,110555.87,111679.74,122619.67
+Quality Engineer,Engineering,Specialized Products,Male,Latin,60,86761,-0.6837226800990269,Brazil,Rio de Janeiro,2008,17,110765.62,111071.12,78486.88
+Manager,Accounting,Large Companies,Male,Asian,39,100718,-0.2694708290847725,USA,Austin,2009,16,110555.87,112919.81,122619.67
+Development Manager,IT,Production,Male,Latin,56,94724,-0.6837226800990269,USA,Chicago,2005,20,110555.87,117845.74,88231.08
+Director,Accounting,Research and Development,Female,Latin,45,193154,0.807583983552289,Brazil,São Paulo,2002,23,110765.62,111856.37,154442.62
+Control Engineer,Engineering,Production,Male,Asian,60,81699,-0.6837226800990269,China,Beijing,1996,29,108518.71,118365.36,86000.4
+Automation Engineer,Engineering,Specialized Products,Male,Asian,51,88288,-0.6837226800990269,China,Chongqing,2004,21,108518.71,104913.33,103745.09
+System Manager,IT,Specialized Products,Male,Asian,56,82758,-0.6837226800990269,USA,Seattle,2003,22,110555.87,100804.94,84523.89
+Director,Marketing,Specialized Products,Male,Asian,58,151341,1.1389854643636927,USA,Seattle,2020,5,110555.87,100804.94,154442.62
+Assistant,Accounting,Research and Development,Female,Asian,31,191755,2.6302921280150087,USA,Miami,2022,3,110555.87,111679.74,219659.46
+Analyst,Accounting,Production,Male,Asian,36,80757,-0.6837226800990269,China,Chongqing,2020,5,108518.71,104913.33,65423.93
+Director,Marketing,Large Companies,Female,Asian,41,192266,1.2218358345665437,China,Chengdu,2021,4,108518.71,107533.96,154442.62
+Analyst,Marketing,Large Companies,Female,Latin,35,46569,-0.6837226800990269,USA,Austin,2012,13,110555.87,112919.81,65423.93
+Analyst,Marketing,Specialized Products,Male,Latin,41,55330,-0.6837226800990269,USA,Austin,2018,7,110555.87,112919.81,65423.93
+Cloud Infrastructure Engineer,IT,Research and Development,Female,Asian,55,66660,-0.6837226800990269,USA,Phoenix,2011,14,110555.87,113431.1,74141.06
+Analyst,Human Resources,Research and Development,Female,Asian,37,61680,-0.6837226800990269,China,Beijing,2010,15,108518.71,118365.36,65423.93
+Technical Engineer,Accounting,Large Companies,Male,Latin,30,72463,-0.6837226800990269,Brazil,Manaus,2018,7,110765.62,109274.83,72277.69
+Analyst,Accounting,Production,Male,Asian,43,72482,-0.6837226800990269,USA,Chicago,2021,4,110555.87,117845.74,65423.93
+Director,Engineering,Large Companies,Female,Asian,52,182938,1.2218358345665437,China,Chengdu,2016,9,108518.71,107533.96,154442.62
+Technical Engineer,Accounting,Research and Development,Male,Asian,35,58733,-0.6837226800990269,USA,Miami,2016,9,110555.87,111679.74,72277.69
+Enterprise Engineer,IT,Research and Development,Male,Asian,44,56680,-0.6837226800990269,USA,Chicago,2010,15,110555.87,117845.74,62471.53
+Development Engineer,Engineering,Production,Male,Latin,43,91537,-0.6837226800990269,USA,Chicago,2018,7,110555.87,117845.74,87506.86
+Analyst,Accounting,Research and Development,Female,Black,29,98992,-0.6837226800990269,USA,Miami,2020,5,110555.87,111679.74,65423.93
+Enterprise Engineer,IT,Specialized Products,Female,Asian,27,77607,-0.6837226800990269,USA,Miami,2022,3,110555.87,111679.74,62471.53
+System Manager,IT,Production,Female,Asian,36,79876,-0.6837226800990269,USA,Seattle,2013,12,110555.87,100804.94,84523.89
+Development Engineer,Engineering,Production,Male,Latin,34,104586,-0.6837226800990269,Brazil,São Paulo,2021,4,110765.62,111856.37,87506.86
+System Manager,IT,Specialized Products,Female,Asian,45,92820,-0.6837226800990269,China,Chongqing,2015,10,108518.71,104913.33,84523.89
+Analyst,Accounting,Specialized Products,Female,Asian,61,54811,-0.6837226800990269,China,Chongqing,2019,6,108518.71,104913.33,65423.93
+Manager,IT,Production,Female,Asian,63,76659,-0.2694708290847725,USA,Phoenix,2002,23,110555.87,113431.1,122619.67
+Manager,Human Resources,Research and Development,Male,Latin,47,134612,0.31048176233518365,USA,Austin,2000,25,110555.87,112919.81,122619.67
+Control Engineer,IT,Research and Development,Female,Asian,52,75402,-0.6837226800990269,USA,Phoenix,1998,27,110555.87,113431.1,86000.4
+Manager,Marketing,Research and Development,Female,Asian,45,138355,0.4761825027408856,USA,Columbus,2013,12,110555.87,106790.3,122619.67
+Assistant,Marketing,Research and Development,Male,Asian,31,234203,2.2988906472036046,USA,Seattle,2021,4,110555.87,100804.94,219659.46
+Analyst,Accounting,Specialized Products,Male,Asian,30,66892,-0.6837226800990269,USA,Seattle,2022,3,110555.87,100804.94,65423.93
+Technical Engineer,Accounting,Research and Development,Female,Asian,31,89573,-0.6837226800990269,USA,Miami,2018,7,110555.87,111679.74,72277.69
+Control Engineer,Engineering,Large Companies,Male,Asian,50,87727,-0.6837226800990269,USA,Miami,2012,13,110555.87,111679.74,86000.4
+Network Engineer,IT,Specialized Products,Female,Latin,48,71632,-0.6837226800990269,Brazil,Rio de Janeiro,2012,13,110765.62,111071.12,80432.44
+Manager,Accounting,Specialized Products,Male,Asian,65,155716,0.31048176233518365,USA,Seattle,2009,16,110555.87,100804.94,122619.67
+Manager,Marketing,Large Companies,Female,Black,41,153370,0.14478102192948197,USA,Chicago,2017,8,110555.87,117845.74,122619.67
+Director,Accounting,Production,Male,Asian,47,169487,1.2218358345665437,USA,Columbus,2019,6,110555.87,106790.3,154442.62
+Assistant,Human Resources,Specialized Products,Female,Asian,53,258722,2.2988906472036046,USA,Phoenix,2009,16,110555.87,113431.1,219659.46
+Manager,IT,Large Companies,Male,Asian,47,88839,-0.2694708290847725,USA,Phoenix,2002,23,110555.87,113431.1,122619.67
+Enterprise Engineer,IT,Large Companies,Female,Latin,37,59376,-0.6837226800990269,USA,Miami,2016,9,110555.87,111679.74,62471.53
+Assistant,Accounting,Production,Female,Asian,35,218127,2.3817410174064557,USA,Chicago,2020,5,110555.87,117845.74,219659.46
+Assistant,Engineering,Specialized Products,Female,Latin,43,185211,2.5474417578121575,Brazil,São Paulo,2011,14,110765.62,111856.37,219659.46
+Manager,Marketing,Specialized Products,Female,Asian,26,112264,-0.2694708290847725,USA,Chicago,2020,5,110555.87,117845.74,122619.67
+Director,Engineering,Research and Development,Female,Latin,53,123203,0.14478102192948197,USA,Austin,2009,16,110555.87,112919.81,154442.62
+Analyst,Accounting,Large Companies,Female,Asian,58,55174,-0.6837226800990269,USA,Austin,2013,12,110555.87,112919.81,65423.93
+Analyst,Accounting,Production,Female,Asian,65,59344,-0.6837226800990269,USA,Columbus,2020,5,110555.87,106790.3,65423.93
+Manager,Accounting,Research and Development,Male,Black,28,142797,0.14478102192948197,USA,Seattle,2022,3,110555.87,100804.94,122619.67
+Analyst,Accounting,Production,Male,Latin,65,63346,-0.6837226800990269,Brazil,Rio de Janeiro,1998,27,110765.62,111071.12,65423.93
+Director,Accounting,Large Companies,Male,Asian,28,198662,1.387536574972245,China,Beijing,2022,3,108518.71,118365.36,154442.62
+Director,Accounting,Large Companies,Female,Latin,54,195662,0.5590328729437363,USA,Columbus,1995,30,110555.87,106790.3,154442.62
+Assistant,IT,Production,Female,Asian,26,193435,1.8846387961893505,USA,Chicago,2021,4,110555.87,117845.74,219659.46
+System Manager,IT,Production,Female,Asian,48,75624,-0.6837226800990269,China,Chengdu,2021,4,108518.71,107533.96,84523.89
+Assistant,Human Resources,Specialized Products,Female,Asian,51,199736,2.216040277000754,USA,Austin,2000,25,110555.87,112919.81,219659.46
+Analyst,Accounting,Research and Development,Female,Asian,57,50260,-0.6837226800990269,China,Chengdu,2018,7,108518.71,107533.96,65423.93
+Analyst,IT,Large Companies,Male,Black,47,46202,-0.6837226800990269,USA,Phoenix,2005,20,110555.87,113431.1,65423.93
+Analyst,Marketing,Specialized Products,Male,Asian,26,70946,-0.6837226800990269,China,Shanghai,2022,3,108518.71,103324.24,65423.93
+Network Engineer,IT,Specialized Products,Male,Latin,57,93872,-0.6837226800990269,Brazil,São Paulo,2022,3,110765.62,111856.37,80432.44
+Manager,Marketing,Production,Female,Asian,48,100652,-0.10377008867907069,USA,Miami,2013,12,110555.87,111679.74,122619.67
+Analyst,IT,Production,Male,Asian,38,70588,-0.6837226800990269,USA,Miami,2015,10,110555.87,111679.74,65423.93
+Network Manager,IT,Large Companies,Female,Asian,48,62672,-0.6837226800990269,USA,Chicago,2000,25,110555.87,117845.74,76039.56
+Director,IT,Production,Male,Latin,29,197731,0.5590328729437363,USA,Seattle,2022,3,110555.87,100804.94,154442.62
+Manager,Marketing,Large Companies,Female,Asian,28,106043,0.14478102192948197,USA,Columbus,2020,5,110555.87,106790.3,122619.67
+Director,Engineering,Production,Male,Asian,32,96951,0.3933321325380346,China,Chengdu,2019,6,108518.71,107533.96,154442.62
+Network Engineer,IT,Specialized Products,Male,Latin,53,75226,-0.6837226800990269,Brazil,Rio de Janeiro,1994,31,110765.62,111071.12,80432.44
+Analyst,Marketing,Production,Male,Latin,31,64234,-0.6837226800990269,USA,Seattle,2020,5,110555.87,100804.94,65423.93
+System Manager,IT,Specialized Products,Female,Latin,63,75396,-0.6837226800990269,Brazil,Rio de Janeiro,2008,17,110765.62,111071.12,84523.89
+Manager,Accounting,Research and Development,Male,Black,32,101564,-0.18662045888192166,USA,Austin,2018,7,110555.87,112919.81,122619.67
+Analyst,Accounting,Large Companies,Male,Asian,62,69674,-0.6837226800990269,China,Chengdu,1999,26,108518.71,107533.96,65423.93
+Network Manager,IT,Specialized Products,Female,Asian,28,75172,-0.6837226800990269,China,Shanghai,2020,5,108518.71,103324.24,76039.56
+Director,Accounting,Specialized Products,Female,Asian,43,161376,1.3046862047693941,China,Beijing,2006,19,108518.71,118365.36,154442.62
+Assistant,Accounting,Large Companies,Female,Asian,38,256509,2.5474417578121575,China,Shanghai,2014,11,108518.71,103324.24,219659.46
+Analyst,Marketing,Research and Development,Male,Asian,48,83332,-0.6837226800990269,USA,Austin,2018,7,110555.87,112919.81,65423.93
+Quality Engineer,Engineering,Research and Development,Male,Latin,42,66226,-0.6837226800990269,Brazil,São Paulo,2017,8,110765.62,111856.37,78486.88
+Assistant,Accounting,Large Companies,Female,Asian,63,193531,2.6302921280150087,China,Shanghai,2004,21,108518.71,103324.24,219659.46
+Analyst,Accounting,Production,Female,Asian,61,53931,-0.6837226800990269,China,Shanghai,2017,8,108518.71,103324.24,65423.93
+Assistant,Human Resources,Large Companies,Female,Latin,48,225725,2.3817410174064557,USA,Phoenix,2013,12,110555.87,113431.1,219659.46
+Network Engineer,IT,Specialized Products,Female,Asian,63,96136,-0.6837226800990269,China,Shanghai,2020,5,108518.71,103324.24,80432.44
+Director,Engineering,Production,Female,Asian,40,74329,-0.6837226800990269,USA,Chicago,2018,7,110555.87,117845.74,154442.62
+Assistant,Marketing,Production,Female,Asian,48,256084,2.133189906797903,USA,Columbus,1999,26,110555.87,106790.3,219659.46
+Assistant,Accounting,Research and Development,Female,Asian,59,255610,2.2988906472036046,USA,Phoenix,2001,24,110555.87,113431.1,219659.46
+Cloud Infrastructure Engineer,IT,Production,Male,Latin,52,63444,-0.6837226800990269,USA,Miami,2008,17,110555.87,111679.74,74141.06
+Development Engineer,Engineering,Specialized Products,Female,Asian,49,123738,-0.6837226800990269,USA,Phoenix,2021,4,110555.87,113431.1,87506.86
+Business Partner,Human Resources,Specialized Products,Male,Asian,50,54931,-0.6837226800990269,USA,Austin,2022,3,110555.87,112919.81,51684.79
+Manager,Marketing,Research and Development,Female,Asian,32,155884,0.3933321325380346,USA,Miami,2016,9,110555.87,111679.74,122619.67
+Analyst,Marketing,Research and Development,Female,Asian,27,45989,-0.6837226800990269,USA,Chicago,2020,5,110555.87,117845.74,65423.93
+Analyst,Accounting,Research and Development,Male,Black,38,52200,-0.6837226800990269,USA,Phoenix,2017,8,110555.87,113431.1,65423.93
+Director,Engineering,Production,Male,Asian,62,80132,0.4761825027408856,China,Chongqing,2003,22,108518.71,104913.33,154442.62
+System Manager,IT,Production,Female,Asian,38,97630,-0.6837226800990269,USA,Seattle,2011,14,110555.87,100804.94,84523.89
+Analyst,Accounting,Specialized Products,Male,Asian,29,72620,-0.6837226800990269,China,Chongqing,2019,6,108518.71,104913.33,65423.93
+Analyst,Accounting,Specialized Products,Male,Asian,64,43785,-0.6837226800990269,China,Chongqing,2016,9,108518.71,104913.33,65423.93
+Network Engineer,IT,Specialized Products,Female,Asian,28,83965,-0.6837226800990269,China,Chengdu,2021,4,108518.71,107533.96,80432.44
+Director,Human Resources,Specialized Products,Female,Asian,28,161868,1.0561350941608418,USA,Austin,2020,5,110555.87,112919.81,154442.62
+Manager,Human Resources,Large Companies,Female,Latin,29,130790,0.14478102192948197,Brazil,Rio de Janeiro,2018,7,110765.62,111071.12,122619.67
+Director,Human Resources,Specialized Products,Male,Asian,32,186869,0.6418832431465873,USA,Miami,2019,6,110555.87,111679.74,154442.62
+Assistant,Marketing,Research and Development,Female,Latin,34,208883,2.464591387609307,USA,Miami,2017,8,110555.87,111679.74,219659.46
+Network Manager,IT,Production,Female,Asian,54,60513,-0.6837226800990269,USA,Austin,2011,14,110555.87,112919.81,76039.56
+Director,Engineering,Production,Female,Asian,31,72475,-0.6837226800990269,USA,Phoenix,2022,3,110555.87,113431.1,154442.62
+Enterprise Engineer,IT,Specialized Products,Male,Asian,33,54700,-0.6837226800990269,USA,Miami,2016,9,110555.87,111679.74,62471.53
+Test Engineer,Engineering,Large Companies,Female,Asian,37,69125,-0.6837226800990269,USA,Austin,2013,12,110555.87,112919.81,81257.92
+Analyst,IT,Large Companies,Female,Asian,56,79388,-0.6837226800990269,China,Beijing,2021,4,108518.71,118365.36,65423.93
+Technical Engineer,Accounting,Production,Male,Latin,30,58290,-0.6837226800990269,USA,Chicago,2018,7,110555.87,117845.74,72277.69
+Manager,Accounting,Production,Female,Black,33,135215,0.31048176233518365,USA,Miami,2014,11,110555.87,111679.74,122619.67
+Network Engineer,IT,Large Companies,Male,Asian,30,89164,-0.6837226800990269,USA,Phoenix,2022,3,110555.87,113431.1,80432.44
+Test Engineer,Engineering,Research and Development,Female,Asian,60,72806,-0.6837226800990269,China,Chongqing,1997,28,108518.71,104913.33,81257.92
+Analyst,IT,Production,Male,Black,61,41220,-0.6837226800990269,USA,Chicago,2011,14,110555.87,117845.74,65423.93
+Assistant,Human Resources,Large Companies,Female,Latin,26,187792,2.6302921280150087,USA,Chicago,2020,5,110555.87,117845.74,219659.46
+Quality Engineer,Engineering,Large Companies,Male,Latin,62,78251,-0.6837226800990269,Brazil,São Paulo,1995,30,110765.62,111856.37,78486.88
+Manager,IT,Production,Female,Asian,65,125213,-0.10377008867907069,USA,Seattle,1994,31,110555.87,100804.94,122619.67
+Assistant,Human Resources,Research and Development,Male,Latin,55,227148,2.0503395365950525,Brazil,São Paulo,1999,26,110765.62,111856.37,219659.46
+Technical Engineer,Accounting,Specialized Products,Male,Asian,41,90881,-0.6837226800990269,China,Shanghai,2009,16,108518.71,103324.24,72277.69
+Assistant,Accounting,Specialized Products,Male,Asian,43,180385,2.0503395365950525,USA,Columbus,2016,9,110555.87,106790.3,219659.46
+Manager,Marketing,Large Companies,Female,Asian,46,103147,-0.18662045888192166,USA,Miami,2017,8,110555.87,111679.74,122619.67
+Development Engineer,Engineering,Specialized Products,Female,Latin,58,96256,-0.6837226800990269,USA,Chicago,2007,18,110555.87,117845.74,87506.86
+Cloud Infrastructure Engineer,IT,Specialized Products,Male,Asian,38,70612,-0.6837226800990269,China,Chongqing,2021,4,108518.71,104913.33,74141.06
+Manager,Accounting,Specialized Products,Female,Latin,42,128714,-0.10377008867907069,Brazil,São Paulo,2010,15,110765.62,111856.37,122619.67
+Automation Engineer,Engineering,Research and Development,Male,Asian,46,114260,-0.6837226800990269,China,Chengdu,2000,25,108518.71,107533.96,103745.09
+Manager,Marketing,Specialized Products,Female,Latin,30,103646,-0.10377008867907069,USA,Phoenix,2017,8,110555.87,113431.1,122619.67
+Assistant,Accounting,Research and Development,Female,Asian,51,195171,2.0503395365950525,USA,Seattle,2009,16,110555.87,100804.94,219659.46
+System Manager,IT,Research and Development,Male,Asian,64,87521,-0.6837226800990269,USA,Seattle,2018,7,110555.87,100804.94,84523.89
+Analyst,IT,Research and Development,Female,Asian,59,46151,-0.6837226800990269,USA,Phoenix,2008,17,110555.87,113431.1,65423.93
+Manager,Accounting,Production,Female,Asian,30,121234,-0.2694708290847725,USA,Austin,2018,7,110555.87,112919.81,122619.67
+Director,Accounting,Specialized Products,Male,Latin,38,182055,1.553237315377947,Brazil,Rio de Janeiro,2009,16,110765.62,111071.12,154442.62
+Cloud Infrastructure Engineer,IT,Production,Male,Asian,27,74587,-0.6837226800990269,USA,Austin,2022,3,110555.87,112919.81,74141.06
+Director,Engineering,Large Companies,Male,Asian,32,111035,0.31048176233518365,USA,Chicago,2019,6,110555.87,117845.74,154442.62
+Business Partner,Human Resources,Large Companies,Male,Asian,29,53090,-0.6837226800990269,USA,Miami,2017,8,110555.87,111679.74,51684.79
+Director,Engineering,Production,Female,Asian,27,92806,-0.6837226800990269,China,Chengdu,2022,3,108518.71,107533.96,154442.62
+Business Partner,Human Resources,Research and Development,Female,Asian,61,42829,-0.6837226800990269,USA,Columbus,1996,29,110555.87,106790.3,51684.79
+Manager,Accounting,Specialized Products,Male,Asian,34,116676,0.14478102192948197,China,Chengdu,2013,12,108518.71,107533.96,122619.67
+System Manager,IT,Research and Development,Female,Asian,52,98060,-0.6837226800990269,USA,Miami,2018,7,110555.87,111679.74,84523.89
+Analyst,IT,Large Companies,Female,Asian,32,97509,-0.6837226800990269,China,Shanghai,2018,7,108518.71,103324.24,65423.93
+Enterprise Engineer,IT,Production,Male,Latin,32,79670,-0.6837226800990269,USA,Columbus,2021,4,110555.87,106790.3,62471.53
+Assistant,Accounting,Specialized Products,Male,Latin,54,257489,2.133189906797903,Brazil,Rio de Janeiro,1994,31,110765.62,111071.12,219659.46
+Assistant,Accounting,Production,Male,Asian,41,210085,2.5474417578121575,USA,Chicago,2011,14,110555.87,117845.74,219659.46
+Director,Human Resources,Production,Male,Asian,59,175137,1.4703869451750962,USA,Chicago,2022,3,110555.87,117845.74,154442.62
+Director,Human Resources,Specialized Products,Female,Latin,45,191304,0.7247336133494382,USA,Phoenix,2008,17,110555.87,113431.1,154442.62
+Assistant,Engineering,Large Companies,Female,Asian,65,203030,1.8846387961893505,USA,Chicago,2001,24,110555.87,117845.74,219659.46
+Manager,Accounting,Specialized Products,Male,Asian,64,100951,-0.2694708290847725,USA,Miami,2003,22,110555.87,111679.74,122619.67
+Test Engineer,Engineering,Research and Development,Female,Asian,32,61243,-0.6837226800990269,USA,Miami,2019,6,110555.87,111679.74,81257.92
+Director,Accounting,Large Companies,Male,Latin,40,176533,1.387536574972245,USA,Austin,2021,4,110555.87,112919.81,154442.62
+Assistant,Accounting,Production,Male,Asian,47,246680,2.5474417578121575,China,Beijing,2013,12,108518.71,118365.36,219659.46
+Manager,Accounting,Large Companies,Male,Asian,49,158028,0.31048176233518365,China,Chengdu,1999,26,108518.71,107533.96,122619.67
+Director,Human Resources,Specialized Products,Male,Latin,53,179983,0.6418832431465873,USA,Phoenix,2001,24,110555.87,113431.1,154442.62
+Development Engineer,Engineering,Production,Male,Asian,61,98565,-0.6837226800990269,USA,Phoenix,2015,10,110555.87,113431.1,87506.86
+Director,Accounting,Large Companies,Male,Asian,37,173630,1.3046862047693941,China,Chongqing,2019,6,108518.71,104913.33,154442.62
+Enterprise Engineer,IT,Specialized Products,Female,Black,54,80129,-0.6837226800990269,USA,Miami,2013,12,110555.87,111679.74,62471.53
+Development Engineer,Engineering,Research and Development,Male,Latin,27,81713,-0.6837226800990269,Brazil,Rio de Janeiro,2022,3,110765.62,111071.12,87506.86
+Cloud Infrastructure Engineer,IT,Research and Development,Male,Latin,30,80389,-0.6837226800990269,Brazil,Manaus,2017,8,110765.62,109274.83,74141.06
+Analyst,Accounting,Large Companies,Female,Latin,36,48117,-0.6837226800990269,Brazil,São Paulo,2013,12,110765.62,111856.37,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,58,58208,-0.6837226800990269,China,Chengdu,1996,29,108518.71,107533.96,65423.93
+Analyst,Accounting,Production,Male,Latin,55,66172,-0.6837226800990269,Brazil,Manaus,2012,13,110765.62,109274.83,65423.93
+Manager,Accounting,Research and Development,Male,Latin,28,141675,0.31048176233518365,Brazil,Rio de Janeiro,2019,6,110765.62,111071.12,122619.67
+Manager,Accounting,Research and Development,Female,Latin,60,126929,0.31048176233518365,Brazil,São Paulo,1993,32,110765.62,111856.37,122619.67
+Manager,Accounting,Research and Development,Female,Asian,50,123096,0.14478102192948197,China,Shanghai,2008,17,108518.71,103324.24,122619.67
+Enterprise Engineer,IT,Research and Development,Male,Asian,41,57166,-0.6837226800990269,China,Shanghai,2018,7,108518.71,103324.24,62471.53
+Manager,Accounting,Research and Development,Male,Asian,32,151758,0.31048176233518365,China,Beijing,2014,11,108518.71,118365.36,122619.67
+Automation Engineer,Engineering,Production,Male,Latin,51,78107,-0.6837226800990269,Brazil,Manaus,2005,20,110765.62,109274.83,103745.09
+Director,Engineering,Research and Development,Female,Latin,25,177264,0.6418832431465873,Brazil,Manaus,2022,3,110765.62,109274.83,154442.62
+Director,Engineering,Research and Development,Male,Latin,41,118973,0.14478102192948197,USA,Phoenix,2010,15,110555.87,113431.1,154442.62
+Analyst,Accounting,Production,Female,Asian,62,69057,-0.6837226800990269,USA,Chicago,2015,10,110555.87,117845.74,65423.93
+Analyst,Marketing,Research and Development,Female,Asian,45,53526,-0.6837226800990269,USA,Seattle,2001,24,110555.87,100804.94,65423.93
+Manager,Accounting,Specialized Products,Female,Latin,63,149582,0.4761825027408856,USA,Seattle,1999,26,110555.87,100804.94,122619.67
+Director,Accounting,Research and Development,Male,Asian,57,178447,1.1389854643636927,China,Chengdu,2000,25,108518.71,107533.96,154442.62
+Manager,Accounting,Research and Development,Male,Asian,46,128845,0.3933321325380346,China,Shanghai,2018,7,108518.71,103324.24,122619.67
+System Manager,IT,Specialized Products,Male,Asian,47,78985,-0.6837226800990269,China,Beijing,2005,20,108518.71,118365.36,84523.89
+Assistant,IT,Research and Development,Female,Latin,43,226122,1.9674891663922014,Brazil,Manaus,2012,13,110765.62,109274.83,219659.46
+System Manager,IT,Production,Female,Asian,36,99249,-0.6837226800990269,USA,Miami,2016,9,110555.87,111679.74,84523.89
+Analyst,IT,Specialized Products,Female,Latin,50,67756,-0.6837226800990269,USA,Chicago,2007,18,110555.87,117845.74,65423.93
+Analyst,Marketing,Research and Development,Male,Latin,56,65368,-0.6837226800990269,USA,Seattle,2012,13,110555.87,100804.94,65423.93
+Enterprise Engineer,IT,Research and Development,Male,Asian,39,92523,-0.6837226800990269,USA,Miami,2011,14,110555.87,111679.74,62471.53
+Director,IT,Production,Male,Black,41,192944,1.1389854643636927,USA,Miami,2013,12,110555.87,111679.74,154442.62
+Analyst,Accounting,Large Companies,Male,Asian,41,72650,-0.6837226800990269,USA,Austin,2019,6,110555.87,112919.81,65423.93
+Analyst,Human Resources,Specialized Products,Male,Asian,38,71235,-0.6837226800990269,China,Chongqing,2010,15,108518.71,104913.33,65423.93
+Assistant,IT,Research and Development,Female,Black,26,188880,2.2988906472036046,USA,Phoenix,2022,3,110555.87,113431.1,219659.46
+Development Manager,IT,Specialized Products,Male,Latin,33,90084,-0.6837226800990269,USA,Columbus,2016,9,110555.87,106790.3,88231.08
+Assistant,Accounting,Production,Female,Asian,53,234064,2.0503395365950525,China,Chengdu,2005,20,108518.71,107533.96,219659.46
+Enterprise Engineer,IT,Research and Development,Male,Asian,30,44454,-0.6837226800990269,China,Beijing,2021,4,108518.71,118365.36,62471.53
+Control Engineer,Engineering,Production,Male,Latin,40,105574,-0.6837226800990269,USA,Miami,2014,11,110555.87,111679.74,86000.4
+Director,Marketing,Production,Female,Asian,35,161453,1.553237315377947,USA,Phoenix,2012,13,110555.87,113431.1,154442.62
+Manager,IT,Research and Development,Female,Asian,52,128301,-0.18662045888192166,China,Beijing,2013,12,108518.71,118365.36,122619.67
+Director,Engineering,Production,Female,Asian,42,73404,-0.6837226800990269,USA,Austin,2022,3,110555.87,112919.81,154442.62
+Analyst,Accounting,Production,Male,Latin,38,68281,-0.6837226800990269,USA,Miami,2021,4,110555.87,111679.74,65423.93
+Cloud Infrastructure Engineer,IT,Research and Development,Female,Asian,27,68712,-0.6837226800990269,USA,Columbus,2020,5,110555.87,106790.3,74141.06
+Analyst,Accounting,Research and Development,Female,Latin,46,54831,-0.6837226800990269,Brazil,São Paulo,2005,20,110765.62,111856.37,65423.93
+Network Engineer,IT,Research and Development,Female,Latin,54,88906,-0.6837226800990269,USA,Phoenix,2003,22,110555.87,113431.1,80432.44
+Analyst,Accounting,Specialized Products,Male,Asian,46,93642,-0.6837226800990269,USA,Columbus,2012,13,110555.87,106790.3,65423.93
+Network Manager,IT,Research and Development,Male,Asian,34,83576,-0.6837226800990269,China,Shanghai,2019,6,108518.71,103324.24,76039.56
+Assistant,Accounting,Research and Development,Female,Asian,45,257725,2.133189906797903,USA,Seattle,2014,11,110555.87,100804.94,219659.46
+Analyst,Accounting,Production,Female,Asian,59,57704,-0.6837226800990269,China,Shanghai,2012,13,108518.71,103324.24,65423.93
+Manager,Human Resources,Research and Development,Male,Asian,54,154658,0.31048176233518365,China,Chongqing,1995,30,108518.71,104913.33,122619.67
+Assistant,Accounting,Specialized Products,Male,Asian,53,252140,2.464591387609307,China,Beijing,2012,13,108518.71,118365.36,219659.46
+Technical Engineer,Accounting,Specialized Products,Female,Asian,43,63229,-0.6837226800990269,USA,Miami,2006,19,110555.87,111679.74,72277.69
+System Manager,IT,Research and Development,Female,Asian,44,74431,-0.6837226800990269,USA,Phoenix,2003,22,110555.87,113431.1,84523.89
+Network Manager,IT,Specialized Products,Female,Latin,36,83548,-0.6837226800990269,USA,Miami,2022,3,110555.87,111679.74,76039.56
+System Manager,IT,Research and Development,Female,Asian,60,81083,-0.6837226800990269,USA,Columbus,1993,32,110555.87,106790.3,84523.89
+Analyst,Marketing,Research and Development,Male,Asian,47,48523,-0.6837226800990269,USA,Austin,2016,9,110555.87,112919.81,65423.93
+Technical Engineer,Accounting,Specialized Products,Female,Latin,65,90737,-0.6837226800990269,Brazil,São Paulo,1997,28,110765.62,111856.37,72277.69
+Analyst,Marketing,Research and Development,Male,Latin,34,81646,-0.6837226800990269,USA,Phoenix,2019,6,110555.87,113431.1,65423.93
+Assistant,Accounting,Specialized Products,Male,Asian,48,246400,2.2988906472036046,China,Chongqing,2006,19,108518.71,104913.33,219659.46
+Business Partner,Human Resources,Large Companies,Female,Latin,35,53285,-0.6837226800990269,USA,Columbus,2015,10,110555.87,106790.3,51684.79
+Manager,Accounting,Specialized Products,Male,Asian,53,125545,-0.18662045888192166,USA,Austin,2014,11,110555.87,112919.81,122619.67
+Technical Engineer,IT,Large Companies,Male,Latin,31,63644,-0.6837226800990269,Brazil,Manaus,2015,10,110765.62,109274.83,72277.69
+Development Engineer,Engineering,Research and Development,Female,Latin,27,75583,-0.6837226800990269,Brazil,Manaus,2021,4,110765.62,109274.83,87506.86
+Analyst,Accounting,Production,Male,Asian,26,91372,-0.6837226800990269,USA,Miami,2020,5,110555.87,111679.74,65423.93
+Enterprise Engineer,IT,Research and Development,Female,Asian,26,42343,-0.6837226800990269,USA,Miami,2020,5,110555.87,111679.74,62471.53
+Analyst,Accounting,Large Companies,Female,Asian,29,48563,-0.6837226800990269,China,Shanghai,2017,8,108518.71,103324.24,65423.93
+Manager,Accounting,Specialized Products,Female,Asian,45,114072,-0.020919718476219845,USA,Phoenix,2005,20,110555.87,113431.1,122619.67
+Analyst,Accounting,Specialized Products,Female,Asian,58,89744,-0.6837226800990269,China,Chongqing,2009,16,108518.71,104913.33,65423.93
+Cloud Infrastructure Engineer,IT,Research and Development,Female,Asian,33,60690,-0.6837226800990269,China,Chongqing,2015,10,108518.71,104913.33,74141.06
+Director,Human Resources,Specialized Products,Female,Asian,53,173624,0.7247336133494382,USA,Miami,1999,26,110555.87,111679.74,154442.62
+Analyst,Marketing,Specialized Products,Male,Asian,35,86777,-0.6837226800990269,China,Chengdu,2022,3,108518.71,107533.96,65423.93
+Assistant,Accounting,Large Companies,Male,Latin,27,181587,2.464591387609307,Brazil,Manaus,2020,5,110765.62,109274.83,219659.46
+Technical Engineer,Accounting,Specialized Products,Male,Asian,45,80989,-0.6837226800990269,USA,Columbus,2016,9,110555.87,106790.3,72277.69
+Manager,Marketing,Specialized Products,Female,Latin,36,157976,0.14478102192948197,Brazil,Rio de Janeiro,2019,6,110765.62,111071.12,122619.67
+Manager,Accounting,Production,Male,Asian,53,128226,-0.020919718476219845,China,Shanghai,2005,20,108518.71,103324.24,122619.67
+Technical Engineer,Accounting,Research and Development,Male,Asian,47,57386,-0.6837226800990269,China,Beijing,2013,12,108518.71,118365.36,72277.69
+Analyst,Marketing,Production,Male,Latin,65,93857,-0.6837226800990269,USA,Phoenix,2004,21,110555.87,113431.1,65423.93
+Enterprise Engineer,IT,Production,Male,Asian,34,68972,-0.6837226800990269,USA,Austin,2021,4,110555.87,112919.81,62471.53
+Manager,Accounting,Large Companies,Male,Asian,48,117736,-0.2694708290847725,USA,Columbus,2010,15,110555.87,106790.3,122619.67
+Development Engineer,Engineering,Large Companies,Female,Latin,55,64809,-0.6837226800990269,Brazil,Rio de Janeiro,2003,22,110765.62,111071.12,87506.86
+Manager,Accounting,Research and Development,Male,Asian,45,126697,0.3933321325380346,China,Beijing,2009,16,108518.71,118365.36,122619.67
+Development Manager,IT,Production,Female,Latin,37,92849,-0.6837226800990269,USA,Chicago,2009,16,110555.87,117845.74,88231.08
+Manager,Accounting,Specialized Products,Female,Asian,62,134487,0.14478102192948197,USA,Seattle,2021,4,110555.87,100804.94,122619.67
+Analyst,Accounting,Large Companies,Female,Asian,57,57230,-0.6837226800990269,USA,Austin,1993,32,110555.87,112919.81,65423.93
+Manager,IT,Specialized Products,Female,Latin,64,120704,-0.020919718476219845,USA,Miami,2014,11,110555.87,111679.74,122619.67
+System Manager,IT,Large Companies,Male,Asian,65,75439,-0.6837226800990269,USA,Seattle,2015,10,110555.87,100804.94,84523.89
+Manager,IT,Specialized Products,Male,Asian,39,103466,-0.2694708290847725,USA,Chicago,2012,13,110555.87,117845.74,122619.67
+Manager,Accounting,Research and Development,Female,Black,42,106726,0.061930651726631,USA,Seattle,2014,11,110555.87,100804.94,122619.67
+Assistant,Accounting,Large Companies,Male,Asian,45,250639,2.133189906797903,China,Shanghai,2014,11,108518.71,103324.24,219659.46
+Analyst,Accounting,Specialized Products,Male,Latin,55,54641,-0.6837226800990269,Brazil,São Paulo,2002,23,110765.62,111856.37,65423.93
+Development Engineer,Engineering,Large Companies,Female,Asian,37,80015,-0.6837226800990269,USA,Chicago,2010,15,110555.87,117845.74,87506.86
+Manager,Marketing,Large Companies,Male,Asian,57,122825,-0.020919718476219845,USA,Miami,1996,29,110555.87,111679.74,122619.67
+Analyst,Accounting,Production,Male,Asian,42,53829,-0.6837226800990269,China,Beijing,2014,11,108518.71,118365.36,65423.93
+Director,Accounting,Large Companies,Female,Latin,30,168050,1.3046862047693941,Brazil,Manaus,2022,3,110765.62,109274.83,154442.62
+Director,Marketing,Research and Development,Male,Latin,36,179166,0.7247336133494382,Brazil,Manaus,2015,10,110765.62,109274.83,154442.62
+Analyst,Accounting,Research and Development,Male,Asian,28,53210,-0.6837226800990269,USA,Seattle,2018,7,110555.87,100804.94,65423.93
+Analyst,Marketing,Research and Development,Male,Latin,52,95682,-0.6837226800990269,USA,Seattle,2002,23,110555.87,100804.94,65423.93
+Assistant,Marketing,Production,Female,Asian,45,216269,2.3817410174064557,USA,Chicago,2007,18,110555.87,117845.74,219659.46
+Analyst,Accounting,Specialized Products,Female,Latin,52,43378,-0.6837226800990269,USA,Miami,2014,11,110555.87,111679.74,65423.93
+Network Manager,IT,Research and Development,Female,Asian,40,77637,-0.6837226800990269,China,Chongqing,2007,18,108518.71,104913.33,76039.56
+Director,IT,Specialized Products,Male,Asian,59,190570,0.7247336133494382,China,Beijing,2017,8,108518.71,118365.36,154442.62
+Director,Engineering,Large Companies,Female,Asian,44,82241,-0.6837226800990269,China,Shanghai,2017,8,108518.71,103324.24,154442.62
+Cloud Infrastructure Engineer,IT,Specialized Products,Female,Asian,46,74026,-0.6837226800990269,USA,Phoenix,2012,13,110555.87,113431.1,74141.06
+Analyst,Accounting,Research and Development,Female,Latin,33,56938,-0.6837226800990269,Brazil,São Paulo,2019,6,110765.62,111856.37,65423.93
+Manager,Human Resources,Specialized Products,Male,Latin,55,103795,-0.10377008867907069,USA,Seattle,2017,8,110555.87,100804.94,122619.67
+Cloud Infrastructure Engineer,IT,Production,Female,Asian,42,79764,-0.6837226800990269,USA,Austin,2020,5,110555.87,112919.81,74141.06
+Manager,IT,Production,Male,Asian,34,77024,0.061930651726631,USA,Phoenix,2014,11,110555.87,113431.1,122619.67
+Manager,Accounting,Large Companies,Female,Latin,29,106456,0.14478102192948197,USA,Columbus,2019,6,110555.87,106790.3,122619.67
+Development Manager,IT,Production,Male,Latin,27,88142,-0.6837226800990269,USA,Columbus,2020,5,110555.87,106790.3,88231.08
+Director,Accounting,Large Companies,Male,Asian,54,194221,0.6418832431465873,USA,Austin,2004,21,110555.87,112919.81,154442.62
+Enterprise Engineer,IT,Specialized Products,Male,Asian,53,63165,-0.6837226800990269,USA,Seattle,1997,28,110555.87,100804.94,62471.53
+Enterprise Engineer,IT,Specialized Products,Female,Asian,34,44677,-0.6837226800990269,China,Chongqing,2021,4,108518.71,104913.33,62471.53
+Analyst,Accounting,Production,Female,Black,26,97542,-0.6837226800990269,USA,Phoenix,2021,4,110555.87,113431.1,65423.93
+Assistant,Engineering,Specialized Products,Female,Asian,26,211121,2.216040277000754,USA,Phoenix,2022,3,110555.87,113431.1,219659.46
+Technical Engineer,Accounting,Specialized Products,Female,Asian,31,84925,-0.6837226800990269,USA,Austin,2016,9,110555.87,112919.81,72277.69
+Manager,Human Resources,Research and Development,Female,Asian,26,88921,-0.6837226800990269,USA,Chicago,2020,5,110555.87,117845.74,122619.67
+Manager,Accounting,Large Companies,Female,Asian,29,129172,-0.020919718476219845,China,Beijing,2022,3,108518.71,118365.36,122619.67
+Manager,Accounting,Large Companies,Female,Asian,64,147853,0.2276313921323328,USA,Austin,1997,28,110555.87,112919.81,122619.67
+Director,Marketing,Production,Female,Latin,44,167660,1.7189380557836484,Brazil,São Paulo,2018,7,110765.62,111856.37,154442.62
+Director,IT,Research and Development,Female,Latin,52,166699,1.553237315377947,Brazil,São Paulo,1999,26,110765.62,111856.37,154442.62
+Director,Engineering,Large Companies,Male,Asian,39,67216,-0.6837226800990269,USA,Phoenix,2022,3,110555.87,113431.1,154442.62
+Assistant,Accounting,Production,Male,Asian,40,235994,2.0503395365950525,China,Beijing,2010,15,108518.71,118365.36,219659.46
+Quality Engineer,Engineering,Large Companies,Female,Latin,27,61693,-0.6837226800990269,Brazil,São Paulo,2020,5,110765.62,111856.37,78486.88
+Network Engineer,IT,Research and Development,Male,Asian,43,62492,-0.6837226800990269,USA,Columbus,2020,5,110555.87,106790.3,80432.44
+Analyst,IT,Production,Male,Latin,49,40499,-0.6837226800990269,USA,Miami,2003,22,110555.87,111679.74,65423.93
+Cloud Infrastructure Engineer,IT,Large Companies,Male,Asian,43,94555,-0.6837226800990269,USA,Austin,2019,6,110555.87,112919.81,74141.06
+Assistant,IT,Production,Male,Latin,60,239868,2.6302921280150087,USA,Miami,2014,11,110555.87,111679.74,219659.46
+Manager,Human Resources,Specialized Products,Male,Asian,57,136723,0.2276313921323328,USA,Austin,2012,13,110555.87,112919.81,122619.67
+Analyst,Accounting,Production,Male,Asian,28,85206,-0.6837226800990269,China,Chongqing,2021,4,108518.71,104913.33,65423.93
+Control Engineer,IT,Specialized Products,Female,Latin,53,93053,-0.6837226800990269,Brazil,São Paulo,2020,5,110765.62,111856.37,86000.4
+Manager,Marketing,Large Companies,Male,Latin,48,121884,0.31048176233518365,USA,Austin,2019,6,110555.87,112919.81,122619.67
+Assistant,Marketing,Specialized Products,Female,Asian,50,181570,2.216040277000754,USA,Miami,2018,7,110555.87,111679.74,219659.46
+Assistant,IT,Research and Development,Female,Asian,47,246303,2.133189906797903,USA,Columbus,2018,7,110555.87,106790.3,219659.46
+Analyst,Accounting,Specialized Products,Female,Asian,28,63066,-0.6837226800990269,USA,Seattle,2020,5,110555.87,100804.94,65423.93
+Manager,Human Resources,Production,Female,Asian,52,88220,-0.6837226800990269,China,Shanghai,2019,6,108518.71,103324.24,122619.67
+Director,Engineering,Specialized Products,Male,Asian,50,96099,0.2276313921323328,USA,Chicago,1999,26,110555.87,117845.74,154442.62
+Analyst,Accounting,Large Companies,Female,Latin,51,59311,-0.6837226800990269,Brazil,São Paulo,1995,30,110765.62,111856.37,65423.93
+Technical Engineer,Accounting,Specialized Products,Male,Asian,51,67418,-0.6837226800990269,China,Shanghai,1999,26,108518.71,103324.24,72277.69
+Manager,Marketing,Specialized Products,Female,Latin,55,117912,-0.2694708290847725,Brazil,Rio de Janeiro,2022,3,110765.62,111071.12,122619.67
+Manager,Accounting,Production,Female,Asian,44,129099,-0.18662045888192166,USA,Austin,2010,15,110555.87,112919.81,122619.67
+Manager,Accounting,Specialized Products,Male,Asian,55,113525,-0.18662045888192166,USA,Miami,1997,28,110555.87,111679.74,122619.67
+Manager,Marketing,Research and Development,Male,Latin,62,158614,0.4761825027408856,Brazil,Rio de Janeiro,2000,25,110765.62,111071.12,122619.67
+Manager,IT,Production,Female,Latin,40,125900,-0.10377008867907069,USA,Seattle,2009,16,110555.87,100804.94,122619.67
+Analyst,Accounting,Large Companies,Male,Asian,27,52058,-0.6837226800990269,USA,Columbus,2022,3,110555.87,106790.3,65423.93
+Analyst,Accounting,Research and Development,Female,Latin,48,43980,-0.6837226800990269,USA,Columbus,2015,10,110555.87,106790.3,65423.93
+Analyst,Accounting,Research and Development,Female,Black,56,55008,-0.6837226800990269,USA,Austin,2012,13,110555.87,112919.81,65423.93
+Analyst,Human Resources,Large Companies,Female,Asian,34,71699,-0.6837226800990269,USA,Phoenix,2014,11,110555.87,113431.1,65423.93
+Manager,Accounting,Large Companies,Male,Asian,27,120315,-0.020919718476219845,USA,Miami,2022,3,110555.87,111679.74,122619.67
+Manager,Human Resources,Specialized Products,Male,Black,28,115916,0.061930651726631,USA,Chicago,2019,6,110555.87,117845.74,122619.67
+Analyst,Accounting,Production,Male,Asian,27,56919,-0.6837226800990269,USA,Miami,2022,3,110555.87,111679.74,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,45,48491,-0.6837226800990269,USA,Austin,2015,10,110555.87,112919.81,65423.93
+Enterprise Engineer,IT,Production,Female,Latin,43,85164,-0.6837226800990269,Brazil,São Paulo,2010,15,110765.62,111856.37,62471.53
+Automation Engineer,Engineering,Research and Development,Male,Asian,36,121049,-0.6837226800990269,USA,Seattle,2019,6,110555.87,100804.94,103745.09
+System Manager,IT,Large Companies,Female,Asian,43,70923,-0.6837226800990269,USA,Columbus,2007,18,110555.87,106790.3,84523.89
+Control Engineer,IT,Large Companies,Male,Asian,43,85261,-0.6837226800990269,China,Chengdu,2009,16,108518.71,107533.96,86000.4
+Automation Engineer,Engineering,Research and Development,Female,Asian,33,124681,-0.6837226800990269,USA,Phoenix,2020,5,110555.87,113431.1,103745.09
+Director,Engineering,Large Companies,Female,Asian,28,87675,-0.6837226800990269,China,Beijing,2019,6,108518.71,118365.36,154442.62
+Analyst,Accounting,Specialized Products,Male,Latin,58,58867,-0.6837226800990269,Brazil,Rio de Janeiro,2014,11,110765.62,111071.12,65423.93
+Manager,IT,Specialized Products,Male,Asian,44,151481,0.2276313921323328,USA,Chicago,2019,6,110555.87,117845.74,122619.67
+Enterprise Engineer,IT,Specialized Products,Male,Asian,64,70516,-0.6837226800990269,China,Chengdu,1994,31,108518.71,107533.96,62471.53
+Analyst,Human Resources,Research and Development,Male,Latin,62,72025,-0.6837226800990269,Brazil,Manaus,2018,7,110765.62,109274.83,65423.93
+Analyst,Accounting,Large Companies,Male,Asian,55,65022,-0.6837226800990269,China,Chongqing,2011,14,108518.71,104913.33,65423.93
+Analyst,Marketing,Specialized Products,Female,Asian,57,51415,-0.6837226800990269,USA,Columbus,2008,17,110555.87,106790.3,65423.93
+Analyst,Accounting,Production,Male,Asian,52,50775,-0.6837226800990269,USA,Seattle,2002,23,110555.87,100804.94,65423.93
+Manager,Accounting,Large Companies,Male,Asian,38,121546,0.14478102192948197,China,Shanghai,2011,14,108518.71,103324.24,122619.67
+Test Engineer,Engineering,Research and Development,Female,Latin,45,92037,-0.6837226800990269,USA,Phoenix,2007,18,110555.87,113431.1,81257.92
+Manager,Accounting,Production,Male,Black,52,129231,0.061930651726631,USA,Miami,2002,23,110555.87,111679.74,122619.67
+Cloud Infrastructure Engineer,IT,Production,Female,Black,59,92216,-0.6837226800990269,USA,Chicago,1993,32,110555.87,117845.74,74141.06
+Manager,Accounting,Large Companies,Male,Latin,42,138215,0.31048176233518365,Brazil,Manaus,2005,20,110765.62,109274.83,122619.67
+Network Engineer,IT,Production,Male,Asian,32,71674,-0.6837226800990269,USA,Chicago,2021,4,110555.87,117845.74,80432.44
+Director,Engineering,Specialized Products,Male,Asian,58,91729,0.3933321325380346,USA,Chicago,2003,22,110555.87,117845.74,154442.62
+Director,Accounting,Research and Development,Male,Asian,53,154141,1.4703869451750962,China,Chongqing,2018,7,108518.71,104913.33,154442.62
+Director,Engineering,Specialized Products,Female,Asian,45,183165,0.807583983552289,USA,Miami,2019,6,110555.87,111679.74,154442.62
+Manager,IT,Production,Male,Latin,55,68592,-0.020919718476219845,Brazil,São Paulo,2003,22,110765.62,111856.37,122619.67
+Manager,Accounting,Production,Male,Latin,56,121751,-0.020919718476219845,USA,Columbus,2015,10,110555.87,106790.3,122619.67
+Director,Engineering,Large Companies,Female,Latin,42,175391,1.3046862047693941,USA,Austin,2005,20,110555.87,112919.81,154442.62
+Manager,Human Resources,Specialized Products,Male,Asian,39,126350,-0.2694708290847725,USA,Austin,2008,17,110555.87,112919.81,122619.67
+Manager,Human Resources,Specialized Products,Female,Asian,39,128497,-0.10377008867907069,China,Chengdu,2018,7,108518.71,107533.96,122619.67
+Director,Marketing,Large Companies,Female,Asian,47,163922,1.0561350941608418,USA,Phoenix,2014,11,110555.87,113431.1,154442.62
+Technical Engineer,IT,Research and Development,Female,Black,43,83323,-0.6837226800990269,USA,Phoenix,2013,12,110555.87,113431.1,72277.69
+Director,Accounting,Specialized Products,Female,Asian,58,150633,0.8904343537551399,USA,Phoenix,2010,15,110555.87,113431.1,154442.62
+Director,IT,Production,Female,Asian,65,164102,1.8017884259864994,USA,Columbus,1996,29,110555.87,106790.3,154442.62
+Manager,Marketing,Specialized Products,Male,Black,31,159121,0.4761825027408856,USA,Phoenix,2018,7,110555.87,113431.1,122619.67
+Development Manager,IT,Research and Development,Female,Asian,27,99612,-0.6837226800990269,China,Shanghai,2021,4,108518.71,103324.24,88231.08
+Analyst,Accounting,Research and Development,Female,Asian,49,95033,-0.6837226800990269,USA,Austin,1999,26,110555.87,112919.81,65423.93
+Analyst,Accounting,Production,Female,Asian,65,96897,-0.6837226800990269,China,Chengdu,1997,28,108518.71,107533.96,65423.93
+Manager,Human Resources,Large Companies,Male,Asian,40,73041,-0.6837226800990269,China,Shanghai,2018,7,108518.71,103324.24,122619.67
+Analyst,Accounting,Research and Development,Male,Asian,27,73203,-0.6837226800990269,USA,Miami,2022,3,110555.87,111679.74,65423.93
+Manager,Accounting,Research and Development,Male,Latin,61,156512,0.3933321325380346,Brazil,Rio de Janeiro,2006,19,110765.62,111071.12,122619.67
+Analyst,Accounting,Large Companies,Male,Asian,50,54646,-0.6837226800990269,USA,Seattle,2002,23,110555.87,100804.94,65423.93
+Manager,Accounting,Research and Development,Female,Asian,39,122058,0.4761825027408856,China,Beijing,2012,13,108518.71,118365.36,122619.67
+Assistant,IT,Large Companies,Female,Latin,46,192286,1.9674891663922014,Brazil,Rio de Janeiro,2020,5,110765.62,111071.12,219659.46
+Business Partner,Human Resources,Large Companies,Male,Asian,55,47696,-0.6837226800990269,USA,Seattle,2001,24,110555.87,100804.94,51684.79
+Technical Engineer,Accounting,Large Companies,Male,Asian,33,89759,-0.6837226800990269,China,Chongqing,2022,3,108518.71,104913.33,72277.69
+Technical Engineer,IT,Specialized Products,Female,Asian,39,63259,-0.6837226800990269,USA,Chicago,2009,16,110555.87,117845.74,72277.69
+Assistant,Marketing,Production,Male,Asian,31,189403,2.2988906472036046,China,Shanghai,2019,6,108518.71,103324.24,219659.46
+Assistant,Engineering,Specialized Products,Female,Asian,26,249062,2.5474417578121575,USA,Miami,2022,3,110555.87,111679.74,219659.46
+Director,Engineering,Specialized Products,Female,Asian,32,68780,-0.6837226800990269,China,Beijing,2014,11,108518.71,118365.36,154442.62
+Test Engineer,Engineering,Research and Development,Male,Latin,45,84309,-0.6837226800990269,Brazil,Manaus,2017,8,110765.62,109274.83,81257.92
+Technical Engineer,Accounting,Research and Development,Female,Asian,51,50975,-0.6837226800990269,China,Chengdu,2018,7,108518.71,107533.96,72277.69
+Analyst,Marketing,Specialized Products,Male,Asian,50,96297,-0.6837226800990269,USA,Miami,1996,29,110555.87,111679.74,65423.93
+Test Engineer,Engineering,Research and Development,Male,Asian,46,79294,-0.6837226800990269,China,Chengdu,2003,22,108518.71,107533.96,81257.92
+Analyst,Accounting,Large Companies,Male,Asian,65,63853,-0.6837226800990269,USA,Austin,1998,27,110555.87,112919.81,65423.93
+Network Manager,IT,Production,Male,Asian,62,66227,-0.6837226800990269,USA,Phoenix,2004,21,110555.87,113431.1,76039.56
+Analyst,IT,Production,Female,Latin,31,73612,-0.6837226800990269,Brazil,Rio de Janeiro,2015,10,110765.62,111071.12,65423.93
+System Manager,IT,Large Companies,Male,Asian,45,81384,-0.6837226800990269,China,Beijing,2004,21,108518.71,118365.36,84523.89
+Analyst,Accounting,Production,Male,Black,47,66138,-0.6837226800990269,USA,Phoenix,2015,10,110555.87,113431.1,65423.93
+Development Engineer,Engineering,Large Companies,Male,Asian,29,74901,-0.6837226800990269,USA,Austin,2022,3,110555.87,112919.81,87506.86
+Manager,Accounting,Production,Male,Asian,61,101517,0.061930651726631,USA,Seattle,2003,22,110555.87,100804.94,122619.67
+Director,IT,Production,Male,Asian,45,150558,1.2218358345665437,China,Chongqing,2017,8,108518.71,104913.33,154442.62
+Manager,Human Resources,Research and Development,Female,Asian,51,104008,0.14478102192948197,China,Beijing,2020,5,108518.71,118365.36,122619.67
+Enterprise Engineer,IT,Specialized Products,Female,Asian,32,73135,-0.6837226800990269,USA,Phoenix,2021,4,110555.87,113431.1,62471.53
+Manager,Human Resources,Large Companies,Female,Asian,55,128954,-0.2694708290847725,USA,Phoenix,2005,20,110555.87,113431.1,122619.67
+Enterprise Engineer,IT,Production,Male,Asian,52,60784,-0.6837226800990269,USA,Austin,2018,7,110555.87,112919.81,62471.53
+Analyst,Human Resources,Research and Development,Female,Asian,51,72589,-0.6837226800990269,USA,Austin,2011,14,110555.87,112919.81,65423.93
+Technical Engineer,Accounting,Large Companies,Male,Latin,34,80655,-0.6837226800990269,Brazil,São Paulo,2022,3,110765.62,111856.37,72277.69
+Manager,Human Resources,Large Companies,Male,Latin,49,152911,0.14478102192948197,Brazil,Rio de Janeiro,2014,11,110765.62,111071.12,122619.67
+Technical Engineer,Accounting,Research and Development,Male,Latin,49,75814,-0.6837226800990269,USA,Chicago,2005,20,110555.87,117845.74,72277.69
+Analyst,Accounting,Specialized Products,Male,Asian,38,54713,-0.6837226800990269,USA,Columbus,2013,12,110555.87,106790.3,65423.93
+Network Engineer,IT,Large Companies,Male,Latin,64,72772,-0.6837226800990269,Brazil,Manaus,1997,28,110765.62,109274.83,80432.44
+Manager,Accounting,Large Companies,Female,Asian,54,158403,0.4761825027408856,USA,Seattle,2011,14,110555.87,100804.94,122619.67
+Analyst,Accounting,Large Companies,Female,Asian,49,50012,-0.6837226800990269,USA,Seattle,2021,4,110555.87,100804.94,65423.93
+Assistant,Accounting,Research and Development,Female,Asian,39,189823,2.464591387609307,USA,Columbus,2011,14,110555.87,106790.3,219659.46
+Manager,IT,Large Companies,Female,Asian,33,124404,0.31048176233518365,China,Chongqing,2018,7,108518.71,104913.33,122619.67
+Assistant,IT,Large Companies,Male,Black,39,239395,2.0503395365950525,USA,Seattle,2010,15,110555.87,100804.94,219659.46
+Assistant,Accounting,Production,Male,Asian,28,201013,1.8846387961893505,USA,Phoenix,2018,7,110555.87,113431.1,219659.46
+Director,Marketing,Specialized Products,Female,Black,53,163480,0.5590328729437363,USA,Columbus,2013,12,110555.87,106790.3,154442.62
+Network Engineer,IT,Large Companies,Male,Latin,33,84317,-0.6837226800990269,Brazil,Rio de Janeiro,2022,3,110765.62,111071.12,80432.44
+Analyst,IT,Production,Female,Asian,27,51133,-0.6837226800990269,USA,Chicago,2021,4,110555.87,117845.74,65423.93
+Manager,Marketing,Large Companies,Female,Asian,27,118304,-0.10377008867907069,China,Shanghai,2022,3,108518.71,103324.24,122619.67
+Manager,Marketing,Research and Development,Female,Asian,63,106880,-0.020919718476219845,USA,Austin,2005,20,110555.87,112919.81,122619.67
+Business Partner,Human Resources,Large Companies,Female,Latin,43,59514,-0.6837226800990269,Brazil,Rio de Janeiro,2006,19,110765.62,111071.12,51684.79
+Manager,Human Resources,Specialized Products,Male,Asian,63,106481,-0.2694708290847725,China,Beijing,2004,21,108518.71,118365.36,122619.67
+Assistant,Human Resources,Production,Female,Asian,50,216787,2.0503395365950525,China,Beijing,2011,14,108518.71,118365.36,219659.46
+Analyst,IT,Specialized Products,Male,Asian,53,55039,-0.6837226800990269,USA,Seattle,2000,25,110555.87,100804.94,65423.93
+Manager,Marketing,Specialized Products,Female,Asian,53,125099,-0.020919718476219845,China,Chengdu,2014,11,108518.71,107533.96,122619.67
+Analyst,Accounting,Research and Development,Male,Latin,47,83793,-0.6837226800990269,USA,Miami,2007,18,110555.87,111679.74,65423.93
+Analyst,Marketing,Specialized Products,Male,Asian,42,40778,-0.6837226800990269,China,Chengdu,2008,17,108518.71,107533.96,65423.93
+Manager,Accounting,Specialized Products,Male,Latin,41,113246,-0.18662045888192166,USA,Chicago,2014,11,110555.87,117845.74,122619.67
+Analyst,Marketing,Specialized Products,Female,Latin,25,70126,-0.6837226800990269,Brazil,São Paulo,2021,4,110765.62,111856.37,65423.93
+Analyst,Accounting,Research and Development,Female,Asian,33,64327,-0.6837226800990269,China,Chongqing,2020,5,108518.71,104913.33,65423.93
+Analyst,Marketing,Specialized Products,Male,Asian,43,79090,-0.6837226800990269,China,Chengdu,2007,18,108518.71,107533.96,65423.93
+Director,Accounting,Production,Female,Asian,36,151055,0.8904343537551399,USA,Columbus,2015,10,110555.87,106790.3,154442.62
+Enterprise Engineer,IT,Large Companies,Female,Latin,53,52675,-0.6837226800990269,Brazil,Manaus,2013,12,110765.62,109274.83,62471.53
+Manager,IT,Specialized Products,Male,Asian,55,103726,-0.020919718476219845,China,Shanghai,1994,31,108518.71,103324.24,122619.67
+Analyst,Human Resources,Specialized Products,Male,Latin,34,55985,-0.6837226800990269,USA,Seattle,2012,13,110555.87,100804.94,65423.93
+Analyst,Accounting,Research and Development,Male,Asian,54,53931,-0.6837226800990269,USA,Columbus,1998,27,110555.87,106790.3,65423.93
+Analyst,Marketing,Specialized Products,Female,Asian,26,51825,-0.6837226800990269,USA,Phoenix,2020,5,110555.87,113431.1,65423.93
+Analyst,Human Resources,Specialized Products,Female,Asian,62,51454,-0.6837226800990269,USA,Seattle,1999,26,110555.87,100804.94,65423.93
+Assistant,Accounting,Specialized Products,Female,Asian,55,213998,2.133189906797903,USA,Miami,1999,26,110555.87,111679.74,219659.46
+Manager,IT,Production,Female,Asian,47,155600,0.4761825027408856,China,Chongqing,2010,15,108518.71,104913.33,122619.67
+Manager,Accounting,Specialized Products,Male,Asian,46,126704,0.4761825027408856,USA,Phoenix,2015,10,110555.87,113431.1,122619.67
+Assistant,Engineering,Specialized Products,Male,Asian,46,195471,2.2988906472036046,USA,Phoenix,2007,18,110555.87,113431.1,219659.46
+Analyst,Accounting,Research and Development,Female,Latin,45,86303,-0.6837226800990269,USA,Phoenix,2005,20,110555.87,113431.1,65423.93
+Network Manager,IT,Production,Female,Asian,50,63884,-0.6837226800990269,USA,Miami,2013,12,110555.87,111679.74,76039.56
+Analyst,Marketing,Research and Development,Female,Asian,57,73117,-0.6837226800990269,USA,Columbus,1996,29,110555.87,106790.3,65423.93
