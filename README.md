@@ -34,7 +34,7 @@ salary-prediction/
 │   ├── processing.py
 │   ├── model.py
 │   ├── predict.py
-│   └── evaluate.py
+│   └── validation.py
 ├── models/
 ├── notebooks/
 ├── results/
