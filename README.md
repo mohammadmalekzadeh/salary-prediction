@@ -21,18 +21,6 @@ Ideal for: HR analytics, job-market insights, compensation benchmarking.
 
 ```
 
-## ⚙️ Prerequisites
-```python
-    - numpy
-    - pandas
-    - matplotlib
-    - seaborn
-    - scikit-learn
-    - datetime
-    - joblib
-
-```
-
 
 ## 📁 Project Structure
 ```
@@ -40,6 +28,7 @@ salary-prediction/
 ├── data/
 │   ├── raw/
 │   ├── true_values/
+│   ├── test_data/
 │   └── processed/
 ├── src/
 │   ├── processing.py
@@ -51,6 +40,7 @@ salary-prediction/
 ├── results/
 ├── rports/
 │   └── chart/
+│   └── models/
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
