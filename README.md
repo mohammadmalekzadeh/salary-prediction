@@ -21,7 +21,7 @@ Ideal for: HR analytics, job-market insights, compensation benchmarking.
 
 ```
 
-## 🖇 Prerequisites
+## ⚙️ Prerequisites
 ```python
     - numpy
     - pandas
@@ -31,15 +31,6 @@ Ideal for: HR analytics, job-market insights, compensation benchmarking.
     - datetime
     - joblib
 
-```
-
-## ⚙️ Installation
-```bash
-    - git clone https://github.com/mohammadmalekzadeh/salary-prediction.git
-    - cd salary-prediction
-    - python3 -m venv venv
-    - source venv/bin/activate
-    - pip install -r requirements.txt
 ```
 
 
@@ -64,36 +55,6 @@ salary-prediction/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-```
-
-## 🧠 Usage
-
-### 1. Preprocessing  
-```bash
-python src/processing.py --data data/raw/train_data.csv --output data/processed/
-```
-
-### 2. Training  
-```bash
-python src/model.py \
-  --train data/processed/train_encoding_data.csv \
-  --val data/true_values/y_true.csv \
-  --model_output models/salary.model
-```
-
-### 3. Prediction  
-```bash
-python src/predict.py \
-  --model models/salary.model \
-  --input data/predict/new_samples.csv \
-  --output results/predictions.csv
-```
-
-### 4. Evaluation  
-```bash
-python src/evaluate.py \
-  --predictions results/predictions.csv \
-  --ground_truth data/true_values/y_true.csv
 ```
 
 
