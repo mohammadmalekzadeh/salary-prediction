@@ -23,13 +23,13 @@ Ideal for: HR analytics, job-market insights, compensation benchmarking.
 
 ## 🖇 Prerequisites
 ```python
-    - numpy==1.24.3
-    - pandas==2.1.3
-    - matplotlib==3.10.1
-    - seaborn==0.13.2
-    - scikit-learn==1.6.1
-    - datetime==5.5
-    - joblib==1.5.1
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
+    - scikit-learn
+    - datetime
+    - joblib
 
 ```
 
