@@ -1,4 +1,4 @@
-# Salary Prediction Project 💰
+# 💰 Salary Prediction Project
 
 ## 🔍 Introduction
 This project predicts individual salary using machine learning techniques applied on a structured dataset of personal and professional attributes (e.g., years of experience, location).  
