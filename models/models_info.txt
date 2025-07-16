@@ -1,9 +1,0 @@
-models_list = [
-    ('lr', LinearRegression()),
-    ('dt', DecisionTreeRegressor(max_depth=10, random_state=42)),
-    ('rf', RandomForestRegressor(n_estimators=50, max_depth=8, n_jobs=-1, random_state=42)),
-    ('mlp', MLPRegressor(hidden_layer_sizes=(64, 64), max_iter=500, activation='relu', solver='adam', n_iter_no_change=True, random_state=42)),
-    ('gb', GradientBoostingRegressor(n_estimators=50, learning_rate=0.1, max_depth=3, random_state=42)),
-    ('et', ExtraTreesRegressor(n_estimators=50, max_depth=10, n_jobs=-1, random_state=42)),
-    ('xgb', XGBRegressor(n_estimators=50, max_depth=4, learning_rate=0.1, subsample=0.8, colsample_bytree=0.8, n_jobs=-1, random_state=42))
-    ]
