@@ -34,7 +34,7 @@ salary-prediction/
 │   ├── processing.py
 │   ├── model.py
 │   ├── predict.py
-│   ├── base_model_selcting.py
+│   ├── best_model_selcting.py
 │   └── validation.py
 ├── models/
 ├── notebooks/
