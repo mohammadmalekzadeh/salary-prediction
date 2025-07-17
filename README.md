@@ -10,6 +10,12 @@ Ideal for: HR analytics, job-market insights, compensation benchmarking.
 - **Model**: regression algorithm (e.g., Random Forest / Neural Networks / SVR), hyperparameter tuning.  
 - **Outputs**: salary estimates, RMSE & MAE evaluation
 
+## 📌 Result Summary
+For this project and salary prediction, **```GradientBoostingRegressor M.L. Model```** had the best accuracy
+- **Mean Absolute Error Score**: ```14202.455179618468```
+- **Mean Squared Error Score**: ```302895035.97748834```
+- **R2 Score**: ```0.8912808204649216```
+
 ## 🚀 Technologies Used
 ```bash
     - Jupyter Notebook
