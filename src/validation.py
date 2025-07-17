@@ -8,8 +8,8 @@ import joblib
 import os
 
 ### read test dataframe and models
-X_test = pd.read_csv('../data/test_data/X_test.csv')
-y_test = pd.read_csv('../data/test_data/y_test.csv')
+X_test = pd.read_csv('../data/validation_data/X_test.csv')
+y_test = pd.read_csv('../data/validation_data/y_test.csv')
 models_list = []
 models_name_list = {'lr': 'Linear Regression',
     'dt': 'Decision Tree Regressor',
