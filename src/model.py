@@ -16,8 +16,8 @@ data = pd.read_csv('../data/processed/train_encoding_data.csv')
 X = data.drop(columns='Annual_salary')
 y = data['Annual_salary']
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-X_test.to_csv('../data/test_data/X_test.csv', index=False)
-y_test.to_csv('../data/test_data/y_test.csv', index=False)
+X_test.to_csv('../data/validation_data/X_test.csv', index=False)
+y_test.to_csv('../data/validation_data/y_test.csv', index=False)
 
 ### definition models list
 models_list = [('lr', LinearRegression()),
