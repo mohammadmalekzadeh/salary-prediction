@@ -5,3 +5,7 @@ seaborn
 scikit-learn
 datetime
 joblib
+fastapi
+uvicorn
+pydantic
+sqlalchemy
