@@ -24,6 +24,10 @@ For this project and salary prediction, **```GradientBoostingRegressor M.L. Mode
     - Matplotlib
     - Seaborn
     - scikit-learn
+    - fastapi
+    - uvicorn
+    - pydantic
+    - sqlalchemy
 
 ```
 
@@ -31,9 +35,21 @@ For this project and salary prediction, **```GradientBoostingRegressor M.L. Mode
 ## 📁 Project Structure
 ```
 salary-prediction/
+├── api/
+│   ├── database/
+│       └── salary.db
+│   ├── insert/
+│       ├── insert_encodings.py
+│       └── insert_salary_stats.py
+│   ├── config.py
+│   ├── main.py
+│   ├── utlis.py
+│   ├── table.py
+│   └── schemas.py
 ├── data/
 │   ├── raw/
 │   ├── true_values/
+│   ├── encoding/
 │   ├── test_data/
 │   └── processed/
 ├── src/
@@ -46,7 +62,7 @@ salary-prediction/
 ├── notebooks/
 ├── results/
 ├── rports/
-│   └── chart/
+│   ├── chart/
 │   └── models/
 ├── requirements.txt
 ├── .gitignore
